@@ -1,0 +1,13 @@
+#Off limits
+
+Having an *off* in the title of a chapter in a book that also includes *off* in the title might put you *off* a little bit coming anywhere near what we are going to be talking about here.
+
+Which is good, because that is sort of my point.
+
+Every medium-size city includes some neighborhoods where locals, except, obviously, those that live there or have some errand to do and if so do it quickly and unconspicuously, neve set their foot in. Granada has a a few of those, and could have even more if gentrification in the shape of big stores had not kicked in. Even so, there is maybe a single area that is, quintesentially, [the place *not* to go](http://www.elotrolado.net/hilo_me-voy-a-granada-sitios-los-cuales-no-visitar_1274982), and that is the [Almanjáyar quarter](http://almanjayar.org/index.php?page=site.Home&portal=sitegoogle-site-verification%3A+google6bd22180a&control=). The [Wikipedia entry](http://es.wikipedia.org/wiki/Almanj%C3%A1yar) mentions that many people in Granada were there for the first time in 1983, when the Pope John Paul II gave a Mass there.
+
+>Incidentally, I was there too, brought by bus from my home town, Úbeda. I just saw a big flat field surrounded by what I though were high-rises. 
+
+You can get there off the bus station. Go across the street and continue straight ahead. What you will find will be new-ish buildings. The [whole area was built starting in 1965](http://es.wikipedia.org/wiki/Almanj%C3%A1yar), with some of the most conspicuous blocks, those that bear the name of the builder OSUNA, built later on, even in the 80s. Straight streets, which are used sometimes, or said to be used, for stolen car races, barrels with fire and people around them, and people just sitting around, doing nothing, which is only to be expected, since the unenployment rate hovers around 40%.
+
+After all this, aren't you discouraged to go there? You might even be encouraged if you have very specific needs, which, by the way, might be covered more safely elsewhere in Granada, but there is maybe one day during the week where you can safely go there, and it is on Sunday mornings when the flea market is set up. Mind you, it is a flea market and there is not much to do other than taking a walk around the aisled, checkout out the peddlers, which, in many cases, are even natives of the same quarter, maybe buying something you need or something you do not need but is so dirt cheap that you cannot just refuse to buy it. But you might get a glimpse of the people that live there, look at the heights, wander a bit, just a bit, off the shacks and drink a coffee in one of the bars, and you might even want to return another day and find it is not so bad as it is usually painted. Even here.
