@@ -1,0 +1,5 @@
+#Eccentrics and oddballs
+
+If you are looking for somebody a bit odd among the *normal* citizens of Granada, you might not need to go further than yourself, even more so if you are wearing a cap with the bill sideways, flowery shirt open at the front, and the biggest eccentricity of them all: socks and sandals.
+
+However, I am not talking about yourself, or not only about yourself, in this chapter. There are characters in the narrative of a city that, due to its presence in many acts, eventually become part, if not archetypes, of the city itself. These are the holy fools of yore and, nowadays, just people that you might know by name but, above that, by its behavior and the eccentricity that defines them. That is why I will not use their name, even if I know it.
