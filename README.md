@@ -1,7 +1,7 @@
-Granada Hacks
+Granada Off
 ===========
 
-Granada Off the Beaten Track, a set of experiencies you should not miss on your third or fourth visit.
+Granada Off the Beaten Track, a set of experiences you should not miss on your third or fourth visit.
 
 ## Why
 
