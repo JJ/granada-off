@@ -18,3 +18,7 @@ I should, shouldn't I? It's unavoidable, but there are excellent books to learn 
 ## But, again, why?
 
 Lately I have been hanging around in [Quora](http://quora.com) and they ask all kinds of stuff about Spain, Granada, and I keep answering them in a haphazard way. With this, I pretend to answer and then point them to this repo and/or the Kindle book that will result from it. 
+
+## Let me take a peek
+
+Just go to the [`text`](text) directory and start browsing. 
