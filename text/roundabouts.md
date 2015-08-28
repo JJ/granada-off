@@ -69,6 +69,7 @@ before taking the road. You say helicopter, I say hobo dwelling:
 someone started to live there and had to be ousted by the police. Hey,
 you can not beat the views.
 >Actually, that is fake. Not the helicopter. The squatter.
+We love helicopter roundabouts in Granada, actually. There is another [with a fake helicopter in Ogíjares](http://www.granadahoy.com/article/granada/2019928/vueltas/con/las/rotondas.html), close to Alhendín. And sculptures.
 
 Remember next time you see *something* in the middle of a roundabout
 in the suburbs of Granada. Do not ask What the heck is *that*?. The
