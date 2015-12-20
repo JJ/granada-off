@@ -7,7 +7,7 @@ pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
     text/movable-feasts.md text/haunted.md text/snow.md \
     text/danger-castle.md text/fast-food.md text/water.md \
     text/buskers.md text/eccentrics-and-oddballs.md \
-    text/off-limits.md text/train-station.md
+    text/off-limits.md 
 
 
 
