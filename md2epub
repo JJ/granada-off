@@ -3,7 +3,8 @@
 
 
 pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
-    -o granadaoff.epub granada.txt  text/off-limits.md text/roundabouts.md \
+    -o granadaoff.epub granada.txt  text/prologue.md text/off-limits.md \
+    text/roundabouts.md \
      text/haunted.md \
     text/danger-castle.md text/fast-food.md text/water.md \
     text/buskers.md  
