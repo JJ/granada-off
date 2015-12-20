@@ -10,7 +10,7 @@ When I started, it was the 30th year I have been living in Granada. Every day I 
 ## The title
 
 This book might be called Granada hacks. It might still be, in some
-future edition. *Hacks* is the title of a series of books that tell you how to use programming languages, or whatever (there is even a Mind Hacks) in ways you had not tought about before. This book will be more or less the same. It will tell you how to live and experience and do Granada (and maybe somewhere else) in a new way.
+future edition. *Hacks* is the title of a series of books that tell you how to use programming languages, or whatever (there is even a Mind Hacks) in ways you had not thought about before. This book will be more or less the same. It will tell you how to live and experience and do Granada (and maybe somewhere else) in a new way.
 
 ## You got me. But will you speak about the Alhambra?
 

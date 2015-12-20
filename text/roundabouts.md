@@ -19,7 +19,7 @@ proportions that some newspapers are looking for the
 [ten ugliest roundabouts in Spain](http://blogs.publico.es/strambotic/2014/04/rotondismo/),
 and it was hard work, there is even a full
 [website](http://www.nacionrotonda.com/) devoted to them, comparing
-the situation before adn after. The article above there are 23000
+the situation before and after. The article above there are 23000
 roundabouts in Spain. Fortunately, we have quite a few in Granada.
 
 In order to enjoy them fully, the best examples are on the GR-3303
@@ -27,7 +27,7 @@ road which starts on the upper left corner of the Parque de las
 Ciencias, between the Tico Medina park and the BMN buildings.
 >I will have to write a chapter on these, too...
 
-That road skims the outskirst of Granada, a dairy farm, and glorious
+That road skims the outskirts of Granada, a dairy farm, and glorious
 examples of the art of the roundabout. But the thing about roundabouts
 is that once they are there, you cannot just let them become overgrown
 week cupolas. You have to do *something*. That something is, almost
