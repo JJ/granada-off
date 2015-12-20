@@ -14,17 +14,18 @@ Escolapios school, the Mercadona, and, lately, the LAC. He was playing
 an instrument that, at first sight, looked like a pregnant banjo but,
 on second tought, was probably a
 [*kora*](http://en.wikipedia.org/wiki/Kora_%28instrument%29), which
-made the person singint a *griot*, or, better, a *jali*. He seemed
+made the person using itt a *griot*, or, better, a *jali*. He seemed
 inmensely happy, smile and music not falling from his lips for the
 whole time I was there, and his song seemed, at the same time, a happy
 story but with a sad, lamenting, undercurrent.
 
 >It is probably not a kora, but a
 >[N'Goni](http://en.wikipedia.org/wiki/Ngoni_%28instrument%29). However,
->difficult to know the difference for me. 
+>it is
+>nearly impossible for me to make out the differences between them. 
 
 Later on I watched
-[*El ritmo de las calle* (the street beat)](http://www.asociacionprensa.org/es/noticias/noticias-de-comunicaci%C3%B3n/2844-el-documental-%E2%80%98al-ritmo-de-la-calle%E2%80%99-se-estrena-el-pr%C3%B3ximo-20-de-octubre-en-cinesur-nervi%C3%B3n-plaza.html),
+[*El ritmo de la calle* (The street beat)](http://www.asociacionprensa.org/es/noticias/noticias-de-comunicaci%C3%B3n/2844-el-documental-%E2%80%98al-ritmo-de-la-calle%E2%80%99-se-estrena-el-pr%C3%B3ximo-20-de-octubre-en-cinesur-nervi%C3%B3n-plaza.html),
 where he is featured along with many other street musicians of all
 kinds and procedences. His name is Ibrahim Diakité, and he apparently
 lives in Granada. In fact, I saw him again in the self same place, by
