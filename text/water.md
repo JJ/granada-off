@@ -22,7 +22,7 @@ tasting tap water in Granada. And that is something I have found
 rather late in life. Many people prefer the water they have palated in
 their hometown. But in Úbeda, were I was born and raised, water
 carried so much lime that taps had to be routinely cleansed and
-showers dug out of the calcareous aglomeration they carried. Even so,
+showers dug out of the calcareous agglomeration they carried. Even so,
 it was not like I was getting out of Úbeda and saying, every time I
 drank a glass of water, "Hey, this is the stuff".
 
@@ -36,11 +36,12 @@ is all "what the hell, they call *this* water?".
 >different story.
 
 Tap water, everywhere in and around Granada, is really good. It is cool
-and fresh and does not have the tang of chemicals used in
+and fresh and does not have the usual tang of chemicals used in
 purification. Plus it is really safe. Mostly everywhere in Europe,
 really, but the taste and flavor will vary. It is really much better
-than most el cheapo bottled water and it comes very close to Lanjarón
-water from which it is not too different.
+than most *el cheapo* bottled water and it comes very close to
+Lanjarón bottled water since, in fact, they come from pretty much the
+same source.
 
 I guess the trick is that it comes fresh from the reservoirs that take
 water directly from Sierra Nevada. In
