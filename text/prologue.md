@@ -14,7 +14,7 @@ future edition. *Hacks* is the title of a series of books that tell you how to u
 
 ## You got me. But will you speak about the Alhambra?
 
-I should, shouldn't I? It's unavoidable, but there are excellent books to learn about its history and its art and its legends. So while it is going to be impossible to avoid, in principle there will be no Alhambra hack. Or maybe I should make it the first one to get it out of the way and continue with the rest.
+I should, should I not? It is unavoidable, but there are excellent books to learn about its history and its art and its legends. So while it is going to be impossible to avoid, in principle there will be no Alhambra hack. Or maybe I should make it the first one to get it out of the way and continue with the rest.
 
 ## But, again, why?
 

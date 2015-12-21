@@ -1,7 +1,7 @@
 # Buskers, street performers, mimes, flashmobs and other stuff mainly happening outdoors
 
 You might or might not find them, or by the time you read this maybe
-they've moved to some place sunnier and where their art is better
+they have moved to some place sunnier and where their art is better
 appreciated. But there are a few recurring remarkable characters some
 of which I will include here for the only reason I have seen them and
 liked them.

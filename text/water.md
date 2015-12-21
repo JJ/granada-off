@@ -38,7 +38,7 @@ is all "what the hell, they call *this* water?".
 Tap water, everywhere in and around Granada, is really good. It is cool
 and fresh and does not have the tang of chemicals used in
 purification. Plus it is really safe. Mostly everywhere in Europe,
-really, but the taste and flavour will vary. It is really much better
+really, but the taste and flavor will vary. It is really much better
 than most el cheapo bottled water and it comes very close to Lanjarón
 water from which it is not too different.
 
