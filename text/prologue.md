@@ -5,7 +5,7 @@ Granada Off the Beaten Track, a set of experiences you should not miss on your t
 
 ## Why
 
-When I started, it was the 30th year I have been living in Granada. Every day I follow a new path or double a corner to a street I have never been, I find new graffiti, a derelict house or a statue that very few people have seen and even less care about. One day I will have to write about it, and do it in English, just because.
+When I started this book, I had been living in Granada for thirty years. Every day I walk to my day job or walk about to vent off I try to follow a new path or double a corner to a street I have never been before, I find new graffiti, a derelict house that is derelicter or a statue that very few people have seen and even less care about. And I have always thought, one day I will have to write about this, and do it in English, just because.
 
 ## The title
 
