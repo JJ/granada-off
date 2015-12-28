@@ -18,22 +18,22 @@ Loosely translated as
 	A blind man in Granada
 
 It would be also a real pity if you did not have the pleasure of
-tasting tap water in Granada. And that is something I have found
+tasting tap water in Granada. And this fact is something I have found
 rather late in life. Many people prefer the water they have palated in
-their hometown. But in Úbeda, were I was born and raised, water
+their hometown, the place where they were born. But in Úbeda, were I was born and raised, water
 carried so much lime that taps had to be routinely cleansed and
 showers dug out of the calcareous agglomeration they carried. Even so,
 it was not like I was getting out of Úbeda and saying, every time I
 drank a glass of water, "Hey, this is the stuff".
 
-That happens to me when I get out of Granada. Really. The first time
+But that is exactly what happens to me when I get out of Granada. Really. The first time
 you stop at a roadside café, two hours into foreign territory, and, it
 is all "what the hell, they call *this* water?".
 
 >Except in Vienna. They have wonderful tap water there. So wonderful
 >that they created a monument to it right in front of the monument to
 >the soviet soldier that they wanted to hide. But that is a completely
->different story.
+>different story. They also have excellent tap water in Iceland, if you let it flow for a good while after having used hot water and the sulphur smell and taste that goes with it. 
 
 Tap water, everywhere in and around Granada, is really good. It is cool
 and fresh and does not have the usual tang of chemicals used in
@@ -56,6 +56,6 @@ and [Quéntar](http://es.wikipedia.org/wiki/Embalse_de_Qu%C3%A9ntar)
 water does not have a long run from the snow and ice of the Sierra, so
 it is pristine when it, eventually, arrives to your glass.
 
-You will not probably be able to take it home, but its taste (or
-complete absence) is
-something that will linger on for a long time. Guaranteed.
+You will not probably be able to take it home, because it will be dutifully requisitioned by the airport rent-a-cops, but its taste, or
+complete absence, is
+something that will linger on your tongue for a long time. Guaranteed.
