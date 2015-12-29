@@ -22,9 +22,15 @@ If you are into big machines, walk from that roundabout, or take the LAC, and go
 
 That tram was, for some time, placed in la [Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It might or might not be there by the time you read this, since it was taken for restoration and has not returned. However, there is another steam engine parked there and you can always check [the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias), which was projected and built in the sixties although it has had lots of additions. There is some fodder for geeks inside the building, where all kind of sciences, from Physics to Geology, are studied. To the right hand side, the Physics building houses a Foucault pendulum, and going from there to the main building, the library to the right hand side houses scientific journals from early on, the fifties and even before that. I have spent there a good part of my studies in the eighties, and I was elated to find an article by Einstein himself, published in the fifties in some Physics journal. Quite an interesting, if a bit over the top of my head, reading.
 
-The main hall has all kind of widgets and, from there on, the biology buildig has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
+The main hall has all kind of widgets: rockets, other engines, maybe some other temporary exhibitions,  and, from there on, the biology building has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
 
 If you go across the parking to the next building and ask nicely, you might be able to visit [Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which is not open to the public but there will probably be someone proud enough in [computing services of the University](http://csirc.ugr.es) to show it to you. That is the precise building where the ur-geeks of the eighties spent our time, because it housed the first computer lab, filled with IBM XTs, and where you had to dress nicely, no shorts, if you did not want to be expelled by the janitors. This building housed the university mainframes for some time, and it still has a big data center.
+
+If you want to see one of those computers, you will have to catch the SN3 bus to the [ETSIIT](http://etsiit.ugr.es), which is a geek place if there is one in Granada. You cannot miss the stop: where the nerd-looking guys get down, that is the place
+
+>It is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
+
+The main hall is graced by a big IBM mainframe, together with all its peripherals: disk drum, data entry console, all the rest. But it did not belong to the University, but to some pioneering computing company in Granada called *Centro de Cálculo de Granada*, which has completely vanished. 
 
 
 
