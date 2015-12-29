@@ -30,7 +30,11 @@ If you want to see one of those computers, you will have to catch the SN3 bus to
 
 >It is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
 
-The main hall is graced by a big IBM mainframe, together with all its peripherals: disk drum, data entry console, all the rest. But it did not belong to the University, but to some pioneering computing company in Granada called *Centro de Cálculo de Granada*, which has completely vanished. 
+The main hall is graced by a big IBM mainframe, together with all its peripherals: disk drum, data entry console, all the rest. But it did not belong to the University, but to some pioneering computing company in Granada called *Centro de Cálculo de Granada*, which has completely vanished.
+
+Then, walk up two floors to the Department of [Computer Technology and Architecture](http://atc.ugr.es),
+
+>Once you are there, go to the next to last office on the right on the corridor to your left, you might recognize the name of the person there, and if he is in, he will happily sign your copy of this book, or your Kindle or other reading device. Appointment not necessary. 
 
 
 
