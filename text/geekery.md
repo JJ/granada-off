@@ -36,7 +36,15 @@ Then, walk up two floors to the Department of [Computer Technology and Architect
 
 >Once you are there, go to the next to last office on the right on the corridor to your left, you might recognize the name of the person there, and if he is in, he will happily sign your copy of this book, or your Kindle or other reading device. Appointment not necessary. 
 
+To the right of the entrance door there is a vitrine with the history of computing as seen from the department. You can see there from *portable* computers from the early 90s, through all kind of peripherals, including a hand scanner that belonged to me, to chips that were designed from scratch in our very own department. All of it neither catalogued, nor labelled, nor acknowledged. We do not even know if it works or not, and it is closer to a storage closet than to a real museum. However, maybe some time from now, maybe even by the time you read this, someone with an interest in retro computing will use it for a master's degree project or a PhD. Or just out of spite, to give it a big of dignity.
 
+When you get out of the building, you might want to visit the biggest data center in Andalucía, the [Cloud Center Andalucía](http://cca.trevenque.es/).
+
+>Incidentally, you will go past one of the establishments we talked about in the chapter on whorehouses, the Don Pepe. None are too far, so using a pit stop as an excuse to be there is not an option.
+
+You will not be able to see anything from outside, other than the ditch that connects it to the railway, a few meters away, where the fiber actually goes. But you can [request a visit](http://cca.trevenque.es/instalaciones/) and you will be able to see the watertight rooms where all the racks are stored, the firefighting measures, and the hum of twenty-first century computing all around you. Which is something all geeks love and crave.
+
+>Visits are only available under requests, and then only for a good reason and in a group. So you might want to gather at least half a dozen of friends to do it, and request it well in advance. 
 
 
 
