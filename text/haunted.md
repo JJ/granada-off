@@ -14,5 +14,5 @@ for the garden, it's got all the rest. Plus stone balconies, an iron
 
 gate, a stone balustrade, and a door into a windowless room. I would love
 to see it from inside. Except I cannot, that is why it is included in
-this "haunted" chapter.
+this "haunted" chapter. It would be an excellent target for urban exploration, as is the next one placed in el Barranco del Abogado. 
 
