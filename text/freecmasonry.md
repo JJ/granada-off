@@ -1,6 +1,6 @@
-#Francmasonry in Granada
+#Freemasonry in Granada
 
-For those in the know, Granada itself is a symbol of francmasonry. Its main symbol is a pomegranate, *granada* in Spanish, a fruit that can be found all over the city. At the beginning of the Paseo del Salón there is a pomegranate fountain, bollards are capped by huge pomegranates, and in a roundabout that dots the incoming road from Jaén, a huge pomegranate greets the visitor.
+For those in the know, Granada itself is a symbol of freemasonry. Its main symbol is a pomegranate, *granada* in Spanish, a fruit that can be found all over the city. At the beginning of the Paseo del Salón there is a pomegranate fountain, bollards are capped by huge pomegranates, and in a roundabout that dots the incoming road from Jaén, a huge pomegranate greets the visitor.
 
 >That roundabout is the intersection of other two chapters, the one about roundabouts and the one about whorehouses and other sex-trading places. And now this one. Actually, it is going to become the keystone to the whole city.
 
