@@ -1,10 +1,12 @@
 #The best university in Granada
 
->There is only one university in Granada. So that thing above is a joke. Laughs accepted. Thanks.
+>There is only one university in Granada. So that thing above is a joke. Laughs accepted; in fact, they are compulsory. Thanks.
 
-Granada is an university city, thanks mainly to the [UGR](http://ugr.university), which is one of the biggest in Spain and includes more than fifty thousand students. In a city with five times that population, that implies that Granada lives and breathes through its university.
+Granada is an university city, thanks mainly to the [UGR](http://ugr.university), which is one of the biggest in Spain and includes more than fifty thousand students. In a city with five times that population, that implies that Granada lives and breathes through its university. And that is literal in a sense: [almost 5% of the provincial income stems from the university](http://www.ideal.es/granada/v/20120503/granada/motores-granada-20120503.html) and eleven thousand jobs, which is 3.5% of the total employment in the province.
 
-Off the top of my head, and outside the in-the-beaten track fact that some buildings are old and Gothic and venerable, they are great resources for a couple of things: WiFi and lavatories.
+And that has happened for some time now, being also one of the oldest universities in Spain, so this is bound to have an impact on the city landscape. However, most of it is *in* the beaten track. 
+
+So, fff the top of my head, and outside that in-the-beaten track fact that some buildings are old and Gothic and venerable, university buildings are great resources for a couple of things: WiFi and lavatories.
 
 >In fact, I am big fan of universities everywhere for the sanitary services they provide. When touristing, I always follow the old adage "Pee when you can, not when you want" so if you pass by an university building, just walk confidently in and look for the lavatories, in the corridor straight ahead and to your left.
 
