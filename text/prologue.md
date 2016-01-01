@@ -20,6 +20,16 @@ I should, should I not? It is unavoidable, but there are excellent books to lear
 
 Lately I have been hanging around in [Quora](http://quora.com) and they ask all kinds of stuff about Spain, Granada, and I keep answering them in a haphazard way. With this, I pretend to answer and then point them to this repo and/or the Kindle book that will result from it. 
 
+## Instructions for use
+
+I have not tried to build a narrative out of the different parts of this book. I really doubt there is one, a city and the people that live in it are just there, and same as there is not a single route to visit the city, there is no single history that can be told around experiences and objects in a particular city like Granada. So after reading the tips that are in the first chapter, you can jump around from one section to the next, or read just a few lines and start exploring the city using Lonely Planet, only please come back here afterwards. If you want, of course.
+
+The text has also lots of hyperlinks inserted. If your ebook reader includes a browser, feel free to follow them in the same spirit as before. Unluckily, I have not been able to find English references for everything, but I have provided them whenever possible. They are mostly sources for what I am talking about, so if you think ""What the heck is this guy saying" by all means click on them and rest assured that the outrageous lie that is written on the page is confirmed by at least another outrageous complicit.
+
+That does not mean that this book is not intended for actual browsing in dead tree form; that form is a good vehicle for showing your love to a dear friend who will visit Granada or who you intend to leave green with envy after your own visit to Granada. Both are valid and endorsed by this author.
+
+I really encourage you to email me or reach out to me in Twitter for suggestions, criticism, compliments and, of course, to correct mistakes of which there must be quite a few. As a self-published author without the luxury, and also the burden, of an editor, I must rely on kind strangers to provide me with help in these matters. Only if you have acquired this book you will no longer be a stranger. You will keep being kind, I hope. 
+
 ## Enjoy
 
 Go to the next page and have fun. Better if you are on site.
