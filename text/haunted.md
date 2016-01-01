@@ -26,11 +26,11 @@ You will find many more in that area and anywhere else in Granada; there is no d
 
 The pagoda-like aspect of its roofs might or might not be the reason why [a Buddhist group called The Way of the Diamond has acquired it recently](http://www.granadahoy.com/article/granada/2140758/villa/montserrat/lugar/para/meditar.html) for [360.000€, which seems like a incredibly good price](http://buildingthepower.com/proyecto/).
 
-> A hundred thousand less will not buy you an appartment just up the street, in the Bola de Oro neighborhood.
+> A hundred thousand less will not buy you an apartment just up the street, in the Bola de Oro neighborhood.
 
 If you are into meditation, you might do a bit of haunting yourself in site for a fair price, although by the end of 2015 they seem to offer only [workouts cleaning the space](http://buildingthepower.com/#home).
 
-But you can work out just walking around, looking up, and check out wrought iron balconies, boarded-shut windows and "for sale" signs for your next haunting or urban exploration target. Places like the so-called *Hotel del reúma*, "rheumatism hotel", right below the Alhambra and Vela tower, which has been closed for ever but that was a nice place in the forties, derelict *cármenes* in the Albayzín, and, of course, the haunted appartment blocks that dot the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, mainly after dark.  
+But you can work out just walking around, looking up, and check out wrought iron balconies, boarded-shut windows and "for sale" signs for your next haunting or urban exploration target. Places like the so-called *Hotel del Reúma*, "rheumatism hotel", right below the Alhambra and Vela tower, which has been closed for ever but that was a nice place in the forties, derelict *cármenes* in the Albayzín, and, of course, the haunted apartment blocks that dot the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, specially after dark.
 
 
 
