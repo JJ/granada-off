@@ -6,7 +6,7 @@ Granada is an university city, thanks mainly to the [UGR](http://ugr.university)
 
 And that has happened for some time now, being also one of the oldest universities in Spain, so this is bound to have an impact on the city landscape. However, most of it is *in* the beaten track. 
 
-So, fff the top of my head, and outside that in-the-beaten track fact that some buildings are old and Gothic and venerable, university buildings are great resources for a couple of things: WiFi and lavatories.
+So, off the top of my head, and outside that in-the-beaten track fact that some buildings are old and Gothic and venerable, university buildings are great resources for a couple of things: WiFi and lavatories.
 
 >In fact, I am big fan of universities everywhere for the sanitary services they provide. When touristing, I always follow the old adage "Pee when you can, not when you want" so if you pass by an university building, just walk confidently in and look for the lavatories, in the corridor straight ahead and to your left.
 
