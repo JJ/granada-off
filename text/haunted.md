@@ -26,11 +26,15 @@ You will find many more in that area and anywhere else in Granada; there is no d
 
 The pagoda-like aspect of its roofs might or might not be the reason why [a Buddhist group called The Way of the Diamond has acquired it recently](http://www.granadahoy.com/article/granada/2140758/villa/montserrat/lugar/para/meditar.html) for [360.000€, which seems like a incredibly good price](http://buildingthepower.com/proyecto/).
 
-> A hundred thousand less will not buy you an apartment just up the street, in the Bola de Oro neighborhood.
+> A hundred thousand euros less than that amount will not buy you an apartment just up the street, in the Bola de Oro neighborhood. So I guess this was a pretty good deal. 
 
 If you are into meditation, you might do a bit of haunting yourself in site for a fair price, although by the end of 2015 they seem to offer only [workouts cleaning the space](http://buildingthepower.com/#home).
 
-But you can work out just walking around, looking up, and check out wrought iron balconies, boarded-shut windows and "for sale" signs for your next haunting or urban exploration target. Places like the so-called *Hotel del Reúma*, "rheumatism hotel", right below the Alhambra and Vela tower, which has been closed for ever but that was a nice place in the forties, derelict *cármenes* in the Albayzín, and, of course, the haunted apartment blocks that dot the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, specially after dark.
+Haunted and also spiritual, in a way, is the [Hotel del Reúma, or Rheumatism hotel](http://granadapickups.blogspot.com.es/2011/09/el-hotel-reuma.html), which is right by the river and in the slope of the Alhambra hill. And it was spiritual, and also in a way, since it housed, for a time, the [Alhambra lodge of the freemasons](http://elintercambiador.estaciondiseno.es/hotel-reuma-arquitectura-abandonada-bajo-la-alhambra/), after having actually been a hotel for just a few years after its opening in 1916 under the name "Bosque de la Alhambra", or Alhambra forest. If there is a candidate for haunting or urban exploration, here is one: it was a hospital during the civil war and also used as changing rooms for plays taking place at the other side of the river. And it is completely shuttered and will probably be for years to come, since nobody cares too much about it, so it lays there, in the middle of the woods, rotting and rusting all by itself.
+
+>More on freemasons on its very own chapter. 
+
+From that side of the river, look up to the Albayzin, where you can either find other haunting places or work out by just walking around, looking up, and checking out wrought iron balconies, boarded-shut windows and "for sale" signs. Places like the derelict *cármenes* in the Albayzín, the Dar-al-Horra palace, only recently opened, and, of course, the haunted apartment blocks that dot the the outskirts and suburbs of the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, specially after dark.
 
 
 

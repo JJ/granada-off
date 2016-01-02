@@ -20,7 +20,7 @@ I should, should I not? It is unavoidable, but there are excellent books to lear
 
 Lately I have been hanging around in [Quora](http://quora.com) and they ask all kinds of stuff about Spain, Granada, and I keep answering them in a haphazard way. With this, I intend to answer and then point them to this repo and/or the Kindle book that will result from it.
 
-Besides, this has all been an exercise of knowing thyself, or whatever equivalent of that ancient word is there for the firsr person. Or rather of knowing thy city. I hava had to research lots of parts, which has led me to understand a bit more of the history of my city. Which is, to a point, my very own history.
+Besides, this has all been an exercise of knowing thyself, or whatever equivalent of that ancient word is there for the first person. Or rather of knowing thy city. I have had to research lots of parts, which has led me to understand a bit more of the history of my city. Which is, to a point, my very own history.
 
 
 ## Instructions for use
