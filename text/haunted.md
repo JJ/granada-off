@@ -34,7 +34,7 @@ Haunted and also spiritual, in a way, is the [Hotel del Reúma, or Rheumatism ho
 
 >More on freemasons on its very own chapter. 
 
-From that side of the river, look up to the Albayzin, where you can either find other haunting places or work out by just walking around, looking up, and checking out wrought iron balconies, boarded-shut windows and "for sale" signs. Places like the derelict *cármenes* in the Albayzín, the Dar-al-Horra palace, only recently opened, and, of course, the haunted apartment blocks that dot the the outskirts and suburbs of the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, specially after dark.
+From that side of the river, look up to the Albayzín, where you can either find other haunting places or work out by just walking around, looking up, and checking out wrought iron balconies, boarded-shut windows and "for sale" signs. Places like the derelict *cármenes* in the Albayzín, the Dar-al-Horra palace, only recently opened, and, of course, the haunted apartment blocks that dot the the outskirts and suburbs of the city and that are a relic of the real estate bubble. Places you will be able to watch from outside, but never get in, specially after dark.
 
 
 
