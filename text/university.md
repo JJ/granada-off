@@ -22,4 +22,7 @@ I am not saying that there are not incredibly talented master works; it is quite
 
 If you walk into the administrative area of close to the lecture halls you will be unable to avoid the pictures with the former deans, dressed with the classic university attire, one that I have been unable to avoid just once, during a Honoris Causa celebration. Just so you know, the color of the band, which for some reason is called beca, same name as for grants in Spanish, depends on the degree or maybe doctorate you obtained. I go with blue, I think, although I am not sure, since blue is for Sciences and I am actually in an engineering School. Never mind. These guys will be looking their best with academic robes. I leave as an exercise for the reader to find out which is the dominant age and genre and how it varies from one Faculty to the next one.
 
+Because every Faculty has its own little world and is not so much a cross section of the Spanish society as a sample of a particular intellectual, attitudinal and economical status. Check out Medicine, for instance, which is now housed in its very own white high rise, one you can see from the ring road. It needs an almost perfect grade to enter, close to 99%. It is the creme of the crop coming out of high schools in Granada which you can see there. Check out Fine Arts, too. Or Sports Sciences. They have to pass an special exam, besides requiring high grades in their A-levels, or Selectividad, which is its equivalent in Spain.
+
+
 
