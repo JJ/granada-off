@@ -27,8 +27,8 @@ There is a twist to this history of Granada equal to freemasonry. I
 remember to have seen in Santa Fe, NM, its name itself taken from the
 city of Santa Fé, close to Granada, a red building with Moorish
 features, in fact in the so called "Moorish revival" style, which is, 
-[quote, "based loosely on one of the gatehouses to the Court of the Lions at
-the Alhambra in Spain"](http://aasrnys.blogspot.com.es/). There are
+[quote, "based loosely on one of the gatehouses to the Court of the Lions at the Alhambra in Spain"](http://aasrnys.blogspot.com.es/). There
+are
 also some
 [knights of the Alhambra](http://www.angelfire.com/weird2/obscure2/cath.html)
 which are part of the Shriners, an order of Catholic Masonry.
@@ -39,5 +39,8 @@ housed in what is now known as Hotel del Reúma.
 
 >And which has received attention in the chapter on haunted mansions,
 >which I encourage you to visit right now.
+
+That was the lodge where Federico García Lorca was apparently
+initiated. 
 
 
