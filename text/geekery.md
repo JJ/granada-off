@@ -22,9 +22,9 @@ If you continue in the direction of the Avenida de América, past the
 exit of the underground tunnel, where, who knows, you might even see a
 train coming or going, past the nano-Manhattan by the end of that
 avenue, with a couple of tall buildings, and then, when you arrive at
-the bulevard with the frayed flags, take a left and you will arrive at
+the boulevard with the frayed flags, take a left and you will arrive at
 the
-[Instituto de Astrofísica de Andalucía, IAA or Andalucían Astrophysics institute](http://iaa.es). You
+[Instituto de Astrofísica de Andalucía, IAA or Andalusian Astrophysics institute](http://iaa.es). You
 cannot miss it, it is the one with the rocket protruding out of its
 front garden. It
 is quite an open place where you can pop in and ask someone about
@@ -44,7 +44,7 @@ eighties, starting
 From there it is just a short stretch to the Paseo de la Bomba, which
 you cannot miss if you are into big steam machines, or into steampunk.
 
->You might take a detour to check out the "haunted" hause not so far
+>You might take a detour to check out the "haunted" mansion not so far
 >from there, described in the chapter on hauntings.
 
 Despite its name, which might or might not be due to a bomb falling
@@ -59,7 +59,7 @@ high sugar prices brought unknown wealth to many countries and regions
 in the world, including Granada. The machine was produced in 1905 by
 [Fives-Lille](https://fr.wikipedia.org/wiki/Fives-Lille), a company
 which was also in charge of building railways all along eastern
-Andalucía and the lift inside the Eiffel Tower. Surprisinly, this company perdures to this very day, although under the
+Andalucía and the lift inside the Eiffel Tower. Surprisingly, this company endures to this very day, although under the
 name of Fives. All steampunks should
 know about this company, responsible for lots of iron bridges and
 scary-looking machines in Andalucía. 
