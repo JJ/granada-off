@@ -21,9 +21,14 @@ think that makes the old guys remiss of freemasonry, you would be so
 very wrong. We would have to look for it by itself, in a place which
 was not official or built officially, or in conjunction with other
 symbols. There is one, for instance, in the middle of the Antequeruela
-neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner, for no reason. Check it out also in Paseo de los Tristes number 63, with a pomegranate in the cusp of a elongated pyramid, another masonic symbol. 
+neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner, for no reason. Check it out also in Paseo de los Tristes number 63, with a pomegranate in the cusp of a elongated pyramid, another masonic symbol.
 
-It is difficult to find more of them. Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places. 
+The symbology is quite clear, however, in [the Ladrón de Agua hotel](http://www.ladrondeagua.com/legacy/), a bit further down the street in the Paseo de los Tristes, close to Plaza Nueva. Besides an advocation to Mithra, "Deo Soli Invicto Mithre", to the invict sun-god Mithra, and a representation of him fighting against a [lion, a symbol of a masonic candidate](http://ezinearticles.com/?Masonic-Symbolism-Book---Grip-Of-The-Lions-Paw&id=4871957), the symbols painted at the left hand side of the wall are quite clear: an old sage holds an armillary sphere in one hand, a symbol of knowledge, and a compass in the other hand. This compass hovers over a pergamine with a triangle, the masonic symbol for the all-seeing eye. 
+
+
+
+It is difficult to find more of them. Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places.
+
 
 There is a twist to this history of Granada equal to freemasonry. I
 remember to have seen in Santa Fe, NM, its name itself taken from the
