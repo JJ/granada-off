@@ -20,7 +20,7 @@ nineties. Why should they? They work as a charm.
 Unbeknownst to most people, including probably 90% of the people in
 Granada, the first science museum was created in a high school, and it
 is probably still there. It is the
-[science museum of the Padre Suárez instutute](https://es.wikipedia.org/wiki/Museo_de_Ciencias_del_Instituto_Padre_Su%C3%A1rez_de_Granada).
+[science museum of the Padre Suárez institute](https://es.wikipedia.org/wiki/Museo_de_Ciencias_del_Instituto_Padre_Su%C3%A1rez_de_Granada).
 
 >The
 >[*Padre Suárez", or father Suárez](https://en.wikipedia.org/wiki/Francisco_Su%C3%A1rez),
@@ -28,11 +28,11 @@ is probably still there. It is the
 >that died in the XVII century. He was mainly into philosophy and he
 >was born in Granada. Another example of the curious relationship
 >between Jesuits and science by way of a science museum housed in a
->buiding that bears his name.
+>building that bears his name.
 
 By the time you read this, it might or might not be open, although you
 can [request a visit in his web site](http://www.museosuarez.blogspot.com.es/p/solicitud-de-visita.html). The domain
-that hosted its pages is for sale and it has had to move [to blogspot](http://www.museosuarez.blogspot.com.es/), and the
+that hosted its pages is for sale and it has had to move [to BlogSpot](http://www.museosuarez.blogspot.com.es/), and the
 [person in charge of it retired, with the Ministry of Education not relieving any of his  colleagues from classes](http://www.elmundo.es/andalucia/2015/11/02/56375619268e3e025c8b460e.html). So
 it might be shuttered and gathering dust by now, another example of
 permanent things disappearing while the transient stays. If you manage
@@ -56,7 +56,7 @@ Federico García Lorca. Asunción Linares was, in fact, the first woman
 to become
 [professor in Sciences](https://es.wikipedia.org/wiki/Asunci%C3%B3n_Linares)
 in Spain and only the second one after the Civil War. So, there you
-go. The museum was quite useful for awakening sciencific consciences,
+go. The museum was quite useful for awakening scientific consciences,
 and in this era where we need so many STEM graduates, even more. 
 
 But let us ride the LAC to go back to the big science museum brother,
@@ -139,7 +139,12 @@ scary-looking machines in Andalucía.
 >Juan de la Cierva. And he was kind of an engineer, too, since he
 >created an optical stabilizer for cameras called Dynalens, which was
 >used for the first time in the movie "Tora, Tora, Tora!", whose
->[patent was registered in the US in 1973](https://www.google.com/patents/US3910693). 
+>[patent was registered in the US in 1973](https://www.google.com/patents/US3910693). Well,
+>this does not belong to Granada, but it is geek and cook and Spanish,
+>so please admit the detour. Besides, my campaing in Twitter to
+>acknowledge the error in the name of the street might have succeeded
+>by the time you read this, so it might have his name or the one of a
+>pop singer, who knows. 
 
 This machine, along with the modernist mansions in the city center and
 the Gran Vía, are testimony of that era

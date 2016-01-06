@@ -75,8 +75,32 @@ This means that the only way to contemplate them is to look at the
 copy. Copy and paste saves the day, for once.
 
 You have to dig, and by digging I mean google, really hard to find
-more traces of the mason aesthetics. 
+more traces of the mason aesthetics. But it so happens that the
+University of Granada has got an expert in that kind of thing,
+[David Martín López](https://granada.academia.edu/DAVIDMARTINLOPEZ),
+who has published all kind of treatises on the topic, including a
+[paper on a house in the Buen Suceso street](https://www.academia.edu/7519604/Juan_Monserrat_Verg%C3%A9s_masoner%C3%ADa_y_arquitectura_en_Granada._El_ejemplo_del_Buen_Suceso._Bolet%C3%ADn_de_Arte._Universidad_de_M%C3%A1laga_2007._vol._28). This
+house is in the middle of the alternative area of Granada, full of
+vintage shops and geek articles, and, by the time I visited it, it is
+for sale. 
 
+The masonic symbology was put there by the architect, Juan Montserrat
+y Vergés, himself a freemason, and also the author of the
+[former hotel Colón](http://www.iaph.es/arquitectura-contemporanea-andalucia/resumen.do?id=251948)
+which forms the the South-West corner of the Gran vía. This poor chap
+was
+[tried in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
+its fate unknown but probably ending in  prison for life or death.
+
+
+There might be
+some symbols there, but it is hard to see from below. However, in this
+house in the number 23 of the Buen Suceso (literally, Good Event)
+street there are three frontispices over the first floor
+balconies. The one in the moddle, by the side of a cherub that holds a
+parchment with what looks like a circle, we see all kind of building
+symbols: a mallet, a trove, a dented wheel, and, yes, what could be a
+compass, or a triangle, or 
 
 I have not been able to find other symbols anywhere else; either
 solomonic columns, or frigian caps, or triangles. There might be a
