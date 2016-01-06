@@ -14,16 +14,18 @@ with their first president, Francisco de Paula Santander, being
 himself a freemason.
 
 Identifying the seal of freemasonry every time we find a pomegranate
-in Granada would, however, take things a bit too far. The symbol was
+in Granada would, however, take things a bit too far. First, because they all over the place: in rain gutters, in sewer hatches, in all kinds of company logos, even in stencils in walls. Second, because the symbol was
 already there when the Catholic Kings took Granada in the XV century,
 and, in fact, put a pomegranate in the coat of arms of Spain; if you
 think that makes the old guys remiss of freemasonry, you would be so
-very wrong. We would have to look for it by itself, in a place which
+very wrong. 
+We would have to look for it by itself, in a place which
 was not official or built officially, or in conjunction with other
 symbols. There is one, for instance, in the middle of the Antequeruela
-neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner, for no reason. Check it out also in Paseo de los Tristes number 63, with a pomegranate in the cusp of a elongated pyramid, another masonic symbol.
+neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner, for no reason. Although it is actually in a *cornerstone*, which [freemasons lay out publicly](https://en.wikipedia.org/wiki/Cornerstone#Freemasonry). So one can imagine these guys all dressed up laying the cornerstone, and so as to drive the message home clearly, putting a discrete pomegranate, instead of a less discrete triangle or compass, on it. And this is not the only candidate: 
+Check it out also in Paseo de los Tristes number 63, with pomegranates in the cusps of a elongated pyramid, another masonic symbol.
 
-The symbology is quite clear, however, in [the Ladrón de Agua hotel](http://www.ladrondeagua.com/legacy/), a bit further down the street in the Paseo de los Tristes, close to Plaza Nueva. Besides an advocation to Mithra, "Deo Soli Invicto Mithre", to the invict sun-god Mithra, and a representation of him fighting against a [lion, a symbol of a masonic candidate](http://ezinearticles.com/?Masonic-Symbolism-Book---Grip-Of-The-Lions-Paw&id=4871957), the symbols painted at the left hand side of the wall are quite clear: an old sage holds an armillary sphere in one hand, a symbol of knowledge, and a compass in the other hand. This compass hovers over a pergamine with a triangle, the masonic symbol for the all-seeing eye. 
+The symbology is quite clear, however, in [the Ladrón de Agua hotel](http://www.ladrondeagua.com/legacy/), a bit further down the street in the Paseo de los Tristes, close to Plaza Nueva. Besides an advocation to Mithra, "Deo Soli Invicto Mithre", to the invict sun-god Mithra, and a representation of him fighting against a [lion, a symbol of a masonic candidate](http://ezinearticles.com/?Masonic-Symbolism-Book---Grip-Of-The-Lions-Paw&id=4871957), the symbols painted at the left hand side of the wall are quite clear: an old sage holds an armillary sphere in one hand, a symbol of knowledge, and a compass in the other hand. This compass hovers over a parchment with a triangle, the masonic symbol for the all-seeing eye. While in other cases, notably in the case of the pomegranate-in-the-cornerstone
 
 
 
