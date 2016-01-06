@@ -12,13 +12,59 @@ As you get out of the Parque de las Ciencias, you can proceed to the so-named "R
 
 That helicopter is an [Sikorsky S-76C Spirit or HE24 in SpAF denomination](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=CF3470AF935F8396C12570D700464251&idRef=F28FEDE5105891C6C12576350030E54B), was acquired in 1991 and used mainly for instrumental training in the wing, although it could be used also for ferrying people or rescue missions. It is one of the [most modern helos in the SpAF](http://www.ala78virtual.es/contenidos/flota.htm), so I do not really understand what is the deal with it. Maybe it was originally bought second hand or something. You can see it in action in [this video](https://www.youtube.com/watch?v=2Fvo2hnYzu4) and check its former locations in [this helospotters database](http://www.helis.com/database/cn/3517/)
 
->Last annotation is mine, I guess. It did not mention it was retired from service.
+>Last annotation is mine, I guess. The page did not mention it was retired from service.
 
 Actually, the previous location was the aforementioned Parque de las Ciencias, where apparently went after [the engine broke, according to a tweet](https://twitter.com/WanManolo/status/681797531421007872). And it was placed there to celebrate the centennial of aviation in Spain. Curiously enough, the plane was called S-76 to celebrate the *bicentennial* of the US. So, two centennials in a single decorated roundabout. This helicopter has also got a much [geekier version, the S-76 Shadow](http://www.kamov.net/general-aviation/s-76-shadow/), with an awkward-looking but coolly operated through a Heads-Up Display front-mounted single-pilot cabin. And that is a sentence with a lot of dashes. 
 
 >More about roundabouts in its very own chapter.
 
-If you are into big machines, walk from that roundabout, or take the LAC, and go to the end of Paseo de la Bomba. Despite its name, which might or might not be due to a bomb falling there in the civil war or maybe to the fact that there was a big pump for the *Acequia Gorda*, or big irrigation ditch or maybe to the [fountain at the beginning which doest not look at all like a bomb](http://1000-reinogranada.blogspot.com.es/2012/05/fuente-de-los-cuatro-leones.html); *bomba* means either *bomb* or *pump* in Spanish, and the big machine is the roundabout could be a steam-operated pump, but is actually a press belonging to a sugar-producing *ingenio* or "engine", which is what sugar mills were called at the beginning of the Century, when high sugar prices brought unknown wealth to many countries and regions in the world, including Granada. This machine, along with the modernist mansions in the city center and the Gran Vía, are testimony of that era [when Granada depended on a different monoculture](http://granadapedia.wikanda.es/wiki/Historia_de_la_ca%C3%B1a_de_az%C3%BAcar). In this case, this machine was part of the *azucarera* San José, which was placed exactly, or rather pretty much, in this place, maybe a bit North of that, since to the South-West, where there is a wood-paneled building now, there was a tram depot. That was the tram that made the trip to the Sierra, and which was dismantled in the 70s.
+If you continue in the direction of the Avenida de América, past the
+exit of the underground tunnel, where, who knows, you might even see a
+train coming or going, past the nano-Manhattan by the end of that
+avenue, with a couple of tall buildings, and then, when you arrive at
+the boulevard with the frayed flags, take a left and you will arrive at
+the
+[Instituto de Astrofísica de Andalucía, IAA or Andalusian Astrophysics institute](http://iaa.es). You
+cannot miss it, it is the one with the rocket protruding out of its
+front garden. It
+is quite an open place where you can pop in and ask someone about
+[the Rosetta mission](http://rosetta.iaa.es/noticias) or about
+exoplanets, since this institute includes discoverers of one of the
+first ones. Instruments for spatial missions are created here, and
+there are a few on display. The rocket, for instance. It is an
+atmospheric research probe which was designed here and launched in the
+eighties, starting
+[our regional space race](http://www.ideal.es/granada/culturas/201511/22/nosotros-empezamos-carrera-espacial-20151114215419.html).
+
+>In this interview, José Manuel Vílchez mentions Manuel Merlo Vallejo,
+>a Jesuit that was in the origins of the current Institute. Another
+>case of Jesuits going hand in hand with science in Granada. More on
+>this on the chapter about the university. 
+
+From there it is just a short stretch to the Paseo de la Bomba, which
+you cannot miss if you are into big steam machines, or into steampunk.
+
+>You might take a detour to check out the "haunted" mansion not so far
+>from there, described in the chapter on hauntings.
+
+Despite its name, which might or might not be due to a bomb falling
+there in the civil war or maybe to the fact that there was a big pump
+for the *Acequia Gorda*, or big irrigation ditch or maybe to the
+[fountain at the beginning which doest not look at all like a bomb](http://1000-reinogranada.blogspot.com.es/2012/05/fuente-de-los-cuatro-leones.html);
+*bomba* means either *bomb* or *pump* in Spanish, and the big machine
+is the roundabout could be a steam-operated pump, but is actually a
+press belonging to a sugar-producing *ingenio* or "engine", which is
+what sugar mills were called at the beginning of the Century, when
+high sugar prices brought unknown wealth to many countries and regions
+in the world, including Granada. The machine was produced in 1905 by
+[Fives-Lille](https://fr.wikipedia.org/wiki/Fives-Lille), a company
+which was also in charge of building railways all along eastern
+Andalucía and the lift inside the Eiffel Tower. Surprisingly, this company endures to this very day, although under the
+name of Fives. All steampunks should
+know about this company, responsible for lots of iron bridges and
+scary-looking machines in Andalucía. 
+
+This machine, along with the modernist mansions in the city center and the Gran Vía, are testimony of that era [when Granada depended on a different monoculture](http://granadapedia.wikanda.es/wiki/Historia_de_la_ca%C3%B1a_de_az%C3%BAcar). In this case, this machine was part of the *azucarera* San José, which was placed exactly, or rather pretty much, in this place, maybe a bit North of that, since to the South-West, where there is a wood-paneled building now, there was a tram depot. That was the tram that made the trip to the Sierra, and which was dismantled in the 70s.
 
 That tram was, for some time, placed in la [Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It might or might not be there by the time you read this, since it was taken for restoration and has not returned. However, there is another steam engine parked there and you can always check [the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias), which was projected and built in the sixties although it has had lots of additions. There is some fodder for geeks inside the building, where all kind of sciences, from Physics to Geology, are studied. To the right hand side, the Physics building houses a Foucault pendulum, and going from there to the main building, the library to the right hand side houses scientific journals from early on, the fifties and even before that. I have spent there a good part of my studies in the eighties, and I was elated to find an article by Einstein himself, published in the fifties in some Physics journal. Quite an interesting, if a bit over the top of my head, reading.
 
@@ -52,7 +98,8 @@ Once again, not much to see there. You will have to ask for an appointment and t
 
 >And I know this because we were the origin of that technology through a contract between them and our university.
 
-But that has not a high visual, or otherwise, impact. Maybe the best is to be in one of the cafés around it at coffee time, around 10-11 AM, and listen to their geek conversation or just watch their demeanor, which is probably similar to every other tech company in the world except for the fact that they go outside to have a coffee. Try to make out who are the executives, who are the commercial, who man customer supports, and who is in the basement manhandling the computers that make everything work or programming them.
+But algorithms do not a high visual impact, although they have have
+all kind of other impacts when your company is the target of the prediction. Maybe the best is to be in one of the cafés around it at coffee time, around 10-11 AM, and listen to their geek conversation or just watch their demeanor, which is probably similar to every other tech company in the world except for the fact that they go outside to have a coffee. Try to make out who are the executives, who are the commercial, who man customer supports, and who is in the basement manhandling the computers that make everything work or programming them.
 
 And, while you are at it, you might see the signs for one such "Spiral startups", in another glass building, right by its side. You might even be able to watch it from outside the shuttered spaces, because it closed a while ago, signaling the onset of the bursting of the coworking bubble in Granada. [Spiral Startups](https://www.linkedin.com/company/spiral-startups) was, at one point in time, one of almost a couple of dozen coworking spaces in Granada. If you are not familiar with the concept, a coworking office is just an open space that provides a desk area, connectivity and amenities to freelancers and startup companies. During the crisis, they were a convenient and cheap alternative to either staying at your parents, renting real office space or crashing at a café. For less than 50€ a month, you could have your very own office to receive customers and interact with fellow entrepreneurs. 
 
@@ -71,9 +118,10 @@ Or, if that fails, by any one of the many comic, anime and RPG-related events th
 
 >I am personally not too much into this kind of things, because lately they are more about cosplay and showing off than about talking or learning about comics and sequential art. However, since most people are attending K-Pop contests and karaoke fights, you might have the chance, as I did, to meet and greet comic creators and talk for a while with them, even if you had not heard about them before.
 
-You can also be a hardcore geek of the kind that develops stuff and post it for everyone on GitHub. If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
+You can also be a hardcore geek of the kind that develops stuff and post it for everyone on [GitHub](http://github.com). If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
 
-You can stop reading this and read your Blacksad. When you are done, keep reading, there is much more in Granada on and off the beaten track.
+You can stop reading this and read your Blacksad. When you are done,
+keep reading, there is so much more in Granada on and off the beaten track.
 
 
 
