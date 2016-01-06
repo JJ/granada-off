@@ -62,8 +62,17 @@ the same family](http://nito-lamurga.blogspot.com.es/2013/07/la-casa-de-mitra-h-
 decoration is much older, from the XVI century, in the classic
 tradition which has nothing to do with the modernist fashion that used
 to be the rage in those days in Spain. This house still exists and is
-now a luxury hotel. There are probably some remains of this original
-fresco, but the best way to contemplate them is to look at the
+now a luxury hotel. Nothing remains of this original
+fresco, which would have been nice, since popular tradition said that
+the representation of the Eternal Father was looking at a place where
+a treasure was buried.
+
+>It is now looking at the crowds that break open to let the touristic
+>train pass. So, in this case the beaten track is just a metaphor for
+>looking at different things, or the same things in a different way,
+>because that particular has track has been beat to exhaustion.
+
+This means that the only way to contemplate them is to look at the
 copy. Copy and paste saves the day, for once. 
 
 
