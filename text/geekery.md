@@ -59,7 +59,8 @@ in Spain and only the second one after the Civil War. So, there you
 go. The museum was quite useful for awakening sciencific consciences,
 and in this era where we need so many STEM graduates, even more. 
 
-As you get out of the Parque de las Ciencias, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
+But let us ride the LAC to go back to the big science museum brother,
+and as you get out it, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
 >I remember to spend the time of boring classes during the 80s watching the Bucker 131 biplanes sputtering in the sky, in front of the Facultad de Ciencias. They were true relics of the 20s, and probably the ones that were used to train by current fighter pilots in the Spanish air force.
 
@@ -115,9 +116,41 @@ which was also in charge of building railways all along eastern
 Andalucía and the lift inside the Eiffel Tower. Surprisingly, this company endures to this very day, although under the
 name of Fives. All steampunks should
 know about this company, responsible for lots of iron bridges and
-scary-looking machines in Andalucía. 
+scary-looking machines in Andalucía.
 
-This machine, along with the modernist mansions in the city center and the Gran Vía, are testimony of that era [when Granada depended on a different monoculture](http://granadapedia.wikanda.es/wiki/Historia_de_la_ca%C3%B1a_de_az%C3%BAcar). In this case, this machine was part of the *azucarera* San José, which was placed exactly, or rather pretty much, in this place, maybe a bit North of that, since to the South-West, where there is a wood-paneled building now, there was a tram depot. That was the tram that made the trip to the Sierra, and which was dismantled in the 70s.
+>If you align yourself with the axis of the steam engine and look
+>uphill, the street just in front is the Cuesta del Molino, and houses
+>a small museum devoted to Ángel Ganivet, whom we met for the first
+>time above as a student of the Padre Suárez high school. But the
+>geeky highlight is right to the left ot that street: an alley called
+>"Ingeniero Ricardo de la Cierva", or Ricardo de la Cierva,
+>engineer. Well, as far as I have been able to discover, there was no
+>engineer called Ricardo de la Cierva. There were two Ricardos de la
+>Cierva: one politician, killed by the republicans in the civil war,
+>and one writer, mainly about history, and mainly attacking the
+>republicans and pro-Franco. There were two Juanes de la Cierva,
+>however. The first
+>[one, Juan de la Cierva y Codorniú, *was* an engineer, brother of Ricardo, and discoverer of the autogyro](https://en.wikipedia.org/wiki/Juan_de_la_Cierva). [Second one, Juan de la Cierva y Peñafiel](https://en.wikipedia.org/wiki/Juan_de_la_Cierva_y_Pe%C3%B1afiel)
+>father of the first Ricardo, was another politician. And there is
+>even a third one,
+>[Juan de la Cierva y Hoces](https://es.wikipedia.org/wiki/Juan_de_la_Cierva_y_Hoces),
+>who was the first Spaniard to receive an Oscar in 1970; he was the
+>son of the second Ricardo and nephew of the first, and most famous,
+>Juan de la Cierva. And he was kind of an engineer, too, since he
+>created an optical stabilizer for cameras called Dynalens, which was
+>used for the first time in the movie "Tora, Tora, Tora!", whose
+>[patent was registered in the US in 1973](https://www.google.com/patents/US3910693). 
+
+This machine, along with the modernist mansions in the city center and
+the Gran Vía, are testimony of that era
+[when Granada depended on a different monoculture](http://granadapedia.wikanda.es/wiki/Historia_de_la_ca%C3%B1a_de_az%C3%BAcar). In
+this case, this machine was part of the *azucarera* San José, which
+was placed exactly, or rather pretty much, in this place, maybe a bit
+North of that, since to the South-West, where there is a wood-paneled
+building now, there was a tram depot for the railway line that made
+the trip to the Sierra, and by Sierra in Granada we mean Sierra
+Nevada, the sierra par excellence. This tram was dismantled in the
+early 70s, to never come back until now. Or maybe 2016. Who knows.
 
 That tram was, for some time, placed in la [Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It might or might not be there by the time you read this, since it was taken for restoration and has not returned. However, there is another steam engine parked there and you can always check [the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias), which was projected and built in the sixties although it has had lots of additions. There is some fodder for geeks inside the building, where all kind of sciences, from Physics to Geology, are studied. To the right hand side, the Physics building houses a Foucault pendulum, and going from there to the main building, the library to the right hand side houses scientific journals from early on, the fifties and even before that. I have spent there a good part of my studies in the eighties, and I was elated to find an article by Einstein himself, published in the fifties in some Physics journal. Quite an interesting, if a bit over the top of my head, reading.
 

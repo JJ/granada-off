@@ -57,8 +57,7 @@ quite old, from the XVI century, it was bought by Nicolás in the
 1920s; he commissioned his own son, Nicolás Fajardo Vílchez, to carry
 them out and, in fact, they are a copy of older paintings found in the
 backyard of the 
-["Casa del padre Eterno", or "Eternal father house", which belonged to
-the same family](http://nito-lamurga.blogspot.com.es/2013/07/la-casa-de-mitra-h-oy-traemos-la.html). This
+["Casa del padre Eterno", or "Eternal father house", which belonged to the same family](http://nito-lamurga.blogspot.com.es/2013/07/la-casa-de-mitra-h-oy-traemos-la.html). This
 decoration is much older, from the XVI century, in the classic
 tradition which has nothing to do with the modernist fashion that used
 to be the rage in those days in Spain. This house still exists and is
@@ -73,10 +72,15 @@ a treasure was buried.
 >because that particular has track has been beat to exhaustion.
 
 This means that the only way to contemplate them is to look at the
-copy. Copy and paste saves the day, for once. 
+copy. Copy and paste saves the day, for once.
+
+You have to dig, and by digging I mean google, really hard to find
+more traces of the mason aesthetics. 
 
 
-It is difficult to find more of them. Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places.
+I have not been able to find other symbols anywhere else; either
+solomonic columns, or frigian caps, or triangles. There might be a
+reason for this: Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places.
 
 
 There is a twist to this history of Granada equal to freemasonry. I

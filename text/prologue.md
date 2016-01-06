@@ -20,7 +20,24 @@ I should, should I not? It is unavoidable, but there are excellent books to lear
 
 Lately I have been hanging around in [Quora](http://quora.com) and they ask all kinds of stuff about Spain, Granada, and I keep answering them in a haphazard way. With this, I intend to answer and then point them to this repo and/or the Kindle book that will result from it.
 
-Besides, this has all been an exercise of knowing thyself, or whatever equivalent of that ancient word is there for the first person. Or rather of knowing thy city. I have had to research lots of parts, which has led me to understand a bit more of the history of my city. Which is, to a point, my very own history.
+Besides, this has all been an exercise of knowing thyself, or whatever
+equivalent of that ancient word is there for the first person. Or
+rather of knowing thy city. I have had to research lots of parts,
+which has led me to understand a bit more of the history of my
+city. Which is, to a point, my very own history.
+
+But if you are asking why I am doing this in English, when it is so
+not my mother tongue, well, it looked like a good idea when I
+started. You know, writing for expats and all that. Most tourists that
+come to Granada are from, you know, not here and speak in tongues.
+
+But I guess that the main thing is that most of the material I have
+been using, and linking from the main text, is not in English. So, in
+some cases, references to facts or biographies or explanations might
+not be available elsewhere.
+
+I might eventually decide to translate it into Spanish. Or into better
+English. Whatever I find the time and will to do first. 
 
 
 ## Instructions for use
