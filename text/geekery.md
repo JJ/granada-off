@@ -4,7 +4,60 @@ Geeks travel too. And when we arrive to some place we are, sometimes, less inter
 
 >I remember, for instance, seeing and playing a Theremin in a small electricity museum in Barranco, Lima. That was the only time I have been able to do so. Air and space museums in Madrid, war museums in Poland, Vienna and London, all those, are kind of really *off* the beaten track and also in the suburbs, because there are only so many places downtown where you can squeeze a few tanks and a bomber plane.
 
-We have that in Granada, starting with the behemoth [Parque de las Ciencias](Parque de las Ciencias), which is the subject of jokes for its constant expansion, filling now more than a park, a whole block. You can very well spend the whole day there, spending half day in the temporal exhibitions and then proceed to the rest: the aviary, planetary and many other things ending with *ary*. Really a nice place and a source of learning if you can just stand the yelling herds of kids that abound there.
+We have that in Granada, starting with the behemoth
+[Parque de las Ciencias](Parque de las Ciencias), which is the subject
+of jokes for its constant expansion, filling now more than a park, a
+whole block. You can very well spend the whole day there, spending
+half day in the temporal exhibitions and then proceed to the rest: the
+aviary, planetary and many other things ending with *ary*. Really a
+nice place and a source of learning if you can just stand the yelling
+herds of kids that abound there. Also, since budget is always kind of
+tight, a showcase for retro computing if there was one: check out some
+of the vintage IBM and Apple computers that are the engines of some of
+the rides, which, in some cases, have not been upgraded since the
+nineties. Why should they? They work as a charm.
+
+Unbeknownst to most people, including probably 90% of the people in
+Granada, the first science museum was created in a high school, and it
+is probably still there. It is the
+[science museum of the Padre Suárez instutute](https://es.wikipedia.org/wiki/Museo_de_Ciencias_del_Instituto_Padre_Su%C3%A1rez_de_Granada).
+
+>The
+>[*Padre Suárez", or father Suárez](https://en.wikipedia.org/wiki/Francisco_Su%C3%A1rez),
+>that gives his name to the institute was, you guessed it, a Jesuit
+>that died in the XVII century. He was mainly into philosophy and he
+>was born in Granada. Another example of the curious relationship
+>between Jesuits and science by way of a science museum housed in a
+>buiding that bears his name.
+
+By the time you read this, it might or might not be open, although you
+can [request a visit in his web site](http://www.museosuarez.blogspot.com.es/p/solicitud-de-visita.html). The domain
+that hosted its pages is for sale and it has had to move [to blogspot](http://www.museosuarez.blogspot.com.es/), and the
+[person in charge of it retired, with the Ministry of Education not relieving any of his  colleagues from classes](http://www.elmundo.es/andalucia/2015/11/02/56375619268e3e025c8b460e.html). So
+it might be shuttered and gathering dust by now, another example of
+permanent things disappearing while the transient stays. If you manage
+to find it open and somebody willing to give you the spiel, there are
+four rooms filled with stuffed animals, mockups, physics and chemistry
+instruments and something called
+[Dr. Kagerah's boxes](https://www.flickr.com/photos/43095111@N08/sets/72157622355913429),
+which is so much like the title of a terror movie that you totally
+have to go and check it out. If you do not make it into the building,
+[this Flickr gallery might give you an idea of what you are missing](https://www.flickr.com/photos/43095111@N08/),
+like
+[this, er, oriental royal XIX century bong](https://www.flickr.com/photos/43095111@N08/3971686818/in/dateposted/).
+
+Sorry about the lighter note of that paragraph above, I really cannot
+help it, but it is really serious that this scientific and technical
+patrimony will go missing. Besides,
+[the institute was the first one in Granada, built in the 1840s](https://es.wikipedia.org/wiki/Instituto_Padre_Su%C3%A1rez),
+and some outstanding citizens like Francisco Ayala, Ángel Ganivet,
+Asunción Linares, Elena Martín Vivaldi and
+Federico García Lorca. Asunción Linares was, in fact, the first woman
+to become
+[professor in Sciences](https://es.wikipedia.org/wiki/Asunci%C3%B3n_Linares)
+in Spain and only the second one after the Civil War. So, there you
+go. The museum was quite useful for awakening sciencific consciences,
+and in this era where we need so many STEM graduates, even more. 
 
 As you get out of the Parque de las Ciencias, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
@@ -108,7 +161,9 @@ It is actually very close to one of the biggest cibercafés that existed also in
 
 There might be still one open, plying mainly to migrants who use it mainly to call home, a crowd that is very different of the teens that crowded it back them to maim and kill through Unreal Tournament or other wargames.
 
-Still, local cibercafés had something authentic and were as much a showcase for local culture as pubs or cemeteries. The games played, the size and age of groups, the peek hours, were something to observe. I have been in cibercafés all over the world, and they are also a way of getting acquainted with the local keyboards, as well of being very jealous of security so as not to get your credentials stolen. It is rather safer now, with ubiquitous WiFi, although I would not put all my trust in an open network.
+Still, local cibercafés had something authentic in them and were as
+much a showcase for local living culture as pubs or cemeteries, these
+later for living as well as dead culture, of course. The games played, the size and age of groups, the peek hours, were something to observe. I have been in cibercafés all over the world, and they are also a way of getting acquainted with the local keyboards, as well of being very jealous of security so as not to get your credentials stolen. It is rather safer now, with ubiquitous WiFi, although I would not put all my trust in an open network.
 
 If you are not able to spot any Internet café, then, just look for your inner geek and grab your smartphone. Or maybe try one of the comic bookstores. Actually, one of the most venerable in Granada, Flash, is not so far away, by the end of San Antón street and actually pretty close to the rail relic we talked about in the chapter devoted to the train station. Its narrow storefront is jammed between a coffee and tea shop and a bakery, and you know you are in geek territory from the get go. As you enter through a narrow corridor, you will see right and left Warhammer 40K pieces for coloring and boxes. You will have to dodge or physically push people to advance past the new releases shelf and go around perusing Spanish and European comic, which are to the right and bottom of the library, or American and Japanese comic, to the left. Actually, it is a good occasion to browse [Blacksad](https://en.wikipedia.org/wiki/Blacksad), the series of hardboiled graphic novels with a black cat as main character, beautifully drawn and scripted by Díaz Canales and [Juanjo Guarnido, a local artist](https://en.wikipedia.org/wiki/Juanjo_Guarnido). Local fanzines are also for sale, and spontaneous discussion are started whenever a few of the usual visitors, of which there are quite a few, meet. This usually happens on Saturdays before closing at 2PM, so this is probably the best time to visit. You might end up with a few friends or maybe enemies, if you happen to like exactly the opposite of what passes as mainstream in the shop, usually American superhero stuff.
 
