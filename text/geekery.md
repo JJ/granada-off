@@ -122,7 +122,7 @@ scary-looking machines in Andalucía.
 >uphill, the street just in front is the Cuesta del Molino, and houses
 >a small museum devoted to Ángel Ganivet, whom we met for the first
 >time above as a student of the Padre Suárez high school. But the
->geeky highlight is right to the left ot that street: an alley called
+>geeky highlight is right to the left hand side of that street: an alley called
 >"Ingeniero Ricardo de la Cierva", or Ricardo de la Cierva,
 >engineer. Well, as far as I have been able to discover, there was no
 >engineer called Ricardo de la Cierva. There were two Ricardos de la
@@ -130,7 +130,7 @@ scary-looking machines in Andalucía.
 >and one writer, mainly about history, and mainly attacking the
 >republicans and pro-Franco. There were two Juanes de la Cierva,
 >however. The first
->[one, Juan de la Cierva y Codorniú, *was* an engineer, brother of Ricardo, and discoverer of the autogyro](https://en.wikipedia.org/wiki/Juan_de_la_Cierva). [Second one, Juan de la Cierva y Peñafiel](https://en.wikipedia.org/wiki/Juan_de_la_Cierva_y_Pe%C3%B1afiel)
+>[one, Juan de la Cierva y Codorniú, *was* an engineer, brother of Ricardo, and discoverer of the autogyre](https://en.wikipedia.org/wiki/Juan_de_la_Cierva). [Second one, Juan de la Cierva y Peñafiel](https://en.wikipedia.org/wiki/Juan_de_la_Cierva_y_Pe%C3%B1afiel)
 >father of the first Ricardo, was another politician. And there is
 >even a third one,
 >[Juan de la Cierva y Hoces](https://es.wikipedia.org/wiki/Juan_de_la_Cierva_y_Hoces),
@@ -140,11 +140,15 @@ scary-looking machines in Andalucía.
 >created an optical stabilizer for cameras called Dynalens, which was
 >used for the first time in the movie "Tora, Tora, Tora!", whose
 >[patent was registered in the US in 1973](https://www.google.com/patents/US3910693). Well,
->this does not belong to Granada, but it is geek and cook and Spanish,
->so please admit the detour. Besides, my campaing in Twitter to
+>this does not belong to Granada, but it is geek and cool and Spanish,
+>so please admit the detour. Besides, my campaign in Twitter to
 >acknowledge the error in the name of the street might have succeeded
 >by the time you read this, so it might have his name or the one of a
->pop singer, who knows. 
+>pop singer, who knows. If
+>[my change.org petition succeeds](https://www.change.org/p/ayuntamiento-de-granada-llamar-arquitecto-juan-montserrat-verg%C3%A9s-a-la-calle-ingeniero-ricardo-de-la-cierva),
+>it will have the name of Juan Montserrat Vergés, whom we mention in
+>the chapter on freemansonry, and maybe on the one on modernist
+>Granada, if I get to write it eventually. 
 
 This machine, along with the modernist mansions in the city center and
 the Gran Vía, are testimony of that era

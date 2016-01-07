@@ -34,10 +34,16 @@ come to Granada are from, you know, not here and speak in tongues.
 But I guess that the main thing is that most of the material I have
 been using, and linking from the main text, is not in English. So, in
 some cases, references to facts or biographies or explanations might
-not be available elsewhere.
+not be available elsewhere. So someone, eventually, might profit from
+this material available in English, I guess. 
 
+Last time I wrote a whole novella in English and published it managed
+to make all of half a dozen sales. So this one will probably fail
+spectacularly. 
 I might eventually decide to translate it into Spanish. Or into better
-English. Whatever I find the time and will to do first. 
+English. Whatever I find the time and will to do first. Maybe I will
+just huddle in a corner and cry quietly. Or go out and enjoy, once
+again, Granada.
 
 
 ## Instructions for use

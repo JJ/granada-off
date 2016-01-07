@@ -87,7 +87,7 @@ for sale.
 The masonic symbology was put there by the architect, Juan Montserrat
 y Vergés, himself a freemason, and also the author of the
 [former hotel Colón](http://www.iaph.es/arquitectura-contemporanea-andalucia/resumen.do?id=251948)
-which forms the the South-West corner of the Gran vía. This poor chap
+which forms the the South-West corner of the Gran Vía. This poor chap
 was
 [tried in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
 its fate unknown but probably ending in  prison for life or death.
@@ -96,14 +96,14 @@ its fate unknown but probably ending in  prison for life or death.
 There might be
 some symbols there, but it is hard to see from below. However, in this
 house in the number 23 of the Buen Suceso (literally, Good Event)
-street there are three frontispices over the first floor
+street there are three frontispieces over the first floor
 balconies. The one in the moddle, by the side of a cherub that holds a
 parchment with what looks like a circle, we see all kind of building
 symbols: a mallet, a trove, a dented wheel, and, yes, what could be a
 compass, or a triangle, or 
 
 I have not been able to find other symbols anywhere else; either
-solomonic columns, or frigian caps, or triangles. There might be a
+Solomonic columns, or Frigian caps, or triangles. There might be a
 reason for this: Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places.
 
 

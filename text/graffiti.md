@@ -1,4 +1,4 @@
-#The graffiti neumonia and the street art flu
+#The graffiti pneumonia and the street art flu
 
 One traveller once wrote about Granada: "It has a massive graffiti
 problem". Because it is true that you cannot walk a few steps without
@@ -6,7 +6,7 @@ finding one way of street art or another in Granada. Street art is not
 concentrated in a few blocks, or even a neighborhood. It is all over
 the place, it is evident and, well, it is in occasions a nuisance. But
 in many more it is simply sublime. So, paraphrasing the famous rock
-and roll riff, Granada has got the graffiti neumonia and the street
+and roll riff, Granada has got the graffiti pneumonia and the street
 art flu.
 
 A quick primer on street art here. Street art is anything created with
@@ -15,7 +15,7 @@ in a parking. *Graffiti* is a subset made mainly with paint, usually
 spray. This one also goes in many different shapes: stencils are
 repetitive and done usually with a cookie-cutter pattern, tags are
 quick signature-like drafts, wild-style and throwups are more
-elaborated signatures, usualy characteristic of a single street artist
+elaborated signatures, generally characteristic of a single street artist
 or *crew*, which is a collective, blockbusters cover a whole surface
 and finally *pieces* or *masterpieces* are elaborate paintings with a
 topic, that cover a wall or part of it and have many different colors
@@ -45,7 +45,7 @@ together with him, several factors contribute to its dynamism. First
 one is its autonomy. Since there are so many artists and they have
 been able to develop a whole outdoor portfolio, they can live off
 their art, obviously not from the almost always free and spontaneous
-graffiti they throw everywhere, but from comissions either official or
+graffiti they throw everywhere, but from commissions either official or
 made by bars, restaurants or shop owners. This autonomy also means
 that it only depends on itself: it is not tied either to a political
 or urban activism group, skate or hip-hop crews or to urban
@@ -63,7 +63,7 @@ start there.
 >stuff.
 
 As soon as you step down from the bus, you will see a parking lot that
-is decorated with a graffiti version of Ronald Mc Donald, but that is
+is decorated with a graffiti version of Ronald McDonald, but that is
 only a small piece. Trace back your steps to the bus stop, go past the
 private academy and get to back of the motorway wall. From that place,
 almost a couple of kilometers of graffiti await you, mainly pieces and
@@ -73,7 +73,7 @@ instance, [*sendra*, or Ramón Sendra](https://www.instagram.com/rpsendra/) with
 of different colors. Also
 [Nake](https://www.instagram.com/nakepablo/), a young artist which is
 also an illustrator, or
-[Rose, a german artist that blossomed in Granada](http://pintandogranada.blogspot.com.es/2015/08/rose.html). And
+[Rose, a German artist that blossomed in Granada](http://pintandogranada.blogspot.com.es/2015/08/rose.html). And
 also some pieces signed LJDA, *Los Jinetes del Apocalipsis*, the first
 collective created in the 90s and who are, still, active in some
-special ocassions. 
+special occasions. 
