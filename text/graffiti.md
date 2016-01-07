@@ -1,6 +1,6 @@
 #The graffiti pneumonia and the street art flu
 
-One traveller once wrote about Granada: "It has a massive graffiti
+One traveler once wrote about Granada: "It has a massive graffiti
 problem". Because it is true that you cannot walk a few steps without
 finding one way of street art or another in Granada. Street art is not
 concentrated in a few blocks, or even a neighborhood. It is all over

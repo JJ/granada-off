@@ -147,7 +147,7 @@ scary-looking machines in Andalucía.
 >pop singer, who knows. If
 >[my change.org petition succeeds](https://www.change.org/p/ayuntamiento-de-granada-llamar-arquitecto-juan-montserrat-verg%C3%A9s-a-la-calle-ingeniero-ricardo-de-la-cierva),
 >it will have the name of Juan Montserrat Vergés, whom we mention in
->the chapter on freemansonry, and maybe on the one on modernist
+>the chapter on freemasonry, and maybe on the one on modernist
 >Granada, if I get to write it eventually. 
 
 This machine, along with the modernist mansions in the city center and
