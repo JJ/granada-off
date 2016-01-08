@@ -39,7 +39,7 @@ and mixing a masterpiece with the next.
 
 And the main reason why it is so is probably sex. That is *Sex*, or
 also *El niño de las pinturas*, an incredibly talented *writer*, which
-started with a simple *sex* tag you can still find everywhere and is
+started with a simple *sex* or *Sex69* tag you can still find everywhere and is
 now the main driving force of the street art *scene* nowadays. But
 together with him, several factors contribute to its dynamism. First
 one is its autonomy. Since there are so many artists and they have
@@ -74,6 +74,59 @@ of different colors. Also
 [Nake](https://www.instagram.com/nakepablo/), a young artist which is
 also an illustrator, or
 [Rose, a German artist that blossomed in Granada](http://pintandogranada.blogspot.com.es/2015/08/rose.html). And
-also some pieces signed LJDA, *Los Jinetes del Apocalipsis*, the first
+also some pieces signed LJDA, *Los Jinetes del Apocalipsis*, the
+Apocalipsis riders the first
 collective created in the 90s and who are, still, active in some
-special occasions. 
+special occasions.
+
+And you will have to travel to the other part of town to find out a
+bit more about them. In fact, you could follow the freeway for around
+fifteen kilometers, but it is better if you take a couple of buses and
+go to the Nuevo Los Cármenes stadium. Then look South, in the
+direction of the freeway, and will see a mostly dry river.
+
+>That is the river Monachil, the third river in town and the one where
+>90% of the locals who you ask will fail.
+
+Follow the river bed to get under the bridge where the motorway
+crosses it. You will find a *jam* that was created in the tenth
+anniversary of the creation of LJDA. You cannot get more out of the
+beaten track than that. There is fact no track, just the compacted
+river bed. An gorgeous graffiti depicting the four horsemen and the
+inscription LJDA 10th anniversary. It was painted in 2006, and
+celebrates 10 years of creativity, generosity and chaos.
+
+*Sex*-Raúl-Niño de las Pinturas himself tells, in an interview in *Escenas del graffiti en
+ Granada*, how LJDA were born on a rainy Holy Week day in 1996 by
+ Juxa, Mobil, Shogun, Calahad and himself, putting to good use 200
+ sprays they brought, by bus, from Düsseldorf the day before. The
+ first wall was painted in Cervantes avenue. That wall has
+ disappeared, and I have not been able to find anything about it, so
+ it is not worth the while that you walk there, but it is interesting
+ to check out Yerma street.
+
+>Yerma is the name of a play by Federico García Lorca. Meaning laid to
+>waste or infertile, it is metaphorically applied to a woman. And it
+>is a paradox that this street spawned such a fertile art.
+
+This street is where Calahad and Sex lived in the early 90s, and is
+covered in one of the sides by a brick wall. The first graffiti were
+simple tags that read Sex or Calahad, and they were accompanied by
+others, spirit, spit... The first pieces, already in 94, made by Spit
+and others, already show the compressed evolution of the artistic
+career that starts with a single black spray and a fast tag and
+progresses to increasingly complex pieces, the state we are seeing
+today.
+
+However, you will see only those twenty years old graffiti as parts of
+the palimpsest that Yerma street is now. It is still painted, and some
+pieces are quite old, but the piece by el Niño de las Pinturas that
+celebrates the street itself is in the middle, it features a bar code
+and black and white motifs. Just walk up and down and let the city
+talk to you, and return later on to see what has happened. Graffiti
+are alive, and sometimes writers *bomb* other writers by writing over
+them, although there is a hierarchy of respect: pieces over wildstyle
+over throwups over tags. And nobody, ever, will write over anything
+done by El Niño de las Pinturas.
+
+Walk down Camino Bajo de Huétor
