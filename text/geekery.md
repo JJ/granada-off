@@ -116,7 +116,7 @@ which was also in charge of building railways all along eastern
 Andalucía and the lift inside the Eiffel Tower. Surprisingly, this company endures to this very day, although under the
 name of Fives. All steampunks should
 know about this company, responsible for lots of iron bridges and
-scary-looking machines in Andalucía.
+scary-looking machines in Andalucía. 
 
 >If you align yourself with the axis of the steam engine and look
 >uphill, the street just in front is the Cuesta del Molino, and houses
@@ -218,7 +218,63 @@ Or, if that fails, by any one of the many comic, anime and RPG-related events th
 You can also be a hardcore geek of the kind that develops stuff and post it for everyone on [GitHub](http://github.com). If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
 
 You can stop reading this and read your Blacksad. When you are done,
-keep reading, there is so much more in Granada on and off the beaten track.
+keep reading this, there is so much more in Granada on and off the beaten
+track.
+
+Or you can go and visit the Alhambra.
+
+>You have done it already, right? You can now go back and do it again,
+>but going off the beaten track. Is there a track not beaten to death
+>in the Alhambra? Yes. Just look up, look at the patterns, and look at
+>it with the eyes of mathematics.
+
+Brush up your math first. Because to walk of the beaten track you need
+sturdy boots and math. Remember studying symmetry groups? I do not,
+either. Anyway, it is basically a way of covering a surface by picking
+up a motif, twisting, moving it, and flipping it. Get a black and
+white square, for instance. You copy/paste it and you have got
+two. Then turn it around clockwise, and you will have two squares with
+perpendicular motifs. You can keep and turning it until you get bored,
+and then copy the whole thing ahd flip it around.
+Well, whatever you do it, you can do it in 17 different ways: that is
+[Fedorov's theorem](https://en.wikipedia.org/wiki/Periodic_graph_%28geometry%29), which was proposed by, you guessed it, Fedorov
+in 1891.
+
+>It is actually known as Fedorov-Schoenflies, or even
+>Fedorov-Schoenflies-Bieberbach theorem. Actually the first two guys
+>discovered it indepedently, because Fedorov did it first, but
+>published it only in Russiand and did not have Twitter and Google
+>Translate for the world to know, so that other guy did it all over
+>again. Third one generalized it to more dimensions. But the Alhambra
+>is only three-dimensional in space, so we will not pay attention to
+>the later.
+
+Well, it so happens that
+[the Alhambra is the only historical site, prior to Fedorov's theorem, that includes the 17 groups](http://www.ralph-abraham.org/articles/MS%23145.Alhambra/ms145.pdf). Is
+that not incredible? Just go there and practice looking at the
+beautiful inlaid tiles. Look for a pattern: a colored 6- or 8-point star, an
+arabesque, whatever. Does it repeat itself? Is it flipped in the next
+group over? Does it rotate around? Take
+[this guide](http://thales.cica.es/rd/Recursos/rd99/ed99-0084-02/capitulo4.html)
+and try to identify the different symmetry groups in the repetition
+patterns, or take some drawings home for reference.
+
+Which is exactly what
+[Maurits Cornelius Escher did, and did it twice](http://euler.slu.edu/escher/index.php/The_Alhambra_and_The_Alcazar_%28Spain%29). He
+visited the Alhambra twice: once in 1926 or 27, and the second time in
+1936, three months before the Spanish Civil war. In fact, he had
+created tesellations, which are tilings of the surface, somewhat
+before that, in the early 20s, but, after his second visit, where he
+took detailed notes, he started to create his amazing "Metamorphoses",
+where one kind of tesellation, say, black and white squares, evolve
+into another, hexagons, going through geccos and turtles and some
+mosaics that are, in fact, incredibly similar to what you find today
+in the Alhambra. He continued doing that kind of tilings mixing devils
+and angels, for instance, well into the 60s. And his inspiration was
+right here or maybe, right now, in front of you, in a humble set of
+majolica tiles in a 700 year old building.
+
+
 
 
 
