@@ -295,7 +295,7 @@ Escoriaza and Calle Molinos, to the recently named Joe Strummer
 square.
 
 >This is one of the few places I will not have to add words to the
->dictionnary for. And it is named for a person, the leader of The Clash, that actually lived in
+>dictionary for. And it is named for a person, the leader of The Clash, that actually lived in
 >Granada for a time. It has been there since 2013, and inaugurated
 >with a concert which I attended and who had the drummer boy for the
 >Clash actually playing. It was a wonderful experience.
