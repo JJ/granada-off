@@ -9,7 +9,7 @@ in many more it is simply sublime. So, paraphrasing the famous rock
 and roll riff, Granada has got the graffiti pneumonia and the street
 art flu.
 
-A quick primer on street art here. Street art is anything created with
+A quick primer on street art is in order here. Street art is anything created with
 artistic intent outdoors. So it goes from stickers to decorated walls
 in a parking. *Graffiti* is a subset made mainly with paint, usually
 spray. This one also goes in many different shapes: stencils are
@@ -55,11 +55,11 @@ none the wiser about it.
 
 So it is difficult to say where to start, but since this is about
 going off the beaten track, ride the SN3 to the end of the line and
-start there.
+start from there.
 
 >You will be close to the Faculty of Fine Arts and the Computer
 >Science and Telecommunications school. I talk about them on the
->chapters on the university of Granada and the other one on geek
+>chapters on the university of Granada and the  one on geek
 >stuff.
 
 As soon as you step down from the bus, you will see a parking lot that
@@ -79,7 +79,52 @@ Apocalipsis riders the first
 collective created in the 90s and who are, still, active in some
 special occasions.
 
-And you will have to travel to the other part of town to find out a
+You will have a good idea of what to expect everywhere else in the
+city, but you will get a better idea if you proceed to the Faculty of
+Fine Arts. This will have to be on a weekday; due to budget cuts all
+the university is shuttered on weekends. Walk through the main gate
+through the roundabout and, forgetting about temporary expositions and
+cheap writing material which you should have checked out on its own
+chapter, make a right until you arrive to the big warehouse. You will
+already see graffiti from there: all that area is a showcase of
+graffiti made by Fine Arts students and by writers from elsewhere. And
+this is something that sets the graffiti scene in Granada apart from
+others: at its core there is a certain academic knowledge, but also
+the networks and communities that are created in this academic
+setting, as opposed to other scenes that coalesce around a particular
+neighborhood, the music of political activism scene. In fact, a
+Faculty of Fine Arts includes all of them: many stencils in town have
+been created as art projects by the students, and the fact that
+pieces, and not other kind of graffiti, are so prevalent in Granada is
+related to the formal studies that many of them have followed. You
+need an idea of composition, color, theme and many other things to
+create a piece, something that is not really needed to tag a wall or
+even to create a complex wild-style signature.
+
+Many graffiti writers have studied there; many writers from elsewhere
+have at least followed a few courses here and, obversely, some
+students have dabbled with street art at least as a drunken caper some
+time in their life. Or maybe they have just worked in this extensive
+graffiti farm, where you see all kind of things: from *jams* created
+by several artists with aquatic motifs, to a utility closet fully decorated, to areas
+overgrown with weeds and with graffiti that have been overwritten with
+jokes by someone else. Also a wall decorated with representations of 1
+euro coins. A black and red stencil with Darth Vader on a Holy Week
+float says "I am your father". Close to the wall, another utility has
+a shadow of a person smoking that seems to look at the rest of the
+graffiti imprinted in the same place. A bit to the right a squid holds
+a bleeding heart and says "squid love". And to the right of that,
+"Graffiti cannot be learned in class".
+
+That might be true, but maybe the class as a collective spawns
+graffiti writers and helps them find their voice. That is interesting
+about this area: many graffiti writers cannot be found anywhere else
+in the city, or maybe in the world. Or, if you find them, they will
+have evolved to something different, probably better. 
+
+But let us travel to another place to check out the secret origins of
+graffiti in Granada. And you will have to take a ride or a bus to the
+other tip of the city to find out a
 bit more about them. In fact, you could follow the freeway for around
 fifteen kilometers, but it is better if you take a couple of buses and
 go to the Nuevo Los Cármenes stadium. Then look South, in the

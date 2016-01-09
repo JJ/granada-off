@@ -235,7 +235,7 @@ up a motif, twisting, moving it, and flipping it. Get a black and
 white square, for instance. You copy/paste it and you have got
 two. Then turn it around clockwise, and you will have two squares with
 perpendicular motifs. You can keep and turning it until you get bored,
-and then copy the whole thing ahd flip it around.
+and then copy the whole thing and flip it around.
 Well, whatever you do it, you can do it in 17 different ways: that is
 [Fedorov's theorem](https://en.wikipedia.org/wiki/Periodic_graph_%28geometry%29), which was proposed by, you guessed it, Fedorov
 in 1891.
