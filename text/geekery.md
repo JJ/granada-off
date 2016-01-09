@@ -280,7 +280,7 @@ widely unknown in Spain as well as elsewhere. In 1934, he created
 ["Vibración de Granada"](http://www.imdb.com/title/tt1869808/?ref_=nm_flmg_cin_7),
 a short silent film that
 [portraits the Alhambra and the whole city](http://www.valdelomar.com/cine3.php?lang=es&menu_act=5&cine1_cod=4&cine2_cod=12&cine3_codi=31)
-as a sucession of images that include fishes, reflections on the water
+as a succession of short scenes that include fishes swimming in a fountain, reflections on the water
 and, at one time, a plane flying overhead. You can see a bit of David
 Lynch there, only 60 years prior to Twin Peaks. At
 the time, Valdelomar was involved with the "Pedagogic missions",
@@ -290,8 +290,8 @@ was introduced to them by Federico García Lorca.
 However, his geekery stems on his work on the machinery of the
 cinema. During the second world war, he
 [registered a patent](http://invenes.oepm.es/InvenesWeb/detalle?referencia=P0168257)
-fpr what would now be called binaural sound. He wanted to create an
-integral experiencie with moviegoing, and in fact, the envolving sound
+for what would now be called binaural sound. He wanted to create an
+integral experience with moviegoing, and in fact, the wrapping sound
 that is now implanted in many movie theaters was shown by him for the
 first time in a movie festival in Berlin in 1955. He experimented also
 with what is called now

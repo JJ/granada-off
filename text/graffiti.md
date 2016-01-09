@@ -215,22 +215,59 @@ writers mentioned and that might have been used elsewhere: drop
 *bombs* on a wall and make it ugly, do it by night and
 unnoticed. Later on, when that wears and the wall looks like a
 showcase of urban decay, talk to the owner and ask for permission to
-do a beautiful piece, which you do.
+do a beautiful piece, which you do. So this was, in fact,
+[authorized and even documented by the local daily, which provided some sprays](http://granadablogs.com/cableados/2014/01/12/1995-cuando-el-nino-de-las-pinturas-era-sex69/). 
 
 This piece is, in fact, beautiful, and current instance includes Sex,
 Nake and many others, including Drew. But the part I like the most is
 more or less in the middle and uses the *trompe l'oeil* technique to
 simulate a chasm opening in the wall with a figure with elongated arms
-grabbing another graffiti to avoid falling. Its tag, RNDS or RNOS, is
-completely unknown, but the signatures to the right, Sex, [Rakis](http://pintandogranada.blogspot.com.es/2015/08/rakis.html) and
+grabbing another graffiti to avoid falling. It was created by XNOS,
+[which has a few other pieces to his name](https://www.flickr.com/photos/bit-ramone/2436938878),
+but he is not so well known by this name, unlike the signatures to the right, Sex, [Rakis](http://pintandogranada.blogspot.com.es/2015/08/rakis.html) and
 even LJDA again are still there. [Rakis](https://myspace.com/rakisljda/photos) was born in Düsseldorf and was
 the one in charge of bringing sprays to the whole LJDA crew. He
 continues
 [collaborating to this day](http://veronicasotosanchez.blogspot.com.es/2013/05/pajaureo-con-sex-y-rakis-ogijares.html),
-with his wildsyle signatures that blend with the beautiful pieces by
-Sex.
+with his wildstyle signatures that blend with the beautiful pieces by
+Sex. And in fact, XNOS is also known as
+[Pornostars](https://www.flickr.com/photos/bit-ramone/2324581223),
+which included people like Reno, Drew and writers from other places
+like [Kies](http://www.elrincondelasboquillas.com/kies/). In fact,
+either as XNOS or as Pornostars they have
+[been travelling and decorating walls all over Europe](http://champu-anticaspa.blogspot.com.es/2011/06/arte-callejero-iii.html). 
 
+But let us go across the river, to Granada. For a long time, the
+residents in this part of the city said "I am going to Granada" every
+time they walked to the city center. But, in fact, we are in a
+different neighborhood, different rules.
 
+But the same graffiti. The *Virgen" neighborhood, smack in the city
+center, features stencils, pastes and many faces drawn by Sex. Raúl
+was probably the first one to be considered *all city* that is, a
+person that has covered all corners or neighborhoods of the city. From
+the Chana to the Zaidín, through the city center, there are few blocks
+where el Niño de las Pinturas has not left his particular signature,
+with brown hues, beautiful faces and cogs or machinery pieces that
+appear everywhere in his work.
 
+However, it is el Realejo neighborhood where he is really prolific and
+the place we have to walk over and over again to check whatever new he
+has concocted in his mind. Or in other cases what has disappeared,
+like
+[this amazing cat](https://www.instagram.com/p/z2XNmIxl3Z/?taken-by=gr8graffiti)
+that appeared in January 2015 and that promptly was taken down due to
+a protest by the neighbors, who said it did not keep the style of the
+rest of the houses. Which is blatantly false, since the style of this
+particular zone is *defined* by graffiti.
+
+Just wander around every single alley and street and you will find
+things to contemplate, but there is a blind alley, called Parra de San
+Cecilio, and which is right behind the San Cecilio church
+
+>Which is also a decaying exhibition of *trompe l'oleil*.
+
+and one of the places which you *cannot* visit using Google Street
+Maps, that is why you will have to go there and be there physically. 
 
 
