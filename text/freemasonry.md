@@ -128,7 +128,7 @@ That was the lodge where Federico García Lorca was apparently
 initiated, under the assumed name Homer. And he was not the only
 person associated with freemasonry here. [Mariana Pineda](https://es.wikipedia.org/wiki/Mariana_Pineda), the heroine
 that was killed during the reign of the much hated Ferdinand the VII,
-was accussed of creating a republican flag when what she was
+was accused of creating a republican flag when what she was
 actually doing was embroidering an emblem, or maybe an apron, for a masonic lodge with a
 triangle and the words "Libertad, Ley, Igualdad", "Freedom, Law,
 Equality". The colors of the emblem correspond to the Knight of the
@@ -138,8 +138,7 @@ which should have been self-evident, since it does not look at all
 like the Spanish republican flag, red, yellow and purple.
 
 However, at that time women were not allowed into lodges, so she was
-not a freemason herself. Her name was [adopted by the first woman to
-actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html). Nowadays, she lives on as the [name of one of
+not a freemason herself. Her name was [adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html). Nowadays, she lives on as the [name of one of
 the active lodges in Granada](http://www.masoneriaengranada.es/),
 which is, as any of them nowadays, open to all kinds of
 people. It is still a discrete society and there is nothing you will
