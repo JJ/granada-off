@@ -242,8 +242,8 @@ in 1891.
 
 >It is actually known as Fedorov-Schoenflies, or even
 >Fedorov-Schoenflies-Bieberbach theorem. Actually the first two guys
->discovered it indepedently, because Fedorov did it first, but
->published it only in Russiand and did not have Twitter and Google
+>discovered it independently, because Fedorov did it first, but
+>published it only in Russian and did not have Twitter and Google
 >Translate for the world to know, so that other guy did it all over
 >again. Third one generalized it to more dimensions. But the Alhambra
 >is only three-dimensional in space, so we will not pay attention to
@@ -263,16 +263,56 @@ Which is exactly what
 [Maurits Cornelius Escher did, and did it twice](http://euler.slu.edu/escher/index.php/The_Alhambra_and_The_Alcazar_%28Spain%29). He
 visited the Alhambra twice: once in 1926 or 27, and the second time in
 1936, three months before the Spanish Civil war. In fact, he had
-created tesellations, which are tilings of the surface, somewhat
+created tessellations, which are tilings of the surface, somewhat
 before that, in the early 20s, but, after his second visit, where he
 took detailed notes, he started to create his amazing "Metamorphoses",
-where one kind of tesellation, say, black and white squares, evolve
-into another, hexagons, going through geccos and turtles and some
+where one kind of tessellation, say, black and white squares, evolve
+into another, hexagons, going through gekkos and turtles and some
 mosaics that are, in fact, incredibly similar to what you find today
 in the Alhambra. He continued doing that kind of tilings mixing devils
 and angels, for instance, well into the 60s. And his inspiration was
 right here or maybe, right now, in front of you, in a humble set of
 majolica tiles in a 700 year old building.
+
+As was the inspiration also for one of the local über-geeks:
+[José Valdelomar or Val del Omar](https://es.wikipedia.org/wiki/Jos%C3%A9_Val_del_Omar),
+widely unknown in Spain as well as elsewhere. In 1934, he created
+["Vibración de Granada"](http://www.imdb.com/title/tt1869808/?ref_=nm_flmg_cin_7),
+a short silent film that
+[portraits the Alhambra and the whole city](http://www.valdelomar.com/cine3.php?lang=es&menu_act=5&cine1_cod=4&cine2_cod=12&cine3_codi=31)
+as a sucession of images that include fishes, reflections on the water
+and, at one time, a plane flying overhead. You can see a bit of David
+Lynch there, only 60 years prior to Twin Peaks. At
+the time, Valdelomar was involved with the "Pedagogic missions",
+itinerant workshops and shows created by the Republican Government; he
+was introduced to them by Federico García Lorca.
+
+However, his geekery stems on his work on the machinery of the
+cinema. During the second world war, he
+[registered a patent](http://invenes.oepm.es/InvenesWeb/detalle?referencia=P0168257)
+fpr what would now be called binaural sound. He wanted to create an
+integral experiencie with moviegoing, and in fact, the envolving sound
+that is now implanted in many movie theaters was shown by him for the
+first time in a movie festival in Berlin in 1955. He experimented also
+with what is called now
+[haptic perception](https://pilotodigital.wordpress.com/2015/07/30/video-mapping-percepcion-haptica-y-simulacro/),
+being thus a pioneer of video mapping.
+
+However, he was ostracized, being ideologically contrary to the Franco
+regime. His work was discovered only after his death, with
+[exhibitions in the national art museum](http://www.museoreinasofia.es/actividades/archipielago-val-omar)
+and [release of his work](https://vimeo.com/josevaldelomar) which, of
+course, can be enjoyed much better with the full sensory experience he
+favored. Although he went on to live in Madrid, he returns to Granada
+often and can be seen in
+[these candid domestic videos](https://vimeo.com/40709352). That is
+why you will not be able to see much of him, unless there is
+[an exhibition](http://granadaocio.es/event/exposicion-val-del-omar-111-111-aniversario-del-nacimiento-en-granada/). There
+is a Val del Omar room in the Parque de las Ciencias, and there is a
+[Val del Omar prize for experimental cinema ](http://www.filmfest-granada.com/blog/el-xxi-festival-internacional-de-jovenes-realizadores-de-granada-anuncia-parte-de-su-palmares/9-meter-ganador-premio-val-del-omar)
+at the Young Cinematographers Festival in Granada. So let him live in
+your memory, or remember him when you watch Star Wars with surround
+sound. 
 
 
 
