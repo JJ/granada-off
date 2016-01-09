@@ -138,10 +138,15 @@ which should have been self-evident, since it does not look at all
 like the Spanish republican flag, red, yellow and purple.
 
 However, at that time women were not allowed into lodges, so she was
-not a freemason herself. Her name was [adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html). Nowadays, she lives on as the [name of one of
-the active lodges in Granada](http://www.masoneriaengranada.es/),
-which is, as any of them nowadays, open to all kinds of
-people. It is still a discrete society and there is nothing you will
+not a freemason herself. Her name was
+[adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html). Nowadays,
+she lives on as the [name of one of the active lodges in Granada](http://www.masoneriaengranada.es/),
+which is, as most of them nowadays, open to all kinds of
+people. Two more lodges are active now:
+[Conocimiento](http://www.logiaconocimiento158.com/regularidad.htm)
+and [Giner de los Ríos](http://www.logiaginerdelosrios.es/).
+
+It is still a discrete society and there is nothing you will
 be able to watch and see. It is worth the while to visit her monument,
 in the middle of the square that bears her name. One of the panels of
 the pedestal bears the legend "Con el secreto inmortalizó el nombre",

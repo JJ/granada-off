@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+
+pandoc --toc  \
+    -o granadaoff.doc granada.txt  text/prologue.md text/tips.md text/off-limits.md text/snow.md\
+    text/whorehouses.md text/roundabouts.md text/train-station.md\
+    text/haunted.md text/buskers.md\
+    text/danger-castle.md text/fast-food.md text/water.md \
+    text/eccentrics-and-oddballs.md  text/university.md text/geekery.md\
+    text/graffiti.md
+   
+
+
+
