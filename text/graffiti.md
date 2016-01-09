@@ -235,7 +235,7 @@ Sex. And in fact, XNOS is also known as
 which included people like Reno, Drew and writers from other places
 like [Kies](http://www.elrincondelasboquillas.com/kies/). In fact,
 either as XNOS or as Pornostars they have
-[been travelling and decorating walls all over Europe](http://champu-anticaspa.blogspot.com.es/2011/06/arte-callejero-iii.html). 
+[been going places and decorating walls all over Europe](http://champu-anticaspa.blogspot.com.es/2011/06/arte-callejero-iii.html). 
 
 But let us go across the river, to Granada. For a long time, the
 residents in this part of the city said "I am going to Granada" every
@@ -265,9 +265,64 @@ Just wander around every single alley and street and you will find
 things to contemplate, but there is a blind alley, called Parra de San
 Cecilio, and which is right behind the San Cecilio church
 
->Which is also a decaying exhibition of *trompe l'oleil*.
+>Which is also a decaying exhibition of *trompe l'oeil*.
 
 and one of the places which you *cannot* visit using Google Street
-Maps, that is why you will have to go there and be there physically. 
+Maps, that is why you will have to go there and be there physically.
+
+You will be glad you did it. On the left hand side, or in front,
+depending on how you came in, you will see first a piece with an
+intriguing woman and "Las palabras se perderán sin remedio", "The
+words will be lost without a solution" combined with trees and
+geometric drawings, and it continues, with a yellow background, for
+a hundred meters with all kinds of colors and styles, with ghosts,
+Urquell the TV star and a checker board, all linked by irregular
+tessellations. You can also look at the other side, although the work
+is minor and changes from time to time. But get to the end, where a
+skull awaits you.
+
+This skull is a great example of contextual art. The teeth, nose stub
+and eyes are part of the building. It is only black paint applied to
+make the silhouette of the skull pop out by itself. This was the
+basement of the Colombia hotel and restaurant, which is abandoned and
+derelict, so it is kind of an epitaph too.
+
+Walk back down and let us get to the end of the tour. Although, as Val
+del Omar finished his motion pictures, there is "No end" for graffiti
+in Granada, even as vandalism sometimes forces crackdowns on what is
+only a form of artistic expression. Get to the corner between
+Escoriaza and Calle Molinos, to the recently named Joe Strummer
+square.
+
+>This is one of the few places I will not have to add words to the
+>dictionnary for. And it is named for a person, the leader of The Clash, that actually lived in
+>Granada for a time. It has been there since 2013, and inaugurated
+>with a concert which I attended and who had the drummer boy for the
+>Clash actually playing. It was a wonderful experience.
+
+In a radius of 50 meters from the decaying face of Strummer, made by
+none other than Sex, several dozens of square meters of the finest
+graffiti look at you, most made by Sex himself. The little square to
+the right includes a whole house and the husk of another decorated
+with browns and beiges and tan. It is nice to watch in spring,
+because the golden sun inundates it all, it is incredible to watch in
+fall and winter, because the naked branches of the tree will give you
+full sight of this incredible corner.
+
+But from there you will see uphill a wall that is decorated up a down,
+in a blockbuster that is actually a piece with a kid, a kid that asks
+questions, and further up the street, a two-story house painted red,
+with a baby on it, and street art all over: a broken TV turned into an
+sculpture, and even the little wall that prevents you from falling
+over painted with the skyline of the Alhambra.
+
+>And that is the beginning of the Barranco del Abogado, which deserves
+>another chapter. You are also a few meters from the Fives-Lille steam
+>engine and the "fake engineer" Ricardo de la Cierva street,
+>referenced in the geekery chapter.
+
+From there, remember that Granada is a living graffiti jewel. And the
+perfect recipe for finding them is just walking off the beaten
+track. Just like the rest of the book. 
 
 
