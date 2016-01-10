@@ -7,7 +7,7 @@ pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
     text/whorehouses.md text/roundabouts.md text/train-station.md\
     text/haunted.md text/buskers.md\
     text/danger-castle.md text/fast-food.md text/water.md \
-    text/eccentrics-and-oddbals.md  text/university.md text/geekery.md\
+    text/eccentrics-and-oddballs.md  text/university.md text/geekery.md\
     text/graffiti.md
    
 
