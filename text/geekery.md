@@ -68,7 +68,17 @@ That helicopter is an [Sikorsky S-76C Spirit or HE24 in SpAF denomination](http:
 
 >Last annotation is mine, I guess. The page did not mention it was retired from service.
 
-Actually, the previous location was the aforementioned Parque de las Ciencias, where apparently went after [the engine broke, according to a tweet](https://twitter.com/WanManolo/status/681797531421007872). And it was placed there to celebrate the centennial of aviation in Spain. Curiously enough, the plane was called S-76 to celebrate the *bicentennial* of the US. So, two centennials in a single decorated roundabout. This helicopter has also got a much [geekier version, the S-76 Shadow](http://www.kamov.net/general-aviation/s-76-shadow/), with an awkward-looking but coolly operated through a Heads-Up Display front-mounted single-pilot cabin. And that is a sentence with a lot of dashes. 
+Actually, the previous location was the aforementioned Parque de las
+Ciencias, where apparently went after
+[the engine broke, according to a tweet](https://twitter.com/WanManolo/status/681797531421007872). And
+it was placed there to celebrate the centennial of aviation in
+Spain. Curiously enough, the plane was called S-76 to celebrate the
+*bicentennial* of the US. So, two centennials in a single decorated
+roundabout. This helicopter has also got a much
+[geekier version, the S-76 Shadow](http://www.kamov.net/general-aviation/s-76-shadow/),
+with an awkward-looking but coolly operated through a Heads-Up Display
+front-mounted single-pilot cabin. And that is a sentence with a lot of
+dashes.  
 
 >More about roundabouts in its very own chapter.
 
@@ -113,7 +123,7 @@ high sugar prices brought unknown wealth to many countries and regions
 in the world, including Granada. The machine was produced in 1905 by
 [Fives-Lille](https://fr.wikipedia.org/wiki/Fives-Lille), a company
 which was also in charge of building railways all along eastern
-Andalucía and the lift inside the Eiffel Tower. Surprisingly, this company endures to this very day, although under the
+Andalucía and the lift inside the Eiffel Tower. Surprisingly, Fives-Lille endures to this very day, although under the
 name of Fives. All steampunks should
 know about this company, responsible for lots of iron bridges and
 scary-looking machines in Andalucía. 
@@ -148,7 +158,12 @@ scary-looking machines in Andalucía.
 >[my change.org petition succeeds](https://www.change.org/p/ayuntamiento-de-granada-llamar-arquitecto-juan-montserrat-verg%C3%A9s-a-la-calle-ingeniero-ricardo-de-la-cierva),
 >it will have the name of Juan Montserrat Vergés, whom we mention in
 >the chapter on freemasonry, and maybe on the one on modernist
->Granada, if I get to write it eventually. 
+>Granada, if I get to write it eventually.
+>An *update* on this after the first edition: the bug in the name of
+>the street was found and it is going to be fixed. Maybe it will
+>create another but at another level, because the initial intention
+>[when the street was named in 1996 was to name it Ingeniero Juan de la Cierva](http://granadablogs.com/cableados/2016/01/10/tienes-mas-calles-que-de-la-cierva-en-granada/). So
+>it is worth the while to check this street out just to see the end of this.
 
 This machine, along with the modernist mansions in the city center and
 the Gran Vía, are testimony of that era
@@ -167,13 +182,58 @@ The main hall has all kind of widgets: rockets, other engines, maybe some other 
 
 If you go across the parking to the next building and ask nicely, you might be able to visit [Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which is not open to the public but there will probably be someone proud enough in [computing services of the University](http://csirc.ugr.es) to show it to you. That is the precise building where the ur-geeks of the eighties spent our time, because it housed the first computer lab, filled with IBM XTs, and where you had to dress nicely, no shorts, if you did not want to be expelled by the janitors. This building housed the university mainframes for some time, and it still has a big data center.
 
-If you want to see one of those computers, you will have to catch the SN3 bus to the [ETSIIT](http://etsiit.ugr.es), which is a geek place if there is one in Granada. You cannot miss the stop: where the nerd-looking guys get down, that is the place
+If you want to see one of those computers, you will have to catch the
+SN3 bus to the [ETSIIT](http://etsiit.ugr.es), a geek place if there
+is one in Granada. You cannot miss the stop: where the nerd-looking
+guys get down from the bus, that is the place
 
->It is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
+>That bus stop is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
 
-The main hall is graced by a big IBM mainframe, together with all its peripherals: disk drum, data entry console, all the rest. But it did not belong to the University, but to some pioneering computing company in Granada called *Centro de Cálculo de Granada*, which has completely vanished.
+The main hall is graced by a big [IBM System/3 mainframe], together
+with all its peripherals: disk drum, data entry console, all the
+rest. But it did not belong to the University, but to some pioneering
+computing company in Granada called *Centro de Cálculo de Granada* and
+eventually
+[Indesa, which went belly up](http://www.einforma.com/servlet/app/prod/DATOS_DE/EMPRESA/INDESA-INFORMATICA-SA-C_QTE4MDEzMzkx_de-GRANADA.html)
+sometime in the early nineties, when the web was coming up. The
+history of this company, along with the whole history of computing in
+Granada, has yet to be written, but the wikipedia says that this
+particular model was discontinued in 1985. I can assume it has been
+gutted for parts, since
+[processors and other parts can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
 
-Then, walk up two floors to the Department of [Computer Technology and Architecture](http://atc.ugr.es),
+These old computers, besides, had a quality that new computers do not
+have. They are big and they can be used to support other things. That
+is way it has eventually accreted other computer and computer-like
+things. To the left hand side something that looks like, and probably
+is, a telephone manual switchboard. A
+[Datapoint 1500](https://en.wikipedia.org/wiki/Datapoint) "terminal"
+is supported by a set of Shugart disk drives, that seem to be an
+integral part of it but they are not, only they are decorated with the
+same uniform *computer beige* that was the single hue for computers
+until, I guess, Apple came. This terminal, and the company indeed, are
+quite remarkable, and not only because the keyboard feels like real.
+
+>Just type in it. Enjoy the feedback and the return of the keys. In a
+>40-year old computer, no less.
+
+But also because
+[it costed almost 6000$ at the time](https://news.google.com/newspapers?nid=849&dat=19771010&id=npkmAAAAIBAJ&sjid=a1QDAAAAIBAJ&pg=5965,540795&hl=en)
+and its company was the precursor of the modern microprocessor
+architecture, designing for the Datapoint 2200 (not this one) a
+processor that would eventually become the famous Intel 8008, which is
+still a tiny part of every Intel computer you (and I) use.
+
+>These guys also developed ARCnet, a network system alternative to the
+>Ethernet that is in wide use today and which I remember to have
+>studied in the 80s, and an early videoconferencing system called
+>MINX. 
+
+Continuing with the piling up of computer-like things, there is also a
+electronic typewriter which I remember having seen in our department
+secretary. Which is where you could go next: Walk up two floors to the
+Department of
+[Computer Technology and Architecture](http://atc.ugr.es). 
 
 >Once you are there, go to the next to last office on the right on the corridor to your left, you might recognize the name of the person there, and if he is in, he will happily sign your copy of this book, or your Kindle or other reading device. Appointment not necessary. 
 
