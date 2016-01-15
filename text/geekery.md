@@ -197,7 +197,7 @@ eventually
 [Indesa, which went belly up](http://www.einforma.com/servlet/app/prod/DATOS_DE/EMPRESA/INDESA-INFORMATICA-SA-C_QTE4MDEzMzkx_de-GRANADA.html)
 sometime in the early nineties, when the web was coming up. The
 history of this company, along with the whole history of computing in
-Granada, has yet to be written, but the wikipedia says that this
+Granada, has yet to be written, but the Wikipedia says that this
 particular model was discontinued in 1985. I can assume it has been
 gutted for parts, since
 [processors and other parts can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
@@ -209,7 +209,7 @@ things. To the left hand side something that looks like, and probably
 is, a telephone manual switchboard. A
 [Datapoint 1500](https://en.wikipedia.org/wiki/Datapoint) "terminal"
 is supported by a set of Shugart disk drives, that seem to be an
-integral part of it but they are not, only they are decorated with the
+integral part of it but they are not, although they were sold together, only they are decorated with the
 same uniform *computer beige* that was the single hue for computers
 until, I guess, Apple came. This terminal, and the company indeed, are
 quite remarkable, and not only because the keyboard feels like real.
@@ -218,16 +218,24 @@ quite remarkable, and not only because the keyboard feels like real.
 >40-year old computer, no less.
 
 But also because
-[it costed almost 6000$ at the time](https://news.google.com/newspapers?nid=849&dat=19771010&id=npkmAAAAIBAJ&sjid=a1QDAAAAIBAJ&pg=5965,540795&hl=en)
+[they charged almost 6000$ at the time, the early 80s](https://news.google.com/newspapers?nid=849&dat=19771010&id=npkmAAAAIBAJ&sjid=a1QDAAAAIBAJ&pg=5965,540795&hl=en)
 and its company was the precursor of the modern microprocessor
 architecture, designing for the Datapoint 2200 (not this one) a
 processor that would eventually become the famous Intel 8008, which is
-still a tiny part of every Intel computer you (and I) use.
+still a tiny part of every Intel computer you (and I) use. The
+computer itself has the power of a 2$ Arduino, with 32K of RAM and a
+processor with a few megahertz. But, well, that is progress for
+you. And I do not know where it comes from. I have not seen anything
+like that in the university; it interfaced with IBM computers, so it
+might come from the same source. 
 
 >These guys also developed ARCnet, a network system alternative to the
 >Ethernet that is in wide use today and which I remember to have
 >studied in the 80s, and an early videoconferencing system called
->MINX. 
+>MINX. According to
+>[this book, they invented the personal computer](https://books.google.es/books?id=idTeAAAAQBAJ&pg=PT240&lpg=PT240&dq=datapoint+1500&source=bl&ots=cKE_IVKDQF&sig=IrptOLEbQN9clXsBYx8zn-mPUII&hl=es&sa=X&ved=0ahUKEwjWxI7znavKAhXLExoKHXF6CuQQ6AEIVTAL#v=onepage&q=datapoint%201500&f=false),
+>so what you have in front of you is maybe one of the early instances
+>of something you have at home. 
 
 Continuing with the piling up of computer-like things, there is also a
 electronic typewriter which I remember having seen in our department
