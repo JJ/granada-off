@@ -19,7 +19,12 @@ nineties. Why should they? They work as a charm.
 
 Unbeknownst to most people, including probably 90% of the people in
 Granada, the first science museum was created in a high school, and it
-is probably still there. It is the
+is might still be there.
+
+>But it might not, or be completely shuttered by the time you read
+>this. Books survive longer than museums, apparently.
+
+It is the
 [science museum of the Padre Suárez institute](https://es.wikipedia.org/wiki/Museo_de_Ciencias_del_Instituto_Padre_Su%C3%A1rez_de_Granada).
 
 >The
@@ -41,7 +46,28 @@ four rooms filled with stuffed animals, mockups, physics and chemistry
 instruments and something called
 [Dr. Kagerah's boxes](https://www.flickr.com/photos/43095111@N08/sets/72157622355913429),
 which is so much like the title of a terror movie that you totally
-have to go and check it out. If you do not make it into the building,
+have to go and check it out. In fact, it is really worth the while to
+have a look at them, because they might be the only ones left in the
+whole wide world. I have not been able to find much about them, but
+what I have been able to find is that they were variously called
+["Dr. Kagerah's cabinets"](http://chroniclingamerica.loc.gov/lccn/sn84038095/1911-02-01/ed-1/seq-11.pdf)
+or
+["Dr. Kagerah Technological Educational Appliances"](http://www.forgottenbooks.com/readbook_text/Western_Drawing_and_Manual_Training_Association_Twenty-First_Annual_1000351269/201). And
+they were created by Carl or Karl Kagerah, who apparently lived first
+in Hamburg and then moved to Milwaukee, Wisconsin. He sold these boxes
+to museums, banks and all kind of companies, and its intention was to
+show industrial processes. It is difficult to know nowadays what they
+are
+about. [This one, for instance, could be about paper](https://www.flickr.com/photos/43095111@N08/3965471837/in/album-72157622355913429/)
+while
+[this one is about the product of corn](https://www.flickr.com/photos/43095111@N08/3970953265/in/dateposted/),
+mainly because there is a corncob on the left hand side. They are
+apparently labeled in English, German or even Spanish, but their intent
+and quaintness are really worth a visit. Maybe you can puzzle out what
+they are about. 
+
+
+If you do not make it into the building,
 [this Flickr gallery might give you an idea of what you are missing](https://www.flickr.com/photos/43095111@N08/),
 like
 [this, er, oriental royal XIX century bong](https://www.flickr.com/photos/43095111@N08/3971686818/in/dateposted/).
@@ -62,19 +88,27 @@ and in this era where we need so many STEM graduates, even more.
 But let us ride the LAC to go back to the big science museum brother,
 and as you get out it, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
->I remember to spend the time of boring classes during the 80s watching the Bucker 131 biplanes sputtering in the sky, in front of the Facultad de Ciencias. They were true relics of the 20s, and probably the ones that were used to train by current fighter pilots in the Spanish air force.
+>I remember to spend the time of boring classes during the 80s
+>watching the Bucker 131 biplanes sputtering in the sky, in front of
+>the Facultad de Ciencias. They were true relics of the 20s, and
+>probably the ones that were used to get trained by current fighter pilots
+>in the Spanish Air Force (SpAF).
 
 That helicopter is an [Sikorsky S-76C Spirit or HE24 in SpAF denomination](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=CF3470AF935F8396C12570D700464251&idRef=F28FEDE5105891C6C12576350030E54B), was acquired in 1991 and used mainly for instrumental training in the wing, although it could be used also for ferrying people or rescue missions. It is one of the [most modern helos in the SpAF](http://www.ala78virtual.es/contenidos/flota.htm), so I do not really understand what is the deal with it. Maybe it was originally bought second hand or something. You can see it in action in [this video](https://www.youtube.com/watch?v=2Fvo2hnYzu4) and check its former locations in [this helospotters database](http://www.helis.com/database/cn/3517/)
 
 >Last annotation is mine, I guess. The page did not mention it was retired from service.
 
 Actually, the previous location was the aforementioned Parque de las
-Ciencias, where apparently went after
+Ciencias, where it apparently went after
 [the engine broke, according to a tweet](https://twitter.com/WanManolo/status/681797531421007872). And
 it was placed there to celebrate the centennial of aviation in
 Spain. Curiously enough, the plane was called S-76 to celebrate the
-*bicentennial* of the US. So, two centennials in a single decorated
-roundabout. This helicopter has also got a much
+*bicentennial* of the US.
+
+>So, two centennials of disparate entities in a single decorated
+>roundabout.
+
+This type of helicopter has also got a much
 [geekier version, the S-76 Shadow](http://www.kamov.net/general-aviation/s-76-shadow/),
 with an awkward-looking but coolly operated through a Heads-Up Display
 front-mounted single-pilot cabin. And that is a sentence with a lot of
@@ -82,11 +116,12 @@ dashes.
 
 >More about roundabouts in its very own chapter.
 
-If you continue in the direction of the Avenida de América, past the
+If you continue in the direction of the Avenida de América, that is
+right if you come from Parque de las Ciencias, and go past the
 exit of the underground tunnel, where, who knows, you might even see a
-train coming or going, past the nano-Manhattan by the end of that
+train coming or going, go past the nano-Manhattan by the end of that
 avenue, with a couple of tall buildings, and then, when you arrive at
-the boulevard with the frayed flags, take a left and you will arrive at
+the boulevard with the frayed European flags, take a left and you will arrive at
 the
 [Instituto de Astrofísica de Andalucía, IAA or Andalusian Astrophysics institute](http://iaa.es). You
 cannot miss it, it is the one with the rocket protruding out of its
@@ -178,7 +213,9 @@ early 70s, to never come back until now. Or maybe 2016. Who knows.
 
 That tram was, for some time, placed in la [Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It might or might not be there by the time you read this, since it was taken for restoration and has not returned. However, there is another steam engine parked there and you can always check [the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias), which was projected and built in the sixties although it has had lots of additions. There is some fodder for geeks inside the building, where all kind of sciences, from Physics to Geology, are studied. To the right hand side, the Physics building houses a Foucault pendulum, and going from there to the main building, the library to the right hand side houses scientific journals from early on, the fifties and even before that. I have spent there a good part of my studies in the eighties, and I was elated to find an article by Einstein himself, published in the fifties in some Physics journal. Quite an interesting, if a bit over the top of my head, reading.
 
-The main hall has all kind of widgets: rockets, other engines, maybe some other temporary exhibitions,  and, from there on, the biology building has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
+The main hall has all kind of widgets: rockets, other engines, maybe
+some other temporary exhibitions, and, from there on, the Biology
+building, which lies to the right, has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
 
 If you go across the parking to the next building and ask nicely, you might be able to visit [Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which is not open to the public but there will probably be someone proud enough in [computing services of the University](http://csirc.ugr.es) to show it to you. That is the precise building where the ur-geeks of the eighties spent our time, because it housed the first computer lab, filled with IBM XTs, and where you had to dress nicely, no shorts, if you did not want to be expelled by the janitors. This building housed the university mainframes for some time, and it still has a big data center.
 
@@ -261,7 +298,7 @@ Once again, not much to see there. You will have to ask for an appointment and t
 
 >And I know this because we were the origin of that technology through a contract between them and our university.
 
-But algorithms do not a high visual impact, although they have have
+But algorithms do not a high visual impact, although they have
 all kind of other impacts when your company is the target of the prediction. Maybe the best is to be in one of the cafés around it at coffee time, around 10-11 AM, and listen to their geek conversation or just watch their demeanor, which is probably similar to every other tech company in the world except for the fact that they go outside to have a coffee. Try to make out who are the executives, who are the commercial, who man customer supports, and who is in the basement manhandling the computers that make everything work or programming them.
 
 And, while you are at it, you might see the signs for one such "Spiral startups", in another glass building, right by its side. You might even be able to watch it from outside the shuttered spaces, because it closed a while ago, signaling the onset of the bursting of the coworking bubble in Granada. [Spiral Startups](https://www.linkedin.com/company/spiral-startups) was, at one point in time, one of almost a couple of dozen coworking spaces in Granada. If you are not familiar with the concept, a coworking office is just an open space that provides a desk area, connectivity and amenities to freelancers and startup companies. During the crisis, they were a convenient and cheap alternative to either staying at your parents, renting real office space or crashing at a café. For less than 50€ a month, you could have your very own office to receive customers and interact with fellow entrepreneurs. 
