@@ -18,7 +18,7 @@ and walk Granada (and maybe somewhere else) in a new way.
 
 But you might have bought it as *Granada On*, which is kind of
 meaningless, but better than *Granada Off*, short for "Granada off the
-beaten grack" but a title that, no pun intended, might put you off
+beaten track" but a title that, no pun intended, might put you off
 buying it.
 
 But I still do not like it very much; it looks a lot like
