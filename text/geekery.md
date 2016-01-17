@@ -238,12 +238,24 @@ Granada, has yet to be written, but the Wikipedia says that this
 particular model was discontinued in 1985. I can assume it has been
 gutted for parts, since
 [processors and other parts can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
+With exactly the same height and color-coordinated, you would say it
+is part of the same thing, and I am not sure it was not, there is a
+Digital RA82 disk drive. This disk had all of 622Megabytes, that is,
+it could store 150 songs or so, much less than your current phone. And
+it costed, well, a lot. You can still buy it for several hundred
+dollars in, where else, eBay. 
 
 These old computers, besides, had a quality that new computers do not
-have. They are big and they can be used to support other things. That
+have. They are big and they can be used to support other things.
+>Lots of possible decorations were lost when *big head* monitors gave
+>way to new, flat ones. Where did the flowerpot go?
+
+That
 is way it has eventually accreted other computer and computer-like
 things. To the left hand side something that looks like, and probably
-is, a telephone manual switchboard. A
+is, a telephone manual switchboard built by Standard Eléctrica, a
+Spanish subsidiary to AT&T. Beautifully encased in wood,
+it could be mistaken by a dormitory cabinet. A
 [Datapoint 1500](https://en.wikipedia.org/wiki/Datapoint) "terminal"
 is supported by a set of Shugart disk drives, that seem to be an
 integral part of it but they are not, although they were sold together, only they are decorated with the
