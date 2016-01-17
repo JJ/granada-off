@@ -10,15 +10,40 @@ When I started this book, I had been living in Granada for thirty years. Every d
 ## The title
 
 This book might be called Granada hacks. It might still be, in some
-future edition. *Hacks* is the title of a series of books that tell you how to use programming languages, or whatever (there is even a Mind Hacks) in ways you had not thought about before. This book will be more or less the same. It will tell you how to live and experience and do Granada (and maybe somewhere else) in a new way.
+future edition. *Hacks* is the title of a series of books that tell
+you how to use programming languages, or whatever (there is even a
+Mind Hacks) in ways you had not thought about before. This book will
+be more or less the same. It will tell you how to live and experience
+and walk Granada (and maybe somewhere else) in a new way.
+
+But you might have bought it as *Granada On*, which is kind of
+meaningless, but better than *Granada Off*, short for "Granada off the
+beaten grack" but a title that, no pun intended, might put you off
+buying it.
+
+But I still do not like it very much; it looks a lot like
+[On Granada](http://www.ongranada.com/en/), the local Chamber of
+Commerce program for attracting IT businesses here. So in future
+editions Granada will be on, but on will be probably off.
+
+>And it was worth the while to have that title just for the purpose of
+>being able to make that joke. 
 
 ## You got me. But will you speak about the Alhambra?
 
-I should, should I not? It is unavoidable, but there are excellent books to learn about its history and its art and its legends. So while it is going to be impossible to avoid, in principle there will be no Alhambra hack. Or maybe I should make it the first one to get it out of the way and continue with the rest.
+I should, should I not? It is unavoidable, but there are excellent
+books to learn about its history and its art and its legends. So while
+it is going to be impossible to avoid, in principle there will be no
+Alhambra chapter. Or maybe I should make it the first one to get it out
+of the way and continue with the rest. Whatever comes out, just keep
+reading to find out.
 
 ## But, again, why?
 
-Lately I have been hanging around in [Quora](http://quora.com) and they ask all kinds of stuff about Spain, Granada, and I keep answering them in a haphazard way. With this, I intend to answer and then point them to this repo and/or the Kindle book that will result from it.
+Lately I have been hanging around in [Quora](http://quora.com) and
+they ask all kinds of stuff about Spain, Granada, and I keep answering
+them in a haphazard way. With this, I intend to answer and then point
+them to this repo and/or the Kindle book that will result from it. 
 
 Besides, this has all been an exercise of knowing thyself, or whatever
 equivalent of that ancient word is there for the first person. Or
@@ -56,7 +81,25 @@ The text has also lots of hyperlinks inserted. If your ebook reader includes a b
 
 That does not mean that this book is not intended for actual browsing in dead tree form; that form is a good vehicle for showing your love to a dear friend who will visit Granada or who you intend to leave green with envy after your own visit to Granada. Both are valid and endorsed by this author.
 
-I really encourage you to email me or reach out to me in Twitter for suggestions, criticism, compliments and, of course, to correct mistakes of which there must be quite a few. As a self-published author without the luxury, and also the burden, of an editor, I must rely on kind strangers to provide me with help in these matters. Only if you have acquired this book you will no longer be a stranger. You will keep being kind, I hope. 
+I really encourage you to email me or reach out to me in Twitter for
+suggestions, criticism, compliments and, of course, to correct
+mistakes of which there must be quite a few. As a self-published
+author without the luxury, and also the burden, of an editor, I must
+rely on kind strangers to provide me with help in these matters. Only
+if you have acquired this book you will no longer be a stranger. You
+will keep being kind, I hope.
+
+## Buy the book
+
+You might have the ebook or you might have this book borrowed from
+somewhere and might want to purchase it for a gift or to take it to
+Granada and take notes. It is available for
+[5.95$ in Amazon.com](https://www.amazon.com/Granada-On-Beaten-explorations-Andalusia/dp/1523257083/ref=as_sl_pc_ss_til?tag=perltutobyjjmere&linkCode=w01&linkId=3XPT2CFQUB6UBNK5&creativeASIN=1523257083)
+or
+[4.95 quid in Amazon.co.uk](https://www.amazon.co.uk/Granada-On-Beaten-explorations-Andalusia/dp/1523257083/ref=as_sl_pc_ss_til?tag=severawebsite-21&linkCode=w01&linkId=&creativeASIN=1523257083). If
+you buy somewhere else, Amazon will display a helpful tip on how to
+purchase it from there. This book includes hints on how to get it
+autographed, so by all means do it you want!
 
 ## Enjoy
 
