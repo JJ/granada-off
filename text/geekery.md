@@ -226,27 +226,50 @@ guys get down from the bus, that is the place
 
 >That bus stop is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
 
-The main hall is graced by a big [IBM System/3 mainframe], together
+The main hall is graced by a big [IBM System/3 mainframe](https://en.wikipedia.org/wiki/IBM_System/3), together
 with all its peripherals: disk drum, data entry console, all the
 rest. But it did not belong to the University, but to some pioneering
 computing company in Granada called *Centro de Cálculo de Granada* and
 eventually
 [Indesa, which went belly up](http://www.einforma.com/servlet/app/prod/DATOS_DE/EMPRESA/INDESA-INFORMATICA-SA-C_QTE4MDEzMzkx_de-GRANADA.html)
-sometime in the early nineties, when the web was coming up. The
+sometime in the early nineties, when the web was coming up and when
+computing was something you did in computing shops, not at home or in
+a bracelet. That is, you needed to have your payroll computed, take it
+there. Or if you are an architect and needed your structures checked
+so that the building does not fall off. The name computing services
+received back then, "Computing centre", is a witness to this kind of
+thing. You took your computing jobs to the centre, and actually when I
+was doing my degree you had to submit your program to a central queue
+and you got the result in a continuous paper listing in drawers once
+it was finished. Computing literally meant walking back and
+forth, which I guess was good for us. Now we have gone full circle,
+and it is the computer you have in your pocket the one that makes you
+walk by counting your steps and complaining if you do not make your 10K
+daily limit.
+
+The
 history of this company, along with the whole history of computing in
-Granada, has yet to be written, but the Wikipedia says that this
-particular model was discontinued in 1985. I can assume it has been
+Granada, has yet to be written. Which is a pity, because it probably
+will never be. Google does not tell much about it, and these pioneers
+of computing in the city will be all but forgotten in a generation.
+
+However, that is not the case for the aforementioned computer: the Wikipedia says that this
+particular model was introduced in 1969 and discontinued in 1985. I can assume it has been
 gutted for parts, since
 [processors and other parts can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
 With exactly the same height and color-coordinated, you would say it
 is part of the same thing, and I am not sure it was not, there is a
 Digital RA82 disk drive. This disk had all of 622Megabytes, that is,
 it could store 150 songs or so, much less than your current phone. And
-it costed, well, a lot. You can still buy it for several hundred
-dollars in, where else, eBay. 
+it could set you back, well, a lot. You can still buy it for several hundred
+dollars in, where else, eBay. I do not know if it works today, but
+they would make a great prop for a practical joke for freshmen, if
+only we could rig an Arduino or some other thing and make its light
+blink and do a bit of beeping and booping. 
 
 These old computers, besides, had a quality that new computers do not
 have. They are big and they can be used to support other things.
+
 >Lots of possible decorations were lost when *big head* monitors gave
 >way to new, flat ones. Where did the flowerpot go?
 
