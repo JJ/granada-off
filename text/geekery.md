@@ -7,16 +7,38 @@ Geeks travel too. And when we arrive to some place we are, sometimes, less inter
 We have that in Granada, starting with the behemoth
 [Parque de las Ciencias](Parque de las Ciencias), which is the subject
 of jokes for its constant expansion, filling now more than a park, a
-whole block. You can very well spend the whole day there, spending
+whole block. You can very well spend the whole day there, devoting
 half day in the temporal exhibitions and then proceed to the rest: the
 aviary, planetary and many other things ending with *ary*. Really a
 nice place and a source of learning if you can just stand the yelling
-herds of kids that abound there. Also, since budget is always kind of
+herds of kids that abound there. Also, since budget for these places is always kind of
 tight, a showcase for retro computing if there was one: check out some
 of the vintage IBM and Apple computers that are the engines of some of
 the rides, which, in some cases, have not been upgraded since the
-nineties. Why should they? They work as a charm.
+nineties. Why should they? They work like a charm.
 
+Even if you are not visiting the Museum itself, the lobby and free
+areas are a place designed to stay. Take a selfie with Einstein, and
+then proceed to the gift shop, which is probably the geekiest toy shop
+in Granada. Besides lots of interesting science books you will not
+able to find anywhere else, you can buy lots of very interesting solar
+toys, including model kits, Schleich animals and all kind of
+ready-made dinosaurs and building kits for them, and all kind of
+novelty toys. If you are into Escher or mathematical games, there is a
+bit of everything there; unfortunately, they do not stock many English
+language books.
+
+The rest of the lobby is filled with physical experiments: you can
+rotate a big sphere filled with milky liquids to create your own
+Jupiter spot, see a small mechanical model of the solar system or rock
+a lava-lamp like glass cabinet to see how sediments accumulate. And
+then you can have a capuccino in the Darwin café, with free WiFi and
+also computers you can freely use, a great place to meet other geeks
+like you to share tips and hacks from this book.
+
+But this science museum, which is the second tourist destination in
+Granada right behind the Alhambra, is not the only one devoted to it
+in the city.
 Unbeknownst to most people, including probably 90% of the people in
 Granada, the first science museum was created in a high school, and it
 is might still be there.
