@@ -46,7 +46,9 @@ four rooms filled with stuffed animals, mockups, physics and chemistry
 instruments and something called
 [Dr. Kagerah's boxes](https://www.flickr.com/photos/43095111@N08/sets/72157622355913429),
 which is so much like the title of a terror movie that you totally
-have to go and check it out. In fact, it is really worth the while to
+have to go and check it out.
+
+In fact, it is really worth the while to
 have a look at them, because they might be the only ones left in the
 whole wide world. I have not been able to find much about them, but
 what I have been able to find is that they were variously called
@@ -60,12 +62,22 @@ show industrial processes. It is difficult to know nowadays what they
 are
 about. [This one, for instance, could be about paper](https://www.flickr.com/photos/43095111@N08/3965471837/in/album-72157622355913429/)
 while
-[this one is about the product of corn](https://www.flickr.com/photos/43095111@N08/3970953265/in/dateposted/),
+[this one is about the products of corn](https://www.flickr.com/photos/43095111@N08/3970953265/in/dateposted/),
 mainly because there is a corncob on the left hand side. They are
 apparently labeled in English, German or even Spanish, but their intent
 and quaintness are really worth a visit. Maybe you can puzzle out what
 they are about. 
 
+Which you need not do with
+[Dr. Auzoux anatomycal models](https://en.wikipedia.org/wiki/Louis_Thomas_J%C3%A9r%C3%B4me_Auzoux). This
+person created realistic anatomical models made of papier mâché in the
+early 1800. Created in puzzle-like fashion, you could take them apart
+to show the structure: veins, bones, muscles and everything. Maybe not
+for the faint of hear, but definitely a scientific antique of the
+first order, which, again, can fetch a high price for those who are
+into this kind of thing.
+
+>Have 300 euro to spare? [You can own your own papier mâché brain](http://www.ebay.es/itm/Auzoux-Rare-demi-cerveau-en-platre-ou-moule-mere-neurologie-anatomie-ecorche-/331749331697?hash=item4d3dcd12f1:g:7n4AAOSwPcVVrX8~)!
 
 If you do not make it into the building,
 [this Flickr gallery might give you an idea of what you are missing](https://www.flickr.com/photos/43095111@N08/),
@@ -266,7 +278,7 @@ dollars in, where else, eBay. I do not know if it works today, but
 they would make a great prop for a practical joke for freshmen, if
 only we could rig an Arduino or some other thing and make its light
 blink and do a bit of beeping and booping. The *native* disk, however,
-was the IBM 5444, which is there, together tieh the IBM 5203 Line
+was the IBM 5444, which is there, together with the IBM 5203 Line
 Printer, the big glass cabinet which was used to know when your print
 job had finished. 
 
