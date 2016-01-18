@@ -108,7 +108,7 @@ like
 
 Sorry about the lighter note of that paragraph above, I really cannot
 help it, but it is really serious that this scientific and technical
-patrimony will go missing. Besides,
+patrimony will go missing or just hidden. Besides,
 [the institute was the first one in Granada, built in the 1840s](https://es.wikipedia.org/wiki/Instituto_Padre_Su%C3%A1rez),
 and some outstanding citizens like Francisco Ayala, Ángel Ganivet,
 Asunción Linares, Elena Martín Vivaldi and
@@ -117,7 +117,16 @@ to become
 [professor in Sciences](https://es.wikipedia.org/wiki/Asunci%C3%B3n_Linares)
 in Spain and only the second one after the Civil War. So, there you
 go. The museum was quite useful for awakening scientific consciences,
-and in this era where we need so many STEM graduates, even more. 
+and in this era where we need so many STEM graduates, its utility
+should be considered even more.
+
+That small museum is not too far away from the Facultad de Medicina,
+the Faculty of Medicine of the UGR, where another local geek,
+[Federico Olóriz](https://es.wikipedia.org/wiki/Federico_Ol%C3%B3riz_Aguilera),
+started to study when he was 16.
+
+>Actually, the Faculty of Medicine was not there in the late 1800s,
+>but allow me the license.
 
 But let us ride the LAC to go back to the big science museum brother,
 and as you get out it, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
