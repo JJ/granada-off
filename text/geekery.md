@@ -91,15 +91,15 @@ and quaintness are really worth a visit. Maybe you can puzzle out what
 they are about. 
 
 Which you need not do with
-[Dr. Auzoux anatomycal models](https://en.wikipedia.org/wiki/Louis_Thomas_J%C3%A9r%C3%B4me_Auzoux). This
-person created realistic anatomical models made of papier mâché in the
+[Dr. Auzoux anatomical models](https://en.wikipedia.org/wiki/Louis_Thomas_J%C3%A9r%C3%B4me_Auzoux). This
+person created realistic anatomical models made of *papier mâché* in the
 early 1800. Created in puzzle-like fashion, you could take them apart
 to show the structure: veins, bones, muscles and everything. Maybe not
 for the faint of hear, but definitely a scientific antique of the
 first order, which, again, can fetch a high price for those who are
 into this kind of thing.
 
->Have 300 euro to spare? [You can own your own papier mâché brain](http://www.ebay.es/itm/Auzoux-Rare-demi-cerveau-en-platre-ou-moule-mere-neurologie-anatomie-ecorche-/331749331697?hash=item4d3dcd12f1:g:7n4AAOSwPcVVrX8~)!
+>Have 300 euro to spare? [You can own your own *papier mâché* brain](http://www.ebay.es/itm/Auzoux-Rare-demi-cerveau-en-platre-ou-moule-mere-neurologie-anatomie-ecorche-/331749331697?hash=item4d3dcd12f1:g:7n4AAOSwPcVVrX8~)!
 
 If you do not make it into the building,
 [this Flickr gallery might give you an idea of what you are missing](https://www.flickr.com/photos/43095111@N08/),
