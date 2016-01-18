@@ -265,13 +265,25 @@ it could set you back, well, a lot. You can still buy it for several hundred
 dollars in, where else, eBay. I do not know if it works today, but
 they would make a great prop for a practical joke for freshmen, if
 only we could rig an Arduino or some other thing and make its light
-blink and do a bit of beeping and booping. 
+blink and do a bit of beeping and booping. The *native* disk, however,
+was the IBM 5444, which is there, together tieh the IBM 5203 Line
+Printer, the big glass cabinet which was used to know when your print
+job had finished. 
 
-These old computers, besides, had a quality that new computers do not
+The development of this line of computers has followed to this day,
+with the
+[IBM system i series](https://en.wikipedia.org/wiki/IBM_System_i). This
+mean that some application running in that system in the 70s could,
+theoretically still run in modern i Series servers. There will
+probably no other way out, since its outdated representation that used
+EBCDIC and uncommon operating system means that the supply of expert
+programmers might not be exactly increasing.
+
+Despite this, you have to hand it to these old computers: they had a quality that new computers do not
 have. They are big and they can be used to support other things.
 
 >Lots of possible decorations were lost when *big head* monitors gave
->way to new, flat ones. Where did the flowerpot go?
+>way to new, flat ones. Where did the flowerpots go?
 
 That
 is way it has eventually accreted other computer and computer-like
