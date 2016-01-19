@@ -128,6 +128,42 @@ started to study when he was 16.
 >Actually, the Faculty of Medicine was not there in the late 1800s,
 >but allow me the license.
 
+He is better known for the
+[so-called Vucetich-Olóriz fingerprint classification system](https://books.google.es/books?id=7HMmmypL2DwC&pg=PA167&lpg=PA167&dq=vucetich+oloriz+dactiloscopy&source=bl&ots=UWqsmJSIix&sig=9qefvzVqklC9OWDfvU1L_9Svtck&hl=es&sa=X&ved=0ahUKEwi6xbTdobXKAhWBxhoKHdNXBR4Q6AEIUDAI#v=onepage&q=vucetich%20oloriz%20dactiloscopy&f=false). He
+was not the first to develop a way of describing fingerprints to store
+and compare them. However, he was the creator of the system that was
+used in Spain for more than 60 years, until automatic processing was
+available. The fact that he shares the name with another person is
+because he stood on the shoulders of the giant Argentinian researcher
+who created the system by the end of the 1800s. The systems used in
+the US, such as the Flak Conley system, were developed more or less at
+the same time... The science in Spain was relatively
+advanced by that time, and the University of Granada was no
+exception. Not always was it published or presented where it should
+have been. If you make a right from the door of the Faculty and keep
+walking past one of the highest buildings in Granada, you will
+eventually arrive to Doctor Olóriz street. At least in this case a
+local figure got his due, although diluted in a sea of streets all
+devoted to other not so well known doctors.
+
+>After I found a bug in the street names of Granada, I started to
+>think about a method to debug it by, for instance, systematically
+>searching street names in Google. If the first result is the street
+>name, that might be a sign that the person is not so well
+>known. However, the problem is that in the case of Granada, the web
+>containing the street names is very well SEOed, so that is the case
+>in most cases. The rest of the first page includes real estate
+>listings and AirBnB offers. So I will have to come up with a better
+>method. 
+
+Other than the street and as is usual, there is not much to remind the
+average Granadian of this local glory. There was a
+[temporal exhibition at the Parque de las Ciencias](http://www.andalucia.org/es/eventos/exposicion-proposito-de-oloriz/),
+and you can still buy the exhibition catalog in the gift shop. And his
+ashes were eventually buried in the
+[vault of illustrious Granadians](https://www.flickr.com/photos/landahlauts/5553336175),
+very  inaugurated in 2012 with his burial. 
+
 But let us ride the LAC to go back to the big science museum brother,
 and as you get out it, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
