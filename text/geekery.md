@@ -162,10 +162,13 @@ average Granadian of this local glory. There was a
 and you can still buy the exhibition catalog in the gift shop. And his
 ashes were eventually buried in the
 [vault of illustrious Granadians](https://www.flickr.com/photos/landahlauts/5553336175),
-very  inaugurated in 2012 with his burial. 
+inaugurated in 2012 with his burial. Nothing is known about what
+happened to his collection of 2500 skulls, which he used in an early
+attempt at big data collection. It will probably be gathering dust in
+the basement of some college.
 
-But let us ride the LAC to go back to the big science museum brother,
-and as you get out it, you can proceed to the so-named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
+You can ride the bus from the cementery to the city, or just walk
+downhill, proceeding to the popularly named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
 >I remember to spend the time of boring classes during the 80s
 >watching the Bucker 131 biplanes sputtering in the sky, in front of
