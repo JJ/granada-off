@@ -19,7 +19,7 @@ Plus you might want to go because they house some jewels that are missed because
 Because there is art here, and Art with a capital A. The university holds contests for rewarding the art of its best students, and the prize is being a part of the Modern Art Collection of the University of Granada. If there is an index to that collection, I have been unable to find it. However, having been involved with the university for a few years, I know that paintings, photographs and sculptures end up in offices, corridors and stairs anywhere. There are three in the free software office, and feel free to come and appreciate them. We would happily give them to you, since they leave us a bit like this :-?, uncultured geeks as we are, only we cannot, because they are art and belong to the humankind in general, not me or you. In fact, of those pieces of art that looked like a irregular block of concrete with jagged iron bars coming out from it spent a long time as an ashtray in the old Computer Science school. The staff had to specifically instruct the cleaning crew to neither use it as a dustbin or carry it to a dumpster as a piece of debris. Which, I guess, eventually became since it disappeared one day, not to be seen again.
 
 I am not saying that they are not incredibly talented master works; it
-is quite clear that all of them are, since most ot them have won the
+is quite clear that all of them are, since most of them have won the
 prize. Only since I have not been able 
 to find a catalog
 [except for this one](http://patrimonio3d.ugr.es/index.php/granada/pintura),
@@ -40,10 +40,29 @@ academic robes. I leave as an exercise for the reader to find out
 which is the dominant age and genre and how it varies from one Faculty
 to the next one. 
 
-Because every Faculty is its own little world and is not so much a cross section of the Spanish society as a sample of a particular intellectual, attitudinal and economical status. Check out Medicine, for instance, which is now housed in its very own white high rise, one you can see from the ring road. It needs an almost perfect grade to enter, close to 99%. It is the creme of the crop coming out of high schools in Granada which you can see there. Check out Fine Arts, too. Or Sports Sciences. They have to pass an special exam, besides requiring high grades in their A-levels, or Selectividad, which is its equivalent in Spain. We even have a Theology school, which, to tell you the truth, I have never visited. But back to Fine Arts, it is really worth a visit. Their library is excellently stocked with all kinds of media and arts texts. The building was a former madhouse built at the turn of the century, although the reforms and decoration include a couple of graffiti walls on the back. If you are in need of art supplies, it has a *economato* or student store where you can buy all kind of brushes, drawing pads and stuff needed for artistry. Its main building has an exhibition space used for works of arts by students and faculty.
+Because every Faculty is its own little world and is not so much a
+cross section of the Spanish society as a sample of a particular
+intellectual, attitudinal and economical status. Check out Medicine,
+for instance, which is now housed in its very own white high rise, one
+you can see from the ring road. It needs an almost perfect grade to
+enter, close to 99%. It is the creme of the crop coming out of high
+schools in Granada which you can see there. Check out Fine Arts,
+too. Or Sports Sciences. They have to pass an special exam, besides
+requiring high grades in their A-levels, or Selectividad, which is its
+equivalent in Spain. We even have a Theology school, which, to tell
+you the truth, I have never visited. But back to Fine Arts, it is
+really worth a visit. Their library is excellently stocked with all
+kinds of media and arts texts. The building was a former madhouse
+built at the turn of the century, although the reforms and decoration
+include a couple of graffiti walls on the back. If you are in need of
+art supplies, it has a *economato* or student discount store where you can buy
+all kind of brushes, drawing pads and stuff needed for artistry. Its
+main building has an exhibition space used for works of arts by
+students and faculty. 
 
 And once you are there, you can walk up the street to the other side
-of the roundabout with the olive tree in the middle and visit the ETSIIT, an important part of the geek
+of the roundabout with the olive tree in the middle and visit the
+ETSIIT, an important part of the geek 
 chapter. Or use it as a warm-up to know about graffiti in Granada,
 since Fine Arts is at its core. I have spent quite a few paragraphs on
 the geek contents of the ETSIIT, but in this chapter I would like to
@@ -55,25 +74,85 @@ will probably do so for years to come. It is one of the few colleges
 that have an alfresco gathering room; you can see people lounging and
 writing code and gaming almost all year round. It is by the left as
 you get into it by the main gate. And to the right and almost hidden
-by the prefabricated units, [there is a small forest created by the
-trees](https://www.flickr.com/photos/atalaya/149900614) planted by every outgoing promotion of alumni. It is quite small
+by the prefabricated units, [there is a small forest created by the trees](https://www.flickr.com/photos/atalaya/149900614) planted by every outgoing promotion of alumni. It is quite small
 indeed, but you will see a set of different trees, which might number
 20 or so, since the first promotion graduated in 93. A curious
-souvenir and maybe a metafor that computers not only save trees from
+souvenir and maybe a metaphor that computers not only save trees from
 death by eliminating the need of paper, but also plant them for good
 measure. 
 
-For political consciousness and painted slogans on paper rolls, check out political science or philosophy. There are always political assemblies or organized protests going on there. But if you are more into economics, check the ecosystem that has evolved around the Faculties. Having a sparse campus has spread the wealth it brings to the city and there are all kinds of shops that cater to students: bookstores, cafés, copy shops, supplies... If you walk to the Architecture School, which is in the middle of El Realejo, [a former military hospital and house of the Admiral or Aragón built in the XVI century](https://prezi.com/r-rgq3hih_22/el-hospital-militar-de-granada-antiguo-palacio-del-almirant/), which lots of people in the region remember because it was where young ones with the age to serve where parked when they alleged some kind of ailment to be rid of the military service, has evolved from a bleak and drab barrack to a [functional, bright and light building that has received an architecture price](https://minutosdearquitectura.wordpress.com/2015/06/19/premio-arquitectura-2015-para-la-rehabilitacion-del-antiguo-hospital-militar-de-granada-de-victor-lopez-cotelo/), which is turning a former traditional and touristic neighborhood into a vibrant student area. Architecture, with its grim job outlook, accompanies now the Modern Languages Center, which is not strictly University but university-owned.
+For political consciousness and painted slogans on paper rolls, check
+out political science or philosophy. There are always political
+assemblies or organized protests going on there. But if you are more
+into economics, check the ecosystem that has evolved around the
+Faculties. Having a sparse campus has spread the wealth it brings to
+the city and there are all kinds of shops that cater to students:
+bookstores, cafés, copy shops, supplies... If you walk to the
+Architecture School, which is in the middle of El Realejo,
+[a former military hospital and house of the Admiral or Aragón built in the XVI century](https://prezi.com/r-rgq3hih_22/el-hospital-militar-de-granada-antiguo-palacio-del-almirant/),
+which lots of people in the region remember because it was where young
+ones with the age to serve where parked when they alleged some kind of
+ailment to be rid of the military service, has evolved from bleak and
+drab barracks to a
+[functional, bright and light building that has received an architecture price](https://minutosdearquitectura.wordpress.com/2015/06/19/premio-arquitectura-2015-para-la-rehabilitacion-del-antiguo-hospital-militar-de-granada-de-victor-lopez-cotelo/),
+which is turning a former traditional and touristic neighborhood into
+a vibrant student area. Architecture, with its grim job outlook,
+accompanies now the Modern Languages Center, which is not strictly
+University but university-owned. 
 
->Yes, it is complicated. But never mind, it quacks like an university, so let us let it be.
+>Yes, it is complicated. But never mind, it quacks and walks and swims
+>like an university, so let us just let it be.
 
-This place is the closest to an American-style college you will find here, mainly because the bulk of its students, coming here to learn Spanish, hail from the United States. That means flip-flops any time of the year, Jansport backpacks, and walking Styrofoam cups from coffee-to-go places that cater precisely to this crowd and nobody else, since any self-respecting Spaniard will have a proper sit-down coffee with olive-oiled toast on the side.
+This place is the closest to an American-style college you will find
+here, mainly because the bulk of its students, coming here to learn
+Spanish, hail from the United States. That means flip-flops any time
+of the year, Jansport backpacks, and walking Styrofoam cups from
+coffee-to-go places that cater precisely to this crowd and nobody
+else, since any self-respecting Spaniard will have a proper sit-down
+coffee with an olive-oiled toast on the side.
 
-And probably the best place in the university to have one is the cafeteria in the Faculty of Law. It opens to the [Botanic Garden](https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_de_la_Universidad_de_Granada) so you can sip your capuccino and enjoy the sights, too. Besides, this is the oldest university building in Granada, if you exclude the Madrassa or Islamic University by the side of the cathedral, which you might or might not want to do if you want to make this university the oldest in Europe or not. The botanic garden itself was created in the XIX century as a subject of study. Just look at the tallest tree, which is a Ginkgo biloba, the only one in the province for a long time, or look back to the building itself, that [houses the university from pretty much the same time](https://es.wikipedia.org/wiki/Facultad_de_Derecho_de_la_Universidad_de_Granada#Historia_de_la_Facultad). It was built in the XVI century and called [Colegio de San Pablo](http://www.jesuitas.es/index.php?option=com_content&view=article&id=937:el-retablo-del-antiguo-colegio-jesuita-de-san-pablo-en-granada&catid=34:jesuitas-espana&Itemid=63). It was a school belonging to the Jesuits and [one of the main centers for Latin studies in Granada](https://books.google.es/books?id=txtt7QLOUQUC&pg=PA256&lpg=PA256&dq=%22colegio+de+san+pablo%22+granada&source=bl&ots=bFduBN76P1&sig=7qx1APQlqhq_CEpSCPXg4Si0FuM&hl=es&sa=X&ved=0ahUKEwjx8PSks43KAhUChhoKHUoMDT0Q6AEIYTAN#v=onepage&q=%22colegio%20de%20san%20pablo%22%20granada&f=false), another example, as the Colegio Máximo, of the university taking over from the Jesuits, and a continuity note since current students use Latin too to say stuff like "Habeas Corpus" and "Gaudeamus Igitur". Some of them, at least.
+And probably the best place in the university to have one is the
+cafeteria in the Faculty of Law. It opens to the
+[Botanic Garden](https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_de_la_Universidad_de_Granada)
+so you can sip your capuccino and enjoy the sights, too. Besides, this
+is the oldest university building in Granada, if you exclude the
+Madrassa or Islamic University by the side of the cathedral, which you
+might or might not want to do if you want to make this university the
+oldest in Europe or not. The botanic garden itself was created in the
+XIX century as a subject of study. Just look at the tallest tree,
+which is a Ginkgo biloba, the only one in the province for a long
+time, or look back to the building itself, that
+[houses the university from pretty much the same time](https://es.wikipedia.org/wiki/Facultad_de_Derecho_de_la_Universidad_de_Granada#Historia_de_la_Facultad). It
+was built in the XVI century and called
+[Colegio de San Pablo](http://www.jesuitas.es/index.php?option=com_content&view=article&id=937:el-retablo-del-antiguo-colegio-jesuita-de-san-pablo-en-granada&catid=34:jesuitas-espana&Itemid=63). It
+was a school belonging to the Jesuits and
+[one of the main centers for Latin studies in Granada](https://books.google.es/books?id=txtt7QLOUQUC&pg=PA256&lpg=PA256&dq=%22colegio+de+san+pablo%22+granada&source=bl&ots=bFduBN76P1&sig=7qx1APQlqhq_CEpSCPXg4Si0FuM&hl=es&sa=X&ved=0ahUKEwjx8PSks43KAhUChhoKHUoMDT0Q6AEIYTAN#v=onepage&q=%22colegio%20de%20san%20pablo%22%20granada&f=false),
+another example, as the Colegio Máximo, of the university taking over
+from the Jesuits, and a continuity note since current students use
+Latin too to say stuff like "Habeas Corpus" and "Gaudeamus
+Igitur". Some of them, at least. 
 
-Finally, for a glimpse of he future visit the gleaming and spanking new Biosanitary campus, which started to be used at the beginning of the first semester of the 2015-2016 course. It is white, it has high-rises, and the faculty hated it. It was too far away from their clinics and home offices, it did not have enough parking space, it had a single bus line going through it. It does have nice light rail stations, but no actual light rail. So no joy. Be that as it may, it is now working and surrounded by research centers and weed-filled empty lots, so it kind of looks like the kind of place zombie fighters might go looking for a cure in a post-apocalyptic world. For the time being, that is. And a famous graffiti artist,
+Finally, for a glimpse of he future, visit the gleaming and spanking
+new Biosanitary campus, which started to be used at the beginning of
+the first semester of the 2015-2016 course. It is white, it has
+high-rises, and the professors hated it and almost went on strike
+before being forced to occupy it: It was too far away from their
+clinics and home offices, it did not have enough parking space, it had
+a single bus line going through it. It does have nice light rail
+stations, but no actual light rail, so no joy. Be that as it may, it
+is now working and surrounded by research centers and weed-filled
+empty lots, so it kind of looks like the kind of place zombie fighters
+might go looking for a cure in a post-apocalyptic world. In fact, the
+main city morgue is part of the campus, so if that is the most likely
+place that kind of thing will begin.
+But it is evolving and there might no weeds, or chest-high ones, by
+the time you read this.
 
->More on him on its very own chapter
+One of the most beautifil things there are the graffiti. A famous
+local graffiti artist, 
+
+>More on him on its very own chapter, or a chapter devoted to
+>graffiti, whatever comes first.
 
 Niño de las Pinturas, was commissioned to paint all its utility shacks. It is worth a visit just for that reason.
 
