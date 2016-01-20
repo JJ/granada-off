@@ -148,7 +148,7 @@ place that kind of thing will begin.
 But it is evolving and there might no weeds, or chest-high ones, by
 the time you read this.
 
-One of the most beautifil things there are the graffiti. A famous
+One of the most beautiful things there are the graffiti. A famous
 local graffiti artist, 
 
 >More on him on its very own chapter, or a chapter devoted to

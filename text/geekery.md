@@ -1,24 +1,35 @@
 # Assorted geekery
 
-Geeks travel too. And when we arrive to some place we are, sometimes, less interested in watching old stones than in tech meetings,  little museums with engineering feats, or science related places.
+Geeks travel too. And when we arrive to some place we are, sometimes,
+less interested in watching old stones than in tech meetings, little
+museums with engineering feats, or science related places. 
 
->I remember, for instance, seeing and playing a Theremin in a small electricity museum in Barranco, Lima. That was the only time I have been able to do so. Air and space museums in Madrid, war museums in Poland, Vienna and London, all those, are kind of really *off* the beaten track and also in the suburbs, because there are only so many places downtown where you can squeeze a few tanks and a bomber plane.
+>I remember, for instance, seeing and playing a Theremin in a small
+>electricity museum in Barranco, Lima. That was the only time I have
+>been able to do so. Air and space museums in Madrid, war museums in
+>Poland, Vienna and London, all those, are kind of really *off* the
+>beaten track and also in the suburbs, because there are only so many
+>places downtown where you can squeeze a few tanks and a bomber
+>plane. 
 
 We have that in Granada, starting with the behemoth
-[Parque de las Ciencias](Parque de las Ciencias), which is the subject
-of jokes for its constant expansion, filling now more than a park, a
-whole block. You can very well spend the whole day there, devoting
-half day in the temporal exhibitions and then proceed to the rest: the
-aviary, planetary and many other things ending with *ary*. Really a
-nice place and a source of learning if you can just stand the yelling
+[Parque de las Ciencias](Parque de las Ciencias) or sciences museum, which is the subject
+of jokes for its constant expansion, filling now more than a park,
+which is what its name means in Spanish, a
+whole block. You can very well spend the whole day there, or even a
+whole weekend, devoting
+half day in the temporal exhibitions area and then proceed to the rest: the
+aviary, planetary and many other things ending with *ary*. It is really a
+nice and family friendly place and a source of learning if you can just stand the yelling
 herds of kids that abound there. Also, since budget for these places is always kind of
-tight, a showcase for retro computing if there was one: check out some
+tight, it is a showcase for retro computing if there was one: check out some
 of the vintage IBM and Apple computers that are the engines of some of
 the rides, which, in some cases, have not been upgraded since the
 nineties. Why should they? They work like a charm.
 
-Even if you are not visiting the Museum itself, the lobby and free
-areas are a place designed to stay. Take a selfie with Einstein, and
+Even if you are not visiting the museum itself, the lobby and free
+areas are a place designed to stay. Enter through the "new" gate, the
+one that is farther away from the city center, and take a selfie with Einstein, and
 then proceed to the gift shop, which is probably the geekiest toy shop
 in Granada. Besides lots of interesting science books you will not
 able to find anywhere else, you can buy lots of very interesting solar
@@ -26,11 +37,13 @@ toys, including model kits, Schleich animals and all kind of
 ready-made dinosaurs and building kits for them, and all kind of
 novelty toys. If you are into Escher or mathematical games, there is a
 bit of everything there; unfortunately, they do not stock many English
-language books.
+language books, but their collection of popular science and math books
+in Spanish is quite good and probably the best of all bookstores in
+Granada.  
 
-The rest of the lobby is filled with physical experiments: you can
+The rest of the lobby is filled with hands-on experiments: you can
 rotate a big sphere filled with milky liquids to create your own
-Jupiter spot, see a small mechanical model of the solar system or rock
+Jupiter-like spot, see a small mechanical model of the solar system or rock
 a lava-lamp like glass cabinet to see how sediments accumulate. And
 then you can have a capuccino in the Darwin café, with free WiFi and
 also computers you can freely use, a great place to meet other geeks
