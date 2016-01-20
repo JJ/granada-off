@@ -407,8 +407,8 @@ might come from the same source.
 
 Continuing with the piling up of computer-like things, there is also a
 electronic typewriter which I remember having seen in our department
-secretary. And, to the far right, a metalic cabinet with no brand or
-model markings and which might really be a metalic cabinet with no
+secretary. And, to the far right, a metallic cabinet with no brand or
+model markings and which might really be a metallic cabinet with no
 computer-like function. I will have to find out. It probably came from
 some university department and ended there to round the set.
 
@@ -416,26 +416,94 @@ Which is where you could go next: Walk up two floors to the
 Department of
 [Computer Technology and Architecture](http://atc.ugr.es). 
 
->Once you are there, go to the next to last office on the right on the corridor to your left, you might recognize the name of the person there, and if he is in, he will happily sign your copy of this book, or your Kindle or other reading device. Appointment not necessary. 
+>Once you are there, go to the next to last office on the right on the
+>corridor to your left, you might recognize the name of the person
+>there, and if he is in, he will happily sign your copy of this book,
+>or your Kindle or other reading device. Appointment not necessary.  
 
-To the right of the entrance door there is a vitrine with the history of computing as seen from the department. You can see there from *portable* computers from the early 90s, through all kind of peripherals, including a hand scanner that belonged to me, to chips that were designed from scratch in our very own department. All of it neither catalogued, nor labeled, nor acknowledged. We do not even know if it works or not, and it is closer to a storage closet than to a real museum. However, maybe some time from now, maybe even by the time you read this, someone with an interest in retro computing will use it for a master's degree project or a PhD. Or just out of spite, to give it a big of dignity.
+To the right of the entrance door there is a vitrine with the history
+of computing as seen from the department. You can see there from
+*portable* computers from the early 90s, through all kind of
+peripherals, including a hand scanner that belonged to me, to chips
+that were designed from scratch in our very own department. Outside a
+few paper tags that are usually associated to donations, they are
+neither catalogued, nor labeled, nor acknowledged. We do not even know
+if it works or not, and it is closer to a storage closet than to a
+real museum. However, maybe some time from now, maybe even by the time
+you read this, someone with an interest in retro computing will use it
+for a master's degree project or a PhD. Or just out of spite, to give
+it a big of dignity. However, if you like nondescript things with lots
+of chips in it, this is the place to go.
+
+>The corridor also holds posters of our many achievements. Find the
+>one with Pacman and you will achieve the prize of seeing a poster in a
+>scientific institution with Pacman on it.
 
 When you get out of the building, you might want to visit the biggest data center in Andalucía, the [Cloud Center Andalucía](http://cca.trevenque.es/).
  
 >Incidentally, you will go past one of the establishments we talked about in the chapter on whorehouses, the Don Pepe. None are too far, so using a pit stop as an excuse to be there is not an option.
 
-You will not be able to see anything from outside, other than the ditch that connects it to the railway, a few meters away, where the fiber actually goes. But you can [request a visit](http://cca.trevenque.es/instalaciones/) and you will be able to see the watertight rooms where all the racks are stored, the firefighting measures, and the hum of twenty-first century computing all around you. Which is something all geeks love and crave.
+You will not be able to see anything from outside, other than the
+ditch that connects it to the railway, a few meters away, where the
+fiber actually goes. But you can
+[request a visit](http://cca.trevenque.es/instalaciones/) and you will
+be able to see the watertight rooms where all the racks chock-full of
+*blades*, which is the shape these computing units take, are placed,
+the firefighting measures, and the hum of twenty-first century
+computing all around you. Which is something all geeks love and
+crave. 
 
->Visits are only available under requests, and then only for a good reason and in a group. So you might want to gather at least half a dozen of friends to do it, and request it well in advance. 
+>Visits are only available under request, and then only for a good reason and in a group. So you might want to gather at least half a dozen friends to do it, and request it well in advance. 
 
-Once you are on a ride, double back and take the freeway around Granada in the Southern direction until you arrive to the "Armilla" exit. The offramp is a balcony onto the Don José, the other funhouse we have mentioned in its chapter. Right across the freeway there is a big, blue, glass building with the name [Axesor](http://axesor.es) on top, surrounded by other tech-related buildings in what we could call a Silicon offramp, which is a nano version of a Silicon Valley. Anyhow, [Axesor](https://es.wikipedia.org/wiki/Axesor) is an interesting place, being one of the first pure-play Internet outfits in Spain. It was a long shot by five friends with Physics and other degrees, who decided to create a new company using new tools, the tools of the Internet that was, right them, blooming in Spain. They started as a company giving commercial information, kind of a Spanish Lexis-Nexis, but evolved to the point that it is now one of the first credit rating agencies in Spain.
+Once you are on a ride, double back and take the freeway around
+Granada in the Southern direction until you arrive to the "Armilla"
+exit. The offramp is a balcony onto the Don José, the other funhouse
+we have mentioned in the chapter on brothels.
 
-Once again, not much to see there. You will have to ask for an appointment and then probably a commercial person will give you the lowdown. If you peek into the building, you will see lots of desks with computers and people busy with it. They have an interesting data center and also very exciting credit prediction technology.
+>Yes, there is a chapter that deals with that. This is an alt-travel
+>guide, right?
+
+But behind that you will see a big sign for
+[UNIT4](http://www.unit4.com/es). That is a company that has not been
+for long in Granada, and in fact it is a big Dutch multinational
+created in the 1980s. However, it has been hiring the best and the
+brightest from all the graduates in computer science and other
+companies, and is now probably one of the biggest employers of PhDs
+and graduates here. The center in Granada is one of the three devoted
+to research an development, and it makes this area, which technically
+is not in Granada but in Armilla, a hub for computer people.
+
+Right across the freeway there is a
+big, blue, glass building with the name [Axesor](http://axesor.es) on
+top, surrounded by other tech-related buildings in what we could call
+a Silicon offramp, which is a nano version of a Silicon
+Valley. Anyhow, [Axesor](https://es.wikipedia.org/wiki/Axesor) is an
+interesting place, being one of the first pure-play Internet outfits
+in Spain. It was a long shot by five friends with Physics and other
+degrees, who decided to create a new company using new tools, the
+tools of the Internet that was, right them, blooming in Spain. They
+started as a company giving commercial information, kind of a Spanish
+Lexis-Nexis, but evolved to the point that it is now one of the first
+credit rating agencies in Spain. 
+
+Once again, not much to see there. You will have to ask for an
+appointment and then probably a commercial person will give you the
+company spiel. If you peek into the building, you will see lots of
+desks with computers and people busy with it. They have an interesting
+data center and also very exciting credit prediction technology. 
 
 >And I know this because we were the origin of that technology through a contract between them and our university.
 
 But algorithms do not a high visual impact, although they have
-all kind of other impacts when your company is the target of the prediction. Maybe the best is to be in one of the cafés around it at coffee time, around 10-11 AM, and listen to their geek conversation or just watch their demeanor, which is probably similar to every other tech company in the world except for the fact that they go outside to have a coffee. Try to make out who are the executives, who are the commercial, who man customer supports, and who is in the basement manhandling the computers that make everything work or programming them.
+all kind of other impacts when your company is the target of the
+prediction. Maybe the best is to be in one of the cafés around it at
+coffee time, around 10-11 AM, and listen to their geek conversation or
+just watch their demeanor, which is probably similar to every other
+tech company in the world except for the fact that they go outside to
+have a coffee. Try to make out who are the executives, who are the
+commercial, who man customer supports, and who is in the basement
+manhandling the computers that make everything work or programming
+them. 
 
 And, while you are at it, you might see the signs for one such "Spiral startups", in another glass building, right by its side. You might even be able to watch it from outside the shuttered spaces, because it closed a while ago, signaling the onset of the bursting of the coworking bubble in Granada. [Spiral Startups](https://www.linkedin.com/company/spiral-startups) was, at one point in time, one of almost a couple of dozen coworking spaces in Granada. If you are not familiar with the concept, a coworking office is just an open space that provides a desk area, connectivity and amenities to freelancers and startup companies. During the crisis, they were a convenient and cheap alternative to either staying at your parents, renting real office space or crashing at a café. For less than 50€ a month, you could have your very own office to receive customers and interact with fellow entrepreneurs. 
 
