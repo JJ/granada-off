@@ -167,7 +167,7 @@ happened to his collection of 2500 skulls, which he used in an early
 attempt at big data collection. It will probably be gathering dust in
 the basement of some college.
 
-You can ride the bus from the cementery to the city, or just walk
+You can ride the bus from the cemetery to the city, or just walk
 downhill, proceeding to the popularly named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
 >I remember to spend the time of boring classes during the 80s
@@ -353,11 +353,13 @@ Printer, the big glass cabinet which was used to know when your print
 job had finished. 
 
 The development of this line of computers has followed to this day,
-with the
+going through the
+[AS/400](https://en.wikipedia.org/wiki/IBM_System_i#Models_of_AS.2F400.2C_iSeries.2C_i5_systems),
+one of which is also there on display, and eventually to the
 [IBM system i series](https://en.wikipedia.org/wiki/IBM_System_i). This
 mean that some application running in that system in the 70s could,
 theoretically still run in modern i Series servers. There will
-probably no other way out, since its outdated representation that used
+probably no other way out, since its outdated character representation that used
 EBCDIC and uncommon operating system means that the supply of expert
 programmers might not be exactly increasing.
 
@@ -405,7 +407,12 @@ might come from the same source.
 
 Continuing with the piling up of computer-like things, there is also a
 electronic typewriter which I remember having seen in our department
-secretary. Which is where you could go next: Walk up two floors to the
+secretary. And, to the far right, a metalic cabinet with no brand or
+model markings and which might really be a metalic cabinet with no
+computer-like function. I will have to find out. It probably came from
+some university department and ended there to round the set.
+
+Which is where you could go next: Walk up two floors to the
 Department of
 [Computer Technology and Architecture](http://atc.ugr.es). 
 
