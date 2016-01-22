@@ -308,7 +308,7 @@ North of that, since to the South-West, where there is a wood-paneled
 building now, there was a tram depot for the railway line that made
 the trip to the Sierra, and by Sierra in Granada we mean Sierra
 Nevada, the sierra par excellence. That general area is also a
-crossoroad for that era. Pretty close, exactly at the other side of
+crossroad for that era. Pretty close, exactly at the other side of
 the axis of the machine, the big brown building held the tram
 warehouses, and perpendicular to the machine in the direction of the
 city center, the first power plant in Granada was built in 1891 or
