@@ -244,7 +244,8 @@ you cannot miss if you are into big steam machines, or into steampunk.
 Despite its name, which might or might not be due to a bomb falling
 there in the civil war or maybe to the fact that there was a big pump
 for the *Acequia Gorda*, or big irrigation ditch or maybe to the
-[fountain at the beginning which doest not look at all like a bomb](http://1000-reinogranada.blogspot.com.es/2012/05/fuente-de-los-cuatro-leones.html);
+[fountain at the beginning which does not look at all like a bomb](http://1000-reinogranada.blogspot.com.es/2012/05/fuente-de-los-cuatro-leones.html)
+or another that looks like a maritime mine;
 *bomba* means either *bomb* or *pump* in Spanish, and the big machine
 is the roundabout could be a steam-operated pump, but is actually a
 press belonging to a sugar-producing *ingenio* or "engine", which is
@@ -261,7 +262,10 @@ scary-looking machines in Andalucía.
 >If you align yourself with the axis of the steam engine and look
 >uphill, the street just in front is the Cuesta del Molino, and houses
 >a small museum devoted to Ángel Ganivet, whom we met for the first
->time above as a student of the Padre Suárez high school. But the
+>time above as a student of the Padre Suárez high school. The museum
+>is in its former house and mill, and there is a millstone right
+>there, embedded in the in the wall, as a souvenir.
+> But the
 >geeky highlight is right to the left hand side of that street: an alley called
 >"Ingeniero Ricardo de la Cierva", or Ricardo de la Cierva,
 >engineer. Well, as far as I have been able to discover, there was no
@@ -303,10 +307,46 @@ was placed exactly, or rather pretty much, in this place, maybe a bit
 North of that, since to the South-West, where there is a wood-paneled
 building now, there was a tram depot for the railway line that made
 the trip to the Sierra, and by Sierra in Granada we mean Sierra
-Nevada, the sierra par excellence. This tram was dismantled in the
+Nevada, the sierra par excellence. That general area is also a
+crossoroad for that era. Pretty close, exactly at the other side of
+the axis of the machine, the big brown building held the tram
+warehouses, and perpendicular to the machine in the direction of the
+city center, the first power plant in Granada was built in 1891 or
+whereabouts. Difficult to know, because I have not been able to find a
+single map that shows it. The power plant was there to feed the trams
+that went up to the Sierra and was built by the Compañía General de
+Electricidad, a local power company in a deregulated era. This company
+was also in charge of the first electric lights in the city, in 1893,
+which is the deadline for the power plant being built. That company
+apparently left some steampunk-looking steel square towers sprouting
+out of brick electrical substations, but there is at least one place
+where you can still see the logo, some C, G and E forming concentric
+circles and with two bolts on the side, all in a square rhomb. It is
+[in this substation](https://www.flickr.com/photos/atalaya/24247371500/in/dateposted-public/),
+which also includes some logos of the company that bought it
+afterwards and is
+[in a back alley](https://www.google.es/maps/@37.1836045,-3.5989272,19z?hl=es)
+between a church and a military barracks. 
+
+This tram was dismantled in the
 early 70s, to never come back until now. Or maybe 2016. Who knows.
 
-That tram was, for some time, placed in la [Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It might or might not be there by the time you read this, since it was taken for restoration and has not returned. However, there is another steam engine parked there and you can always check [the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias), which was projected and built in the sixties although it has had lots of additions. There is some fodder for geeks inside the building, where all kind of sciences, from Physics to Geology, are studied. To the right hand side, the Physics building houses a Foucault pendulum, and going from there to the main building, the library to the right hand side houses scientific journals from early on, the fifties and even before that. I have spent there a good part of my studies in the eighties, and I was elated to find an article by Einstein himself, published in the fifties in some Physics journal. Quite an interesting, if a bit over the top of my head, reading.
+That tram was, for some time, placed in la
+[Facultad de Ciencias, or Faculty of Sciences, of the University of Granada](http://fciencias.ugr.es/en/). It
+might or might not be there by the time you read this, since it was
+taken for restoration and has not returned. However, there is another
+steam engine parked there and you can always check
+[the building itself](http://patrimonio3d.ugr.es/index.php/granada/edificios/item/60-facultad-de-ciencias),
+which was projected and built in the sixties although it has had lots
+of additions. There is some fodder for geeks inside the building,
+where all kind of sciences, from Physics to Geology, are studied. To
+the right hand side, the Physics building houses a Foucault pendulum,
+and going from there to the main building, the library to the right
+hand side houses scientific journals from early on, the fifties and
+even before that. I have spent there a good part of my studies in the
+eighties, and I was elated to find an article by Einstein himself,
+published in the fifties in some Physics journal. Quite an
+interesting, if a bit over the top of my head, reading. 
 
 The main hall has all kind of widgets: rockets, other engines, maybe
 some other temporary exhibitions, and, from there on, the Biology
@@ -432,7 +472,7 @@ Department of
 >Once you are there, go to the next to last office on the right on the
 >corridor to your left, you might recognize the name of the person
 >there, and if he is in, he will happily sign your copy of this book,
->or your Kindle or other reading device. Appointment not necessary.  
+>or your Kindle or other reading device. Appointment not necessary.
 
 To the right of the entrance door there is a vitrine with the history
 of computing as seen from the department. You can see there from
@@ -539,11 +579,11 @@ Or, if that fails, by any one of the many comic, anime and RPG-related events th
 
 You can also be a hardcore geek of the kind that develops stuff and post it for everyone on [GitHub](http://github.com). If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
 
-You can stop reading this and read your Blacksad. When you are done,
-keep reading this, there is so much more in Granada on and off the beaten
-track.
+You can stop reading this now and start to browse your Blacksad. When you are done,
+continue right here, there is so much more in Granada on and off the beaten
+track. 
 
-Or you can go and visit the Alhambra.
+Or you can stop again and visit the Alhambra.
 
 >You have done it already, right? You can now go back and do it again,
 >but going off the beaten track. Is there a track not beaten to death
