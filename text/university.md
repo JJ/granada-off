@@ -12,11 +12,127 @@ So, off the top of my head, and outside that in-the-beaten track fact that some 
 
 Other than that, why would you want to go to the university? For starters, it might go to you instead. There are several campus and then independent buildings. Ciencias, for instance, is in a big campus called Fuentenueva which is close to the city center. Two faculties, Translation and Law, are independent, and old, and nice, buildings very close to downtown and the other monuments. Other campus, Aynadamar houses the closely related Fine Arts and Computer Science, while Cartuja houses the also closely related Pharmacy, Psychology, marketing and humanities. The recently built Health campus includes several high rises where Nursing and Medicine is taught, as well as a big, and so far unfinished, hospital, the morgue and several research campuses. It is really unlikely that you end up, by mistake, in the Faculty of Sports Sciences, but if you visit the Gothic structure of the Hospital Real, you can be seen from the windows of the university president office.
 
-The university cafeterias are also good reasons for visiting any of them. The *café con leche* is awful but also awfully cheap, and there is great, funny and knowledgeable company. Every one of them has a library where old and dusty tomes are housed, and you can go through while you hide from the heat or if you actually are looking for a particular book. Check out [the catalog](http://biblioteca.ugr.es/pages/catalogo) in advance. Places like the Fine Arts library or the Letters and Humanities house a good amount of contemporary literature and essays.
+The university cafeterias are also good reasons for visiting any of
+them. The *café con leche* is awful but also awfully cheap, and there
+is great, funny and knowledgeable company. Every one of them has a
+library where old and dusty tomes are housed, and you can go through
+while you hide from the heat, or the rain, or if you actually are looking for a
+particular book. Check out
+[the catalog](http://biblioteca.ugr.es/pages/catalogo) in
+advance. Places like the Fine Arts or the Letters and
+Humanities libraries house a good amount of contemporary literature and essays. 
 
-Plus you might want to go because they house some jewels that are missed because they are, just like the rest of this book, off the beaten track. Check out, for instance, the Cartuja Campus. It hosts, except for pharmacy, mostly non-science or engineering degrees, and you can notice the atmosphere is much more relaxed and corridors much more crowded that the ones in Ciencias or Computer Science. If you are into interminable discussion that start with coffee and end somewhere you do not really know how you got, this is your place. Besides, their cafeterias, being on a hill, offer some of the best views in Granada. The one in the Faculty of Psychology has one of the best sunsets in Granada, plus excellent company. The Faculty of Economics has also an excellent outdoor terrace with very nice views of the city. And the cafeteria in Pharmacy is in a school with one of the highest female rate and, at the same time, the highest number of students in Granada. From there, the Odontology and Communications schools share the [Colegio Máximo](http://fcd.ugr.es/pages/facultad/colegio), originally a Jesuit novitiate, but now a monastery-like place with old printing machines in the corridors, low cost dental clinic and also a beautiful neomudéjar chapel that you will probably be able to visit if you ask nicely in reception; it is completely empty but its moorish revival decoration, stained glass windows and shell-like baptismal font are really remarkable and could be an incredible background to a rave party. The whole building, even if not ancient, is [remarkable](http://lastresgranadas.blogspot.com.es/2012/04/colegio-maximo-de-los-jesuitas-en.html) and was one of the first Jesuit buildings in the area that eventually included a lot. If you are *in* the beaten track and visiting the Cartuja, which is five hundred meters away, take a small detour and visit this place too.
+Plus you might want to visit the university colleges because they house some jewels that are
+missed because they are, just like the rest of this book, off the
+beaten track. Check out, for instance, the Cartuja Campus. It hosts,
+except for pharmacy, mostly non-science or engineering degrees, and
+you can notice the atmosphere is much more relaxed and corridors much
+more crowded that the ones in Ciencias or Computer Science. If you are
+into interminable discussion that start with coffee and end somewhere
+you do not really know how you got, this is your place. Besides, their
+cafeterias, being on a hill, offer some of the best views in
+Granada. The one in the Faculty of Psychology has one of the best
+sunsets in Granada, plus excellent company. The Faculty of Economics
+has also an excellent outdoor terrace with very nice views of the
+city. And the cafeteria in Pharmacy is in a school with one of the
+highest female rate and, at the same time, the highest number of
+students in Granada. From there, the Odontology and Communications
+schools share the
+[Colegio Máximo](http://fcd.ugr.es/pages/facultad/colegio), originally
+a Jesuit novitiate, but now a monastery-like place with old printing
+machines in the corridors, low cost dental clinic and also a beautiful
+neomudéjar chapel that you will probably be able to visit if you ask
+nicely in reception; it is completely empty but its moorish revival
+decoration, stained glass windows and shell-like baptismal font are
+really remarkable and could be an incredible background to a rave
+party. The whole building, even if not ancient, is
+[remarkable](http://lastresgranadas.blogspot.com.es/2012/04/colegio-maximo-de-los-jesuitas-en.html)
+and was one of the first Jesuit buildings in the area that eventually
+included a lot. If you are *in* the beaten track and visiting the
+Cartuja, which is five hundred meters away, take a small detour and
+visit this place too.
 
-Because there is art here, and Art with a capital A. The university holds contests for rewarding the art of its best students, and the prize is being a part of the Modern Art Collection of the University of Granada. If there is an index to that collection, I have been unable to find it. However, having been involved with the university for a few years, I know that paintings, photographs and sculptures end up in offices, corridors and stairs anywhere. There are three in the free software office, and feel free to come and appreciate them. We would happily give them to you, since they leave us a bit like this :-?, uncultured geeks as we are, only we cannot, because they are art and belong to the humankind in general, not me or you. In fact, of those pieces of art that looked like a irregular block of concrete with jagged iron bars coming out from it spent a long time as an ashtray in the old Computer Science school. The staff had to specifically instruct the cleaning crew to neither use it as a dustbin or carry it to a dumpster as a piece of debris. Which, I guess, eventually became since it disappeared one day, not to be seen again.
+Colleges are not the kind of place the common Granadino lives in, and
+they might look like hospitals or churches or some other thing. But
+the university also includes places people actually live in, and they
+are the quintessential examples of traditional houses where real
+people lived. One of them is
+[the Carmen de la Victoria](http://carmendelavictoria.ugr.es/), which
+is an example of a [Carmen](https://es.wikipedia.org/wiki/Carmen_granadino), basically a villa within the confines of
+the city of Granada, but more often in the Albayzín or Realejo,
+sometimes in the Barranco del Abogado. As the Carmen website offers,
+Carmen comes from the arab *karm* which means vineyard; that was the
+name that orchards around the city received around the time when the
+Alhambra was built. There are many cármenes around the city, which
+makes the Albayzin seen from above a group of green patches quite
+different from what you see at street level: whitewashed walls and
+dark alleys. Some of
+them can be visited, but this one, besides having a incredibly nice
+view of the Alhambra, also hosts many cultural events: movie
+screenings, poetry readings, and even scientific meetings. If you are
+visiting a colleague in the University of Granada, the only possible
+way of spending a night there, ask for a reservation well in advance
+and, if possible and money allows, ask for the suite, which has a
+balcony with the Alhambra in direct line of sights. The scenery there
+at dawn is just stunning. If you are not so lucky, you can take a walk
+in the 100-year old gardens, which is was built in a way that was
+traditional by the end of the XIX century and which you can see also
+in places like the Carmen de los Mártires, this one open to the
+public.
+
+The other residence corresponds to a more modest dwelling: the
+[Corrala de Santiago](http://corraladesantiago.ugr.es/). A *corrala*
+is a shared house organized around a central yard. Families lived in
+one or a few rooms, and the patio centralized some services: sometimes
+an outhouse, most of the times a well. Very vew corralas have
+survived, and most of them are private and cannot be visited. This one
+is rather open, but is also the place where a "cruz de mayo", or May
+cross, is erected during that particular celebration. What a "cruz de
+mayo" is kind of difficult to explain, but let us say it is a cross
+with many other things on the side.
+
+>I will probably talk about them when I write the chapter on movable
+>feast. This particular one is not movable by itself, but people move
+>around a lot.
+
+The graveyard is surrounded by galleries at all levels, and these
+galeries are supported by columns taken from the most diverse places,
+other demolished buildings or buildings that would be demolished after
+some wiseguy took its columns from it. In fact, there is a
+[whole movement around the concept of Corrala](https://granadastopdesahucios.wordpress.com/2013/11/17/surge-la-primera-corrala-en-granada-el-triunfo/),
+and related to stopping evictions, and it eventually came to Granada. The Corrala el Triunfo can now be
+visited and has been occupied by a group of persons intent on giving
+an alternative to people that has been evicted. They, themselves, were
+evicted but if you check out their website you will probably be able
+to find their activities.
+
+Going back to the Corrala de Santiago, you might take advantage also
+of cultural activities taking place there to have a look at it. It is
+in the middle of the Realejo area, in a small alley, with many
+graffiti around. Realejo is definitely worth the while, and maybe
+deserves a whole book.
+
+The corrala de Santiago also has an exhibition area with works of art
+from local artists, mainly students. And it is only a sample of what
+you can see in the University.
+
+Because there is art here, and Art with a capital A. The university
+holds contests for rewarding the master works of its best students, and the
+prize is being a part of the Modern Art Collection of the University
+of Granada. If there is an index to that collection, I have been
+unable to find it. However, having been involved with the university
+for a few years, I know that paintings, photographs and sculptures end
+up in offices, corridors and stairs anywhere. There are three in the
+free software office, and feel free to come and appreciate them. We
+would happily give them to you, since they leave us a bit like this
+:-?, uncultured geeks as we are, only we cannot, because they are art
+and belong to the humankind in general, not me or you. In fact, of
+those pieces of art that looked like a irregular block of concrete
+with jagged iron bars coming out from it spent a long time as an
+ashtray in the old Computer Science school. The staff had to
+specifically instruct the cleaning crew to neither use it as a dustbin
+or carry it to a dumpster as a piece of debris. Which, I guess,
+eventually became since it disappeared one day, not to be seen again. 
 
 I am not saying that they are not incredibly talented master works; it
 is quite clear that all of them are, since most of them have won the
