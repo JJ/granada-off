@@ -134,7 +134,7 @@ and in this era where we need so many STEM graduates, its utility
 should be considered even more.
 
 That small museum is not too far away from the Facultad de Medicina,
-the Faculty of Medicine of the UGR, where another local geek,
+the Faculty of Medicine of the UGR, where another local geek and sleuth,
 [Federico Olóriz](https://es.wikipedia.org/wiki/Federico_Ol%C3%B3riz_Aguilera),
 started to study when he was 16.
 
@@ -155,7 +155,14 @@ advanced by that time, and the University of Granada was no
 exception. Not always was it published or presented where it should
 have been. If you make a right from the door of the Faculty and keep
 walking past one of the highest buildings in Granada, you will
-eventually arrive to Doctor Olóriz street. At least in this case a
+eventually arrive to Doctor Olóriz street.
+
+>In an university city, it was unavoidable that this place was
+>mock-named "Doctor Olóriz Causa". And by "was mock-named" I mean I
+>did it. It was on the route I followed to university classes for a
+>few years.
+
+At least in this case a
 local figure got his due, although diluted in a sea of streets all
 devoted to other not so well known doctors.
 
@@ -175,12 +182,12 @@ average Granadian of this local glory. There was a
 and you can still buy the exhibition catalog in the gift shop. And his
 ashes were eventually buried in the
 [vault of illustrious Granadians](https://www.flickr.com/photos/landahlauts/5553336175),
-inaugurated in 2012 with his burial. Nothing is known about what
-happened to his collection of 2500 skulls, which he used in an early
-attempt at big data collection. It will probably be gathering dust in
-the basement of some college.
+inaugurated in 2012 with him, actually. Nothing is known about what
+happened to his collection of 2500 skulls from all corners of Spain, which he used in an early
+attempt at big data acquisition. It will probably be gathering dust in
+the basement of some college. Or sold in pieces in eBay.
 
-You can ride the bus from the cemetery to the city, or just walk
+Once you check out the vault, you can ride the bus from the cemetery to the city, or just walk
 downhill, proceeding to the popularly named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
 >I remember to spend the time of boring classes during the 80s
