@@ -61,10 +61,10 @@ people lived. One of them is
 is an example of a [Carmen](https://es.wikipedia.org/wiki/Carmen_granadino), basically a villa within the confines of
 the city of Granada, but more often in the Albayzín or Realejo,
 sometimes in the Barranco del Abogado. As the Carmen website offers,
-Carmen comes from the arab *karm* which means vineyard; that was the
+Carmen comes from the Arab *karm* which means vineyard; that was the
 name that orchards around the city received around the time when the
 Alhambra was built. There are many cármenes around the city, which
-makes the Albayzin seen from above a group of green patches quite
+makes the Albayzín seen from above a group of green patches quite
 different from what you see at street level: whitewashed walls and
 dark alleys. Some of
 them can be visited, but this one, besides having a incredibly nice
@@ -84,7 +84,7 @@ The other residence corresponds to a more modest dwelling: the
 [Corrala de Santiago](http://corraladesantiago.ugr.es/). A *corrala*
 is a shared house organized around a central yard. Families lived in
 one or a few rooms, and the patio centralized some services: sometimes
-an outhouse, most of the times a well. Very vew corralas have
+an outhouse, most of the times a well. Very few corralas have
 survived, and most of them are private and cannot be visited. This one
 is rather open, but is also the place where a "cruz de mayo", or May
 cross, is erected during that particular celebration. What a "cruz de
@@ -96,9 +96,9 @@ with many other things on the side.
 >around a lot.
 
 The graveyard is surrounded by galleries at all levels, and these
-galeries are supported by columns taken from the most diverse places,
+galleries are supported by columns taken from the most diverse places,
 other demolished buildings or buildings that would be demolished after
-some wiseguy took its columns from it. In fact, there is a
+some smartass took its columns from it. In fact, there is a
 [whole movement around the concept of Corrala](https://granadastopdesahucios.wordpress.com/2013/11/17/surge-la-primera-corrala-en-granada-el-triunfo/),
 and related to stopping evictions, and it eventually came to Granada. The Corrala el Triunfo can now be
 visited and has been occupied by a group of persons intent on giving
