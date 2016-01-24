@@ -170,7 +170,7 @@ Muslims killed Christians by the dozens elsewhere. This lead books are
 kept in the Sacromonte abbey and still hidden from sight.
 
 >The palace itself houses a curious museum, more of a cabinet of
->curiosities with all kind of things, rooms devoted to Oriental and folk kitsh,
+>curiosities with all kind of things, rooms devoted to Oriental and folk kitsch,
 > "the Granadian woman", newspapers, and a whole room
 >devoted to holidays. Calling it "the Museum of newspapers, the
 >Granadian woman and local holidays" would have been too long so it
@@ -272,13 +272,13 @@ There
 is a Monument to the Rotarians, which were actually founded by
 freemasons and, in fact, started recruiting withing the lodges of the
 places where they were established. Not a secret but rather a
-philantropic society itself, its relationship to Granada is lost to
+philantropist society itself, its relationship to Granada is lost to
 me, although there is
 [apparently a local chapter](http://www.ideal.es/granada/v/20120609/granada/rotarios-reunen-granada-20120609.html)
 with 32 members in 2012.
 
 
-Freesons have the word "freedom" in their name, and along the recent
+Freemasons have the word "freedom" in their name, and along the recent
 history of Granada, they have been associated with struggling for
 freedom. Freedom that should be your guide when visiting, when living,
 Granada. 
