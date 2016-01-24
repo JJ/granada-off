@@ -133,19 +133,19 @@ legend inscribed in the cross references Solomon's temple and were
 made by the stonemasons, whose guilds were, apparently, the origin of
 freemasonry here in Spain and in many other places.
 
-However, there is no lack of curious and meaniunful symbols in
+However, there is no lack of curious and meaningful symbols in
 buildings. I specially like, for its simplicity, the
 [three geometric figures in Casa de los Tiros](https://es.wikipedia.org/wiki/Casa_de_los_Tiros). From
 left to right, a triangle, a square and an octagon. Let us look first
 at this last one: an octagon is associated to baptism, and in fact
 many
-[baptistries and baptism piles](http://worship.calvin.edu/resources/resource-library/theological-reasons-for-baptistry-shapes/)
+[baptisteries and baptism piles](http://worship.calvin.edu/resources/resource-library/theological-reasons-for-baptistry-shapes/)
 have this shape. In fact, this house was built by the
 [Granada-Venegas](https://es.wikipedia.org/wiki/Granada_Venegas), a
-muslim couple who converted to Catholicism during the conquest of
+Muslim couple who converted to Catholicism during the conquest of
 Granada and became a noble Christian family after having been a noble
 Muslim family in the Nasrid kingdom. So the thing was quite clear,
-hey, this family, despite looking all the way muslim, are good
+hey, this family, despite looking all the way Muslim, are good
 Christians. To drive the message home, there are five fierce-looking
 warriors representing ancient heroes such as Hercules or Mercury and a
 sword with the inscription "The heart rules". The rest of the sentence
@@ -155,22 +155,29 @@ Alpujarras. The square in the middle is a symbol of stability and the
 triangle, pointing at heaven, a symbol of the afterlife. The octagon,
 in fact, is similar to a circle. And circle, triangle and square
 together are a
-[rosicrucian symbol](http://www.lectoriumrosicrucianum.org/faq/15-what-does-the-symbol-circle-triangle-square-mean-under-which-the-lectorium-rosicrucianum-occu)
+[Rosicrucian symbol](http://www.lectoriumrosicrucianum.org/faq/15-what-does-the-symbol-circle-triangle-square-mean-under-which-the-lectorium-rosicrucianum-occu)
 that seems to be related to the spiritual nature of the human
 being. Who knows what they meant in this context; maybe an allusion of
 all religions being one and the same, a message they tried to transmit
 also with the
 [lead "books" of the Sacromonte](https://en.wikipedia.org/wiki/Lead_Books_of_Sacromonte),
 a hoax with which they were apparently related. These books talked
-about the Arabs in Granada being the first christians in Spain, and
+about the Arabs in Granada being the first Christians in Spain, and
 thus a inherent brotherhood between Muslims and Christians. It failed
 to prove anything to anyone
 and Christians kept killing Muslims by the dozens in Spain while
 Muslims killed Christians by the dozens elsewhere. This lead books are
 kept in the Sacromonte abbey and still hidden from sight.
 
+>The palace itself houses a curious museum, more of a cabinet of
+>curiosities with all kind of things, rooms devoted to orientalism,
+>costumbrism, "the Granadian woman", newspapers, and a whole room
+>devoted to holidays. Calling it "the Museum of newspapers, the
+>Granadian womand and local holidays" would have been too long so it
+>is simply called ["Casa de los Tiros" museum](http://www.museosdeandalucia.es/cultura/museos/MCTGR/).
 
-There is a twist to this history of Granada equal to freemasonry. I
+There is a twist to this history of Granada equal to freemasonry, and
+it is also channelled through symbols coming from the Muslim past. I
 remember to have seen in Santa Fe, NM, its name itself taken from the
 city of Santa Fé, close to Granada, a red building with Moorish
 features, in fact in the so called "Moorish revival" style, which is, 
@@ -208,6 +215,40 @@ which is, as most of them nowadays, open to all kinds of
 people. Two more lodges are active now:
 [Conocimiento](http://www.logiaconocimiento158.com/regularidad.htm)
 and [Giner de los Ríos](http://www.logiaginerdelosrios.es/).
+
+Giner de los Ríos, apparently not a freemason himself, was the uncle
+of
+[Fernando de los Ríos](https://es.wikipedia.org/wiki/Fernando_de_los_R%C3%ADos),
+an orphan born in Ronda but whose link to Granada comes from the fact
+that he was a professor at the university, gaining professorship
+in 1911. He belonged to the same lodge, Alhambra, that met at the
+Hotel del Reúma and he went on to be a minister during the Republic
+and eventually president of the Republic in exile. His monument, in
+the avenue that takes his name, constitutes a great, and at the same
+time well hidden, exhibition of masonic symbols.
+
+>This avenue crosses, right before the river, the Baden Powell
+>street, [a freemason himself](https://en.wikipedia.org/wiki/Michael_Baden-Powell#Freemasonry). 
+
+The statue is in roundabout by the corner of the Parque de las
+Ciencias, and is the start of two other avenues: Science and Don
+Bosco, a priest who created the Salesian order and schools and is
+right in the middle of the big Granadian city, the two buildings,
+opposite each other, that house the headquarters of the two big big
+local banks, BMN and Caja
+Rural. [Seen from above](https://www.google.es/maps/@37.1607799,-3.6046126,70m/data=!3m1!1e3?hl=es)
+it looks like a crescent moon with four small and a big square in
+it. This big square is performed in Corten steel and represents a
+fractal pomegranate, remember, a freemasonry symbol, which is on a
+tree that resembles a
+[solomonic or broken column](http://www.freemasons-freemasonry.com/broken-column.html),
+representing unfinished work.
+
+>A very beautiful and original monument, anyway, it is the work of
+>[Alejandro Muñoz Miranda](http://arquitecturagranada.blogspot.com.es/2008/04/alejandro-muoz-miranda.html),
+>a young architect that has carried out
+>[many projects](http://www.alejandromunozmiranda.com/home.html), some
+>of them in Granada. 
 
 It is still a discrete society and there is nothing you will
 be able to watch and see. It is worth the while to visit her monument,
