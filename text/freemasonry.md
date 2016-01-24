@@ -1,6 +1,21 @@
-#Freemasonry in Granada
+#Freemasonry and other hidden messages in buildings
 
-For those in the know, Granada itself is a symbol of freemasonry. Its main symbol is a pomegranate, *granada* in Spanish, a fruit that can be found all over the city. At the beginning of the Paseo del Salón there is a pomegranate fountain, bollards are capped by huge pomegranates, and in a roundabout that dots the incoming road from Jaén, a huge pomegranate greets the visitor.
+For those in the know, Granada itself is a symbol of freemasonry. Its
+main symbol is a pomegranate, *granada* in Spanish, a fruit that can
+be found all over the city.  A pomegranate, according
+to the Dictionary of Symbols by Cirlot, is a symbol of unity in
+multiplicity. The Greeks believed that it was created out of the blood
+of [Dionysus or Bacchus](http://www.men-myths-minds.com/Dionysus-greek-god.html), the god of pleasure, wine and ritual
+madness. When he died killed by the Titans, which is weird because he was a god, maybe he
+was a low-cost god or took too much of its own wine or the Titans were
+really tough guys, a pomegranate
+tree grew where his blood had fallen. The god part asserted itself
+when he was resurrected and came back with a vengeance to gather
+followers and banish enemies. 
+At the beginning of the Paseo del Salón
+there is a pomegranate fountain, bollards are capped by huge
+pomegranates, and in a roundabout that dots the incoming road from
+Jaén, a huge pomegranate greets the visitor.
 
 >That roundabout is the intersection of other two chapters, the one about roundabouts and the one about whorehouses and other sex-trading places. And now this one. Actually, it is going to become the keystone to the whole city.
 
@@ -88,9 +103,11 @@ The masonic symbology was put there by the architect, Juan Montserrat
 y Vergés, himself a freemason, and also the author of the
 [former hotel Colón](http://www.iaph.es/arquitectura-contemporanea-andalucia/resumen.do?id=251948)
 which forms the the South-West corner of the Gran Vía. This poor chap
-was
-[tried in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
-its fate unknown but probably ending in  prison for life or death.
+has a file 
+[in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
+but it is unlikely that anything was done to him, since he was
+probably dead. Although the date of his death is unknown, and that is
+sad too, he was probably dead between 1910 and 1920.
 
 
 There might be
@@ -104,7 +121,53 @@ compass, or a triangle, or
 
 I have not been able to find other symbols anywhere else; either
 Solomonic columns, or Frigian caps, or triangles. There might be a
-reason for this: Freemasonry was very actively repressed during Franco's dictatorship in Granada, with masons arrested and shot just for that reason. This does not imply that masonic symbols or houses with them were razed; in most cases they were not recognized as such, but maybe they simply disappeared after the home owners were exiled or killed. That is why one of the remaining masonic symbols come from way before that, from 1595: [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A legend inscribed in the cross references Solomon's temple and were made by the stonemasons, whose guilds were, apparently, the origin of freemasonry here in Spain and in many other places.
+reason for this: Freemasonry was very actively repressed during
+Franco's dictatorship in Granada, with masons arrested and shot just
+for that reason. This does not imply that masonic symbols or houses
+with them were razed; in most cases they were not recognized as such,
+but maybe they simply disappeared after the home owners were exiled or
+killed. That is why one of the remaining masonic symbols come from way
+before that, from 1595:
+[a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A
+legend inscribed in the cross references Solomon's temple and were
+made by the stonemasons, whose guilds were, apparently, the origin of
+freemasonry here in Spain and in many other places.
+
+However, there is no lack of curious and meaniunful symbols in
+buildings. I specially like, for its simplicity, the
+[three geometric figures in Casa de los Tiros](https://es.wikipedia.org/wiki/Casa_de_los_Tiros). From
+left to right, a triangle, a square and an octagon. Let us look first
+at this last one: an octagon is associated to baptism, and in fact
+many
+[baptistries and baptism piles](http://worship.calvin.edu/resources/resource-library/theological-reasons-for-baptistry-shapes/)
+have this shape. In fact, this house was built by the
+[Granada-Venegas](https://es.wikipedia.org/wiki/Granada_Venegas), a
+muslim couple who converted to Catholicism during the conquest of
+Granada and became a noble Christian family after having been a noble
+Muslim family in the Nasrid kingdom. So the thing was quite clear,
+hey, this family, despite looking all the way muslim, are good
+Christians. To drive the message home, there are five fierce-looking
+warriors representing ancient heroes such as Hercules or Mercury and a
+sword with the inscription "The heart rules". The rest of the sentence
+is inscribed in the balcony and is related to the fact that they
+helped to repress the revolt of their former fellow Muslims in the
+Alpujarras. The square in the middle is a symbol of stability and the
+triangle, pointing at heaven, a symbol of the afterlife. The octagon,
+in fact, is similar to a circle. And circle, triangle and square
+together are a
+[rosicrucian symbol](http://www.lectoriumrosicrucianum.org/faq/15-what-does-the-symbol-circle-triangle-square-mean-under-which-the-lectorium-rosicrucianum-occu)
+that seems to be related to the spiritual nature of the human
+being. Who knows what they meant in this context; maybe an allusion of
+all religions being one and the same, a message they tried to transmit
+also with the
+[lead "books" of the Sacromonte](https://en.wikipedia.org/wiki/Lead_Books_of_Sacromonte),
+a hoax with which they were apparently related. These books talked
+about the Arabs in Granada being the first christians in Spain, and
+thus a inherent brotherhood between Muslims and Christians. It failed
+to prove anything to anyone
+and Christians kept killing Muslims by the dozens in Spain while
+Muslims killed Christians by the dozens elsewhere. This lead books are
+kept in the Sacromonte abbey and still hidden from sight.
 
 
 There is a twist to this history of Granada equal to freemasonry. I
