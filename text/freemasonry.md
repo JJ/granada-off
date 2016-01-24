@@ -262,7 +262,13 @@ representing unfinished work.
 
 Following the axis of this avenue through the city center and past the
 Helicopter roundabout, you will end up in the city huge conference
-center, which is also placed in the so-called Rotary roundabout. There
+center, which is also placed in the so-called Rotary roundabout.
+
+>What location could be better to have "Rotary" in its name than a
+>roundabout, which is called "Rotonda". Rotonda Rotary, rolls in your
+>tongue, does it not?
+
+There
 is a Monument to the Rotarians, which were actually founded by
 freemasons and, in fact, started recruiting withing the lodges of the
 places where they were established. Not a secret but rather a
