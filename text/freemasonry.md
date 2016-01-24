@@ -170,14 +170,14 @@ Muslims killed Christians by the dozens elsewhere. This lead books are
 kept in the Sacromonte abbey and still hidden from sight.
 
 >The palace itself houses a curious museum, more of a cabinet of
->curiosities with all kind of things, rooms devoted to orientalism,
->costumbrism, "the Granadian woman", newspapers, and a whole room
+>curiosities with all kind of things, rooms devoted to Oriental and folk kitsh,
+> "the Granadian woman", newspapers, and a whole room
 >devoted to holidays. Calling it "the Museum of newspapers, the
->Granadian womand and local holidays" would have been too long so it
+>Granadian woman and local holidays" would have been too long so it
 >is simply called ["Casa de los Tiros" museum](http://www.museosdeandalucia.es/cultura/museos/MCTGR/).
 
 There is a twist to this history of Granada equal to freemasonry, and
-it is also channelled through symbols coming from the Muslim past. I
+it is also channeled through symbols coming from the Muslim past. I
 remember to have seen in Santa Fe, NM, its name itself taken from the
 city of Santa Fé, close to Granada, a red building with Moorish
 features, in fact in the so called "Moorish revival" style, which is, 
@@ -209,7 +209,18 @@ like the Spanish republican flag, red, yellow and purple.
 
 However, at that time women were not allowed into lodges, so she was
 not a freemason herself. Her name was
-[adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html). Nowadays,
+[adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html).
+
+It is still a discrete society and there is nothing you will
+be able to watch and see. It is worth the while to visit her monument,
+in the middle of the square that bears her name. One of the panels of
+the pedestal bears the legend "Con el secreto inmortalizó el nombre",
+"With the secret immortalized the name", presumably referring to the
+secret society. The flag she puts her hand on is a reproduction of the
+actual standard, and it obviously bears the triangle and the visible
+words "Ley" and "Libertad".
+
+Nowadays,
 she lives on as the [name of one of the active lodges in Granada](http://www.masoneriaengranada.es/),
 which is, as most of them nowadays, open to all kinds of
 people. Two more lodges are active now:
@@ -217,8 +228,7 @@ people. Two more lodges are active now:
 and [Giner de los Ríos](http://www.logiaginerdelosrios.es/).
 
 Giner de los Ríos, apparently not a freemason himself, was the uncle
-of
-[Fernando de los Ríos](https://es.wikipedia.org/wiki/Fernando_de_los_R%C3%ADos),
+of [Fernando de los Ríos](https://es.wikipedia.org/wiki/Fernando_de_los_R%C3%ADos),
 an orphan born in Ronda but whose link to Granada comes from the fact
 that he was a professor at the university, gaining professorship
 in 1911. He belonged to the same lodge, Alhambra, that met at the
@@ -241,7 +251,7 @@ it looks like a crescent moon with four small and a big square in
 it. This big square is performed in Corten steel and represents a
 fractal pomegranate, remember, a freemasonry symbol, which is on a
 tree that resembles a
-[solomonic or broken column](http://www.freemasons-freemasonry.com/broken-column.html),
+[Solomonic or broken column](http://www.freemasons-freemasonry.com/broken-column.html),
 representing unfinished work.
 
 >A very beautiful and original monument, anyway, it is the work of
@@ -250,16 +260,21 @@ representing unfinished work.
 >[many projects](http://www.alejandromunozmiranda.com/home.html), some
 >of them in Granada. 
 
-It is still a discrete society and there is nothing you will
-be able to watch and see. It is worth the while to visit her monument,
-in the middle of the square that bears her name. One of the panels of
-the pedestal bears the legend "Con el secreto inmortalizó el nombre",
-"With the secret immortalized the name", presumably referring to the
-secret society. The flag she puts her hand on is a reproduction of the
-actual standard, and it obviously bears the triangle and the visible
-words "Ley" and "Libertad".
+Following the axis of this avenue through the city center and past the
+Helicopter roundabout, you will end up in the city huge conference
+center, which is also placed in the so-called Rotary roundabout. There
+is a Monument to the Rotarians, which were actually founded by
+freemasons and, in fact, started recruiting withing the lodges of the
+places where they were established. Not a secret but rather a
+philantropic society itself, its relationship to Granada is lost to
+me, although there is
+[apparently a local chapter](http://www.ideal.es/granada/v/20120609/granada/rotarios-reunen-granada-20120609.html)
+with 32 members in 2012.
 
-Freedom that should be your guide when visiting, when living,
+
+Freesons have the word "freedom" in their name, and along the recent
+history of Granada, they have been associated with struggling for
+freedom. Freedom that should be your guide when visiting, when living,
 Granada. 
 
 
