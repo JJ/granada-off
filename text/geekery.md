@@ -359,7 +359,17 @@ The main hall has all kind of widgets: rockets, other engines, maybe
 some other temporary exhibitions, and, from there on, the Biology
 building, which lies to the right, has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
 
-If you go across the parking to the next building and ask nicely, you might be able to visit [Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which is not open to the public but there will probably be someone proud enough in [computing services of the University](http://csirc.ugr.es) to show it to you. That is the precise building where the ur-geeks of the eighties spent our time, because it housed the first computer lab, filled with IBM XTs, and where you had to dress nicely, no shorts, if you did not want to be expelled by the janitors. This building housed the university mainframes for some time, and it still has a big data center.
+If you go across the parking to the next building and ask nicely, you
+might be able to visit
+[Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which
+is not open to the public but there will probably be someone proud
+enough in [computing services of the University](http://csirc.ugr.es)
+to show it to you. That is the precise building where the ur-geeks of
+the eighties spent our time, because it housed the first computer lab,
+filled with IBM XTs, and where you had to dress nicely, no shorts, if
+you did not want to be expelled by the janitors. This building housed
+the university mainframes for some time, and it still is the site of
+one of the data centers. 
 
 If you want to see one of those computers, you will have to catch the
 SN3 bus to the [ETSIIT](http://etsiit.ugr.es), a geek place if there
@@ -565,12 +575,37 @@ commercial, who man customer supports, and who is in the basement
 manhandling the computers that make everything work or programming
 them. 
 
-And, while you are at it, you might see the signs for one such "Spiral startups", in another glass building, right by its side. You might even be able to watch it from outside the shuttered spaces, because it closed a while ago, signaling the onset of the bursting of the coworking bubble in Granada. [Spiral Startups](https://www.linkedin.com/company/spiral-startups) was, at one point in time, one of almost a couple of dozen coworking spaces in Granada. If you are not familiar with the concept, a coworking office is just an open space that provides a desk area, connectivity and amenities to freelancers and startup companies. During the crisis, they were a convenient and cheap alternative to either staying at your parents, renting real office space or crashing at a café. For less than 50€ a month, you could have your very own office to receive customers and interact with fellow entrepreneurs. 
+And, while you are at it, you might see the signs for one such "Spiral
+startups", in another glass building, right by its side. You might
+even be able to watch it from outside the shuttered spaces, because it
+closed a while ago, signaling the onset of the bursting of the
+coworking bubble in
+Granada. [Spiral Startups](https://www.linkedin.com/company/spiral-startups)
+was, at one point in time, one of almost a couple of dozen coworking
+spaces in Granada. If you are not familiar with the concept, a
+coworking office is just an open space that provides a desk area,
+connectivity and amenities to freelancers and startup
+companies. During the crisis, they were a convenient and cheap
+alternative to either staying at your parents, renting real office
+space or crashing at a café. For less than 50€ a month, you could have
+your very own office to receive customers and interact with fellow
+entrepreneurs.  
 
 Only maybe it became too much of a good thing. At the height of the phenomenon, there were more coworking spaces in Granada than in any other city in Spain, proving again that, when it comes to geekery, Granada rocks. After closing Spiral, other coworking spaces, like Cocorocó, also shut down, and then smaller ones. The only thriving space right now seems to be [ErranT](http://www.errant.es/), which you are welcome to visit by itself or joining one of the many activities that take place there. 
-It is actually very close to one of the biggest cibercafés that existed also in Granada in the late 90s and early aughts, [Red Isis](http://www.exploregranada.com/internet.htm). It is now closed, as the [rest of the public-access computer shops](http://www.andalucia.com/internet/cybercafes/granada.htm), of which there were quite a few in Granada. I have rarely been in such a kind of place in Granada, since the University provided us with Internet access at home since early one. However, there was one in every corner at the beginning of the century, before ADSL became affordable; it even resisted half a dozen of years, until now that we have Internet in our hand through our smartphones.
+It is actually very close to one of the biggest cibercafés that
+existed also in Granada in the late 90s and early aughts,
+[Red Isis](http://www.exploregranada.com/internet.htm). It is now
+closed, as the
+[rest of the public-access computer shops](http://www.andalucia.com/internet/cybercafes/granada.htm),
+of which there were quite a few in Granada. I have rarely been in such
+a kind of place in Granada, since the University provided us with
+Internet access at home since early one. However, there was one in
+every corner at the beginning of the century, before ADSL became
+affordable; it even resisted half a dozen of years, until now that we
+have Internet in our hand through our smartphones. 
 
-There might be still one open, plying mainly to migrants who use it mainly to call home, a crowd that is very different of the teens that crowded it back them to maim and kill through Unreal Tournament or other wargames.
+There might be still one open, plying mainly to migrants who use it
+mainly to call home, a set of customers that is very different of the teens that crowded it back them to maim and kill through Unreal Tournament or other wargames.
 
 Still, local cibercafés had something authentic in them and were as
 much a showcase for local living culture as pubs or cemeteries, these
@@ -582,7 +617,41 @@ Flash is closed on Saturday afternoons, but [Draco](http://www.libreriadraco.com
 
 Or, if that fails, by any one of the many comic, anime and RPG-related events that take place almost monthly in Granada. There is a single ComiCon, but Granada boasts [el Salón del Cómic](http://saloncomicgranada.com/), [Japan Weekend](http://www.japanweekend.com/granada/), [FicZone](http://www.ficzone.com/), [Granada Gaming](http://www.granadagaming.com/), with a delicious [Retro Granada area](http://www.granadagaming.com/retro-granada.html) with all kind of home computers and gaming consoles from the 80s and 90s, and which I really enjoyed, besides being able to check out all the local indie game creation scene.
 
->I am personally not too much into this kind of things, because lately they are more about cosplay and showing off than about talking or learning about comics and sequential art. However, since most people are attending K-Pop contests and karaoke fights, you might have the chance, as I did, to meet and greet comic creators and talk for a while with them, even if you had not heard about them before.
+>I am personally not too much into this kind of things, because lately
+>they are more about cosplay and showing off than about talking or
+>learning about comics and sequential art. However, since most people
+>are attending K-Pop contests and karaoke fights, you might have the
+>chance, as I did, to meet and greet comic creators and talk for a
+>while with them, even if you had not heard about them before.
+
+Not too far from the last comic shop, there is a place devoted to
+[Emilio Herrera](https://en.wikipedia.org/wiki/Emilio_Herrera_Linares),
+maybe our closest equivalent to Tesla. His short Wikipedia article is
+unable to contain all the things he did in his life, but suffice it to
+say that he is recognized as the father of the space suit, which he
+created initially for stratospheric balloon flights. A politician too,
+he was president of the government of the republic, in exile, between
+1960 and 1962.
+
+>And he was probably a freemason too. In an era where that kind of
+>thing could land you in jail and maybe dead, and your estate
+>confiscated, he apparently preferred to keep it secret. In fact, I
+>have not been able to find a reference to this anywhere, quite the
+>opposite, saying that he was a loyal Catholic and supporter of the
+>monarchy, but, hey, this is Spain, you can be both, but the dead
+>giveaway is his relationship to Esperanto, the fact that he studied
+>in a particular military academy where many freemasons
+>studied. Federico García Lorca, a great Granadino, said that in
+>Granada one plus one is never two, it is one plus one. So Catholic
+>and Republican, no contradiction here. 
+
+His resumé is so incredible that you really have to read it through to
+believe it. Cosmology. Computing. Politics. Aeronautics. Optics. He helped
+Juan de la Cierva create his autogyre. He has a square in Granada and
+a little monolith with his resemblance, but you should visit his tomb
+in the graveyard, a metalic sphere with an embedded cross, and many of
+his merits inscribed on a stone plaque below it. It is really a
+monument that takes the graveyard into this century. 
 
 You can also be a hardcore geek of the kind that develops stuff and post it for everyone on [GitHub](http://github.com). If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
 
