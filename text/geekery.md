@@ -645,11 +645,11 @@ he was president of the government of the republic, in exile, between
 >Granada one plus one is never two, it is one plus one. So Catholic
 >and Republican, no contradiction here. 
 
-His resumé is so incredible that you really have to read it through to
+His résumé is so incredible that you really have to read it through to
 believe it. Cosmology. Computing. Politics. Aeronautics. Optics. He helped
 Juan de la Cierva create his autogyre. He has a square in Granada and
 a little monolith with his resemblance, but you should visit his tomb
-in the graveyard, a metalic sphere with an embedded cross, and many of
+in the graveyard, a chrome sphere with an embedded cross, and many of
 his merits inscribed on a stone plaque below it. It is really a
 monument that takes the graveyard into this century. 
 
