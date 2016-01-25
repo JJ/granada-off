@@ -615,7 +615,17 @@ If you are not able to spot any Internet café, then, just look for your inner g
 
 Flash is closed on Saturday afternoons, but [Draco](http://www.libreriadraco.com/), the center of the local role playing games community, is not. Actually, there is kind of a gaming triangle that extends down to the end of the Alhamar street, where another shop, [Shazam](http://m.forocoches.com/foro/showthread.php?t=3535022), used to be and if you allow a triangle to have another vertex, Dune used to be a few meters down Pedro Antonio. It is no longer there, and the options for gamers and comicateers have been greatly diminished, although they are well served, and probably will be for many years, with just [Flash](http://www.libreriaflash.com/).
 
-Or, if that fails, by any one of the many comic, anime and RPG-related events that take place almost monthly in Granada. There is a single ComiCon, but Granada boasts [el Salón del Cómic](http://saloncomicgranada.com/), [Japan Weekend](http://www.japanweekend.com/granada/), [FicZone](http://www.ficzone.com/), [Granada Gaming](http://www.granadagaming.com/), with a delicious [Retro Granada area](http://www.granadagaming.com/retro-granada.html) with all kind of home computers and gaming consoles from the 80s and 90s, and which I really enjoyed, besides being able to check out all the local indie game creation scene.
+Or, if that fails, by any one of the many comic, anime and RPG-related
+events that take place almost monthly in Granada. There is a single
+ComiCon, but Granada boasts
+[el Salón del Cómic](http://saloncomicgranada.com/),
+[Japan Weekend](http://www.japanweekend.com/granada/),
+[FicZone](http://www.ficzone.com/),
+[Granada Gaming](http://www.granadagaming.com/), with a delicious
+[Retro Granada area](http://www.granadagaming.com/retro-granada.html)
+with all kind of home computers and gaming consoles from the 80s and
+90s, and which I really enjoyed, besides being able to check out all
+the local indie game creation scene. 
 
 >I am personally not too much into this kind of things, because lately
 >they are more about cosplay and showing off than about talking or
