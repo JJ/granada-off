@@ -2,7 +2,7 @@
 
 Yes, there are earthquakes from time to time in Granada. What? There
 are big ones in Japan and San Francisco and no one refrains from going
-there to do a bit of sighseeing, right?
+there to do a bit of sightseeing, right?
 
 We had one
 tonight. [It was a big one, by any measure: 6.3 in the Richter scale](http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do). As
@@ -47,7 +47,7 @@ greatly affected all people that had been left homeless.
 Fortunately, we are a bit more prepared for that and, as it happens in
 California,
 [building code includes a certain amount of reinforcement](https://es.wikipedia.org/wiki/Norma_de_Construcci%C3%B3n_Sismorresistente)
-in areas with high sismicity, such as Granada and Málaga. In fact, the
+in areas with high seismicity, such as Granada and Málaga. In fact, the
 zone with the highest sismicity protection is East of Granada, in
 Santa Fé, the city you go across on your way from Seville, Málaga or
 the airport. 
