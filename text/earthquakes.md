@@ -44,7 +44,16 @@ funded by the ministry but also by the city of Barcelona. This
 earthquake happened in December and it was followed by snowfall, which
 greatly affected all people that had been left homeless.
 
-The problem was aggravated by the fact that everyone thought that
+Fortunately, we are a bit more prepared for that and, as it happens in
+California,
+[building code includes a certain amount of reinforcement](https://es.wikipedia.org/wiki/Norma_de_Construcci%C3%B3n_Sismorresistente)
+in areas with high sismicity, such as Granada and Málaga. In fact, the
+zone with the highest sismicity protection is East of Granada, in
+Santa Fé, the city you go across on your way from Seville, Málaga or
+the airport. 
+
+In the time of the Alhama earthquake, the problem of getting help was
+aggravated by the fact that everyone thought that 
 Andalusian people were overdoing it, drama queen style. You know, we
 are always boasting, Andalusia is the bigger this and the funnier
 that. That was not the case, but it delayed help for some time.
