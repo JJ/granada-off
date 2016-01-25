@@ -48,7 +48,7 @@ Fortunately, we are a bit more prepared for that and, as it happens in
 California,
 [building code includes a certain amount of reinforcement](https://es.wikipedia.org/wiki/Norma_de_Construcci%C3%B3n_Sismorresistente)
 in areas with high seismicity, such as Granada and Málaga. In fact, the
-zone with the highest sismicity protection is East of Granada, in
+zone with the highest seismicity protection is East of Granada, in
 Santa Fé, the city you go across on your way from Seville, Málaga or
 the airport. 
 
