@@ -8,12 +8,10 @@ Granada On
 [![Build Status](https://travis-ci.org/JJ/granada-off.svg?branch=master)](https://travis-ci.org/JJ/granada-off)
 
 Granada Off the Beaten Track, a set of experiences you should not miss
-on your third or fourth visit. Maybe even in the first. Or even if you don't want to go there but want to know about the quirks, nooks and crannies of a city that is one of the most well known in the world.
+on your third or fourth visit. Maybe even in the first.
 
-You can buy it right now and get it delivered
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=perltutobyjjmere&marketplace=amazon&region=US&placement=1523257083&asins=1523257083&linkId=KRN5M3SLKGQW6OX3&show_border=true&link_opens_in_new_window=true">
-</iframe>
+Go to the [prologue](text/prologue.md) to find out what this is
+about. 
 
 ## License
 
