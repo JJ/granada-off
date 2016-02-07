@@ -27,10 +27,33 @@ Cuesta del Desmayo, "Fainting Slope"; Collado del Muerto, "Dead Man's
 Hillock"; Collado de la Víbora, "Viper Hillock". Along the way, you
 also find things like "Cerro Caparranas", which literally means "Frog
 Castration Hill", and "Cerro de las Grajas", "She-rooks hill". Well,
-you probably need to have a bit of fun around so much mayhem and destruction. 
+you probably need to have a bit of fun around so much mayhem and
+destruction.
 
+Maybe the hard path and possible work-related injuries was the reason
+why they travelled in [mule or donkey packs](https://www.youtube.com/watch?v=e-XBQMznOVQ). The snow was extracted
+from "neveros", which is also the name of more or less permanent snow
+hollows, packed in wicker baskets and covered with blankets. Then it
+was a long walk down to the city,
+[usually by night ](http://www.nevasport.com/nivalis/art/1927/El-oficio-de-nevero/). However,
+the most usual thing in Granada was that these working guys were
+salaried workers. Snow trading, in an egregious exercise of what we
+call now gating the countryside, was a monopoly that was given to the
+best bid for a certain time. The person owning the trade usually had a
+high social status and used this trade to make it higher. This
+regulation persisted until the XIX century, with independent workers
+taking the trade by the end of the century and selling it to ice
+parlours and inns that used it for iced drinks and slushes.
 
-But down here? Not so often. One every few years. It happened
+The end of the snowmen arrived in 1920, when electricity allowed the
+creation of ice factories, the first one in 1922. Although after some
+time, in the 50s hospitals and cafes, due to blackouts after the civil
+war, had to create a fleet of trucks that traveled up to the mountains
+to get the ice and bring it down. Mules, horses and donkeys were lost
+forever, along with the muleteers that guided them down those paths. 
+
+The sight of snow in the streets of Granada was also lost. Nowadays it
+is something that happens rarely. One every few years. It happened
 yesterday, and will probably not happen for a few more years. But when
 it does  it is all look at that roof with snow, loot at that car with
 snow, oh, it is stopped snowing, see you in half a dozen years. 
