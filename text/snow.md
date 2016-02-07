@@ -45,6 +45,20 @@ regulation persisted until the XIX century, with independent workers
 taking the trade by the end of the century and selling it to ice
 parlors and inns that used it for iced drinks and slushes.
 
+This route can be easily followed nowadays. It starts in a
+[suburb, Bola de Oro](http://es.wikiloc.com/wikiloc/view.do?id=979719).
+
+>In the surroundings there are several intersting things, including a
+>*haunted house* of which I speak in its corresponding chapter. The
+>start of the route has a chimney or Moorish-like tower that is one of
+>the examples of Granada imitating itself in the shape of kitsch, a
+>fine example of what we could call industrial-exotic revival.
+
+Be aware that, as the instructions say, *there is no water along the
+way*. One can imagine the snowmen drinking from their own medicine. Or
+having a hard time on the way up if they forgot the water jugs and
+imagining names for the places they were going through. 
+
 The end of the snowmen arrived in 1920, when electricity allowed the
 creation of ice factories, the first one in 1922. Although after some
 time, in the 50s hospitals and cafés, due to blackouts after the civil
