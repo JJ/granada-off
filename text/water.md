@@ -117,7 +117,7 @@ with bricks, with wooden or nowadays metallic doors for inserting
 buckets to get the water back from them. These cisterns got names from
 saints or from anything: There was a "Cat cistern", a "Gypsy cistern"
 and an "Old woman cistern". The
-[Aljibe de las tomasas](http://www.albaicin-granada.com/seccion.php?listEntrada=104)
+[Aljibe de las Tomasas](http://www.albaicin-granada.com/seccion.php?listEntrada=104)
 can be visited easily, and it was part of the castle or Alcazaba that
 was a big part of the Albayzín the old days. 
 

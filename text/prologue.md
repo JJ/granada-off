@@ -73,13 +73,65 @@ again, Granada.
 
 ## Instructions for use
 
-Granada is an old place. Like, incredi-fucking-old. It was an Iberian city, the Iberians being the tribe that populated Spain in the first millenium BC, but it has also traces of Phoenician, Carthaginian, wow, that was hard, Roman, possibly Jewish and of course the Arab and Christian that is the one you see. There is little left of those secret origins but names: Elvira street takes its name from Iliberri, Iberian name, possibly meaning (city) by the river, and Illiberis, Roman name, taken from that. The current name is probably more related to the pomegranate fruit than to anything else, although it could be also [Gar-Anat, or Hill of the Strangers or the Pilgrims](http://www.madregot.com/Sefarad.htm) in Hebrew, or maybe [Karnattah or Karnattah-al-Yahud](http://www.britannica.com/place/Granada-Spain), meaning pretty much the same in "Moorish", or in Arab [according to the 1911 edition of the same encyclopedia](http://www.theodora.com/encyclopedia/g2/granada_spain_capital.html) or maybe something completely different [in Phoenician](https://books.google.es/books?id=HHlZpX0XVEwC&pg=PA369&lpg=PA369&dq=karnattah&source=bl&ots=TzY2lMQo0m&sig=8O_3f9yYr0P9NOTIvGAFkTEV11Q&hl=es&sa=X&ved=0ahUKEwix3Kui8orKAhXLuBQKHRenD_Q4ChDoAQgeMAA#v=onepage&q=karnattah&f=false) related to gods or kings.
+Granada is an old place. Like, incredi-fucking-old. It was an Iberian
+city, the Iberians being the tribe that populated Spain in the first
+millenium BC, but it has also traces of Phoenician, Carthaginian, wow,
+that was hard, Roman, possibly Jewish and of course the Arab and
+Christian that is the one you see. There is little left of those
+secret origins but names: Elvira street takes its name from Iliberri,
+Iberian name, possibly meaning (city) by the river, and Illiberis,
+Roman name, taken from that. The current name is probably more related
+to the pomegranate fruit than to anything else, although it could be
+also
+[Gar-Anat, or Hill of the Strangers or the Pilgrims](http://www.madregot.com/Sefarad.htm)
+in Hebrew, or maybe
+[Karnattah or Karnattah-al-Yahud](http://www.britannica.com/place/Granada-Spain),
+meaning pretty much the same in "Moorish", or in Arab
+[according to the 1911 edition of the same encyclopedia](http://www.theodora.com/encyclopedia/g2/granada_spain_capital.html)
+or maybe something completely different
+[in Phoenician](https://books.google.es/books?id=HHlZpX0XVEwC&pg=PA369&lpg=PA369&dq=karnattah&source=bl&ots=TzY2lMQo0m&sig=8O_3f9yYr0P9NOTIvGAFkTEV11Q&hl=es&sa=X&ved=0ahUKEwix3Kui8orKAhXLuBQKHRenD_Q4ChDoAQgeMAA#v=onepage&q=karnattah&f=false)
+related to gods or kings. 
 
-If it is already difficult to narrate the origin of the name, it might be impossible to create a narrative for the city. That is why have not tried to thread the different parts of this book. I really doubt there is one, a city and the people that live in it are just there, and same as there is not a single route to visit the city, there is no single history that can be told around experiences and objects in a particular city like Granada. So after reading the tips that are in the first chapter, you can jump around from one section to the next, or read just a few lines and start exploring the city using Lonely Planet, only please come back here afterwards. If you want, of course. Use this book as a path for creating your own narrative of the city, as a conduit for having epiphanies in some lost alley or corner that will anchor your recollections and that will help you meet yourself. Because every travel can be an inner travel, if you just have the right guidance.
+If it is already difficult to narrate the origin of the name, it might
+be impossible to create a narrative for the city. That is why have not
+tried to thread the different parts of this book. I really doubt there
+is one, a city and the people that live in it are just there, and same
+as there is not a single route to visit the city, there is no single
+history that can be told around experiences and objects in a
+particular city like Granada. So after reading the tips that are in
+the first chapter, you can jump around from one section to the next,
+or read just a few lines and start exploring the city using Lonely
+Planet, only please come back here afterwards. If you want, of
+course. Use this book as a path for creating your own narrative of the
+city, as a conduit for having epiphanies in some lost alley or corner
+that will anchor your recollections and that will help you meet
+yourself. Because every travel can be an inner travel, if you just
+have the right guide. 
 
-The text has also lots of hyperlinks inserted. If your ebook reader includes a browser, feel free to follow them in the same spirit as before. Unluckily, I have not been able to find English references for everything, but I have provided them whenever possible. They are mostly sources for what I am talking about, so if you think ""What the heck is this guy saying" by all means click on them and rest assured that the outrageous lie that is written on the page is confirmed by at least another outrageous complicit.
+The text has also lots of hyperlinks inserted. If your ebook reader
+includes a browser, feel free to follow them in the same spirit as
+before. Unluckily, I have not been able to find English references for
+everything, but I have provided them whenever possible. They are
+mostly sources for what I am talking about, so if you think ""What the
+heck is this guy saying" by all means click on them and rest assured
+that the outrageous lie that is written on the page is confirmed by at
+least another outrageous complicit. 
 
-That does not mean that this book is not intended for actual browsing in dead tree form; that form is a good vehicle for showing your love to a dear friend who will visit Granada or who you intend to leave green with envy after your own visit to Granada. Both are valid and endorsed by this author.
+That does not mean that this book is not intended for actual browsing
+in dead tree form; that form is a good vehicle for showing your love
+to a dear friend who will visit Granada or who you intend to leave
+green with envy after your own visit to Granada. Both are valid and
+endorsed by this author.
+
+In any way you acquire the book, it has not been written to be read
+sequentially. Most chapters refer by name to other chapters, so you
+can hopscotch your way from one to the other or read a bit here and
+there. In that sense, it is better if you use the book and carry a
+bunch of Post-Its with you to bookmark the many places where you left
+a particular chapter. You can also use them for doodling the graffiti
+you meet along your way or to take notes reminding you to send any
+corrections and suggestions to this author. I will thank you very much
+indeed. 
 
 I really encourage you to email me or reach out to me in Twitter for
 suggestions, criticism, compliments and, of course, to correct
