@@ -101,7 +101,7 @@ city of Granada itself. Besides the fact that "Illiberis" probably
 meant, in the original Iberic language, "By the river", meaning
 probably Genil or Darro or both, the Alhambra hills are filled with
 tunnels that were probably, in its origin, used to mine water, that
-is, to extract Granada out of natural underground sources.
+is, to extract water out of natural underground sources.
 
 Nowadays there are myriad water sources in Granada. Among the many
 blogs devoted to the city,
