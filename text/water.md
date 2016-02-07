@@ -62,7 +62,7 @@ something that will linger on your tongue for a long time. Guaranteed.
 
 This quality is something that might, in fact, be in the origin of the
 city of Granada itself. Besides the fact that "Illiberis" probably
-meand, in the original Iberic language, "By the river", meaning
+meant, in the original Iberic language, "By the river", meaning
 probably Genil or Darro or both, the Alhambra hills are filled with
 tunnels that were probably, in its origin, used to mine water, that
 is, to extract Granada out of natural underground sources.
@@ -88,12 +88,12 @@ Alhambra. I, being a kid, probably would rather have had a Coke and
 some fries to go with it, but I still seem to remember the fresh taste
 of that water on my tongue, one of the few memories I have from back
 then. [You could also buy firewater and sugar](http://granadablogs.com/terecuerdo/2013/07/30/el-quiosco-de-la-plaza-del-ajibe/), being "Agua, azucarillos
-y aguardiente", that is, water, suger cubes and firewater a popular
+y aguardiente", that is, water, sugar cubes and firewater a popular
 drink in those days and the title of a musical comedy. The water that
 was served was extracted, via a bucket tied to a pulley, directly from
 the well.
 
-That kiosc is no longer working, or not serving water, at least. You
-can still buy
-[water bottles and have a look at the Albayzin](https://www.google.es/maps/place/Alhambra/@37.1769655,-3.5908501,3a,75y,338.26h,82.5t/data=!3m7!1e1!3m5!1sIOEDUUdcz3leSQqACCtrVQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DIOEDUUdcz3leSQqACCtrVQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D301.23172%26pitch%3D0!7i13312!8i6656!4m2!3m1!1s0x0000000000000000:0x808dd1ef1221a27f!6m1!1e1?hl=es)
+That kiosk is no longer serving that water, although you can still buy
+generic soda and crisps. And
+[maybe water bottles and have a look at the Albayzín](https://www.google.es/maps/place/Alhambra/@37.1769655,-3.5908501,3a,75y,338.26h,82.5t/data=!3m7!1e1!3m5!1sIOEDUUdcz3leSQqACCtrVQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DIOEDUUdcz3leSQqACCtrVQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D301.23172%26pitch%3D0!7i13312!8i6656!4m2!3m1!1s0x0000000000000000:0x808dd1ef1221a27f!6m1!1e1?hl=es)
 and also be amazed about where Google car is able to get. 
