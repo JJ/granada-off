@@ -94,9 +94,16 @@ surrounded by bar tables in the Plaza de la Romanilla, is a life-size
 water carrier. Take a look at him and then enjoy water from a fountain
 in the same square or around the corner, in the plaza
 Bib-Rambla. Water as pure and clear as that peddled by the water
-bearers. 
+bearers.
 
-The quality of the water is something that might, in fact, be in the origin of the
+And, in those days, completely different to the one carried by pipes
+to the city. It may be the case that the wealth of water carriers was
+brought
+[by the low quality of the water piped into the city](http://nito-lamurga.blogspot.com.es/2012/03/la-leyenda-negra-del-agua-de-granada.html). Those
+problems were due to the antiquity of the water system, since the
+quality of the water and its abundance is something that might, in
+fact, be in the 
+origin of the 
 city of Granada itself. Besides the fact that "Illiberis" probably
 meant, in the original Iberic language, "By the river", meaning
 probably Genil or Darro or both, the Alhambra hills are filled with
@@ -120,7 +127,8 @@ One of the memories I have from my childhood visits to Granada, where
 I had and still have relatives, is to to to the Plaza del Aljibe, or
 Cistern Square, between the Alhambra and the Watchtower or Torre de la
 Vela, and ask for a glass of water taken from the cisterns below the
-Alhambra. Washington Irving describes it thus, in his Tales from the
+Alhambra. It was one of the wells used by watter carriers, and
+Washington Irving describes it thus, in his Tales from the 
 Alhambra
 
 >At one corner of this place is a Moorish well, cut through the rock to a

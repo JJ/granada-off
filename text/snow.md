@@ -31,7 +31,7 @@ you probably need to have a bit of fun around so much mayhem and
 destruction.
 
 Maybe the hard path and possible work-related injuries was the reason
-why they travelled in [mule or donkey packs](https://www.youtube.com/watch?v=e-XBQMznOVQ). The snow was extracted
+why they traveled in [mule or donkey packs](https://www.youtube.com/watch?v=e-XBQMznOVQ). The snow was extracted
 from "neveros", which is also the name of more or less permanent snow
 hollows, packed in wicker baskets and covered with blankets. Then it
 was a long walk down to the city,
