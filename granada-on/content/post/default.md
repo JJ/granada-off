@@ -1,16 +1,16 @@
 ---
 title: "Granada On, the book"
 description: "General description of the book"
-date: "2015-08-18"
+date: "2016-02-08"
 categories:
     - "post"
 tags:
     - "meta"
     - "test"
-cardthumbimage: "/images/default.jpg" #optional: default solid color if unset
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
+cardthumbimage: "/images/sex.jpg" #optional: default solid color if unset
+cardheaderimage: "/images/street.jpg" #optional: default solid color if unset
 cardbackground: "#263238" #optional: card background color; only shows when no image specified
-#cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
+cardtitlecolor: "#fff" #optional: can be changed to make text visible over card image
 "author":
     name: "JJ Merelo"
     description: "Writer of stuff"

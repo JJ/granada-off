@@ -1,6 +1,6 @@
 ---
-title: "Buy the book"
-description: "Where to buy the physical book"
+title: "Buy the eBook"
+description: "Where to buy the ebook"
 date: "2016-02-07"
 categories:
     - "post"
@@ -8,10 +8,10 @@ tags:
     - "buy"
     - "sales"
     - "book"
-cardthumbimage: "/images/default.jpg" #optional: default solid color if unset
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
+cardthumbimage: "/images/FdlR2.jpg" #optional: default solid color if unset
+cardheaderimage: "/images/herrera.jpg" #optional: default solid color if unset
 cardbackground: "#263238" #optional: card background color; only shows when no image specified
-#cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
+cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 "author":
     name: "JJ Merelo"
     description: "Writer of stuff"

@@ -8,10 +8,10 @@ tags:
     - "buy"
     - "sales"
     - "book"
-cardthumbimage: "/images/default.jpg" #optional: default solid color if unset
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
+cardthumbimage: "/images/FdlR.jpg" #optional: default solid color if unset
+cardheaderimage: "/images/house.jpg" #optional: default solid color if unset
 cardbackground: "#263238" #optional: card background color; only shows when no image specified
-#cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
+cardtitlecolor: "#000" #optional: can be changed to make text visible over card image
 "author":
     name: "JJ Merelo"
     description: "Writer of stuff"
