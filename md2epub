@@ -4,10 +4,10 @@
 
 pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
     -o granadaoff.epub granada.txt  text/prologue.md text/tips.md \
-    text/earthquakes.md text/off-limits.md text/snow.md\
+    text/earthquakes.md text/off-limits.md  text/water.md text/snow.md\
     text/whorehouses.md text/roundabouts.md text/train-station.md\
     text/haunted.md text/buskers.md\
-    text/danger-castle.md text/fast-food.md text/water.md \
+    text/danger-castle.md text/fast-food.md \
     text/eccentrics-and-oddballs.md  text/university.md text/geekery.md\
     text/graffiti.md
    

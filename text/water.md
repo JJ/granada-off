@@ -93,7 +93,7 @@ recently were given a monument. That guy with the donkey, totally
 surrounded by bar tables in the Plaza de la Romanilla, is a life-size
 water carrier. Take a look at him and then enjoy water from a fountain
 in the same square or around the corner, in the plaza
-Bib-Rambla. Water as pure and cristaline as that peddled by the water
+Bib-Rambla. Water as pure and clear as that peddled by the water
 bearers. 
 
 The quality of the water is something that might, in fact, be in the origin of the

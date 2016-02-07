@@ -43,11 +43,11 @@ best bid for a certain time. The person owning the trade usually had a
 high social status and used this trade to make it higher. This
 regulation persisted until the XIX century, with independent workers
 taking the trade by the end of the century and selling it to ice
-parlours and inns that used it for iced drinks and slushes.
+parlors and inns that used it for iced drinks and slushes.
 
 The end of the snowmen arrived in 1920, when electricity allowed the
 creation of ice factories, the first one in 1922. Although after some
-time, in the 50s hospitals and cafes, due to blackouts after the civil
+time, in the 50s hospitals and cafés, due to blackouts after the civil
 war, had to create a fleet of trucks that traveled up to the mountains
 to get the ice and bring it down. Mules, horses and donkeys were lost
 forever, along with the muleteers that guided them down those paths. 
