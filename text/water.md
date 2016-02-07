@@ -108,9 +108,20 @@ city of Granada itself. Besides the fact that "Illiberis" probably
 meant, in the original Iberic language, "By the river", meaning
 probably Genil or Darro or both, the Alhambra hills are filled with
 tunnels that were probably, in its origin, used to mine water, that
-is, to extract water out of natural underground sources.
+is, to extract water out of natural underground sources. This led to
+the existence of many cisterns, or *aljibes*, all around the city,
+many of which you can visit to this day; for instance, there is one in
+the famous "Mirador de San Nicolás", a big one, but there are also a
+few that can be visited in El Realejo and the Albayzín. Cisterns made
+with bricks, with wooden or nowadays metalic doors for inserting
+buckets to get the water back from them. These cisterns got names from
+saints or from anything: There was a "Cat cistern", a "Gipsy cistern"
+and an "Old woman cistern". The
+[Aljibe de las tomasas](http://www.albaicin-granada.com/seccion.php?listEntrada=104)
+can be visited easily, and it was part of the castle or Alcazaba that
+was a big part of the Albayzín the old days. 
 
-Nowadays there are myriad water sources in Granada. Among the many
+You cannot drink from those aljibes, but nowadays there are myriad water sources in Granada. Among the many
 blogs devoted to the city,
 [Fuentes de Granada](http://fuentesdegranada.blogspot.com.es/) is
 exclusively devoted to fountains. But, beyond decorative sources,
