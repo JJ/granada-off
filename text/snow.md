@@ -52,7 +52,18 @@ This route can be easily followed nowadays. It starts in a
 >*haunted house* of which I speak in its corresponding chapter. The
 >start of the route has a chimney or Moorish-like tower that is one of
 >the examples of Granada imitating itself in the shape of kitsch, a
->fine example of what we could call industrial-exotic revival.
+>fine example of what we could call industrial-exotic revival. A very
+>interesting building, along the route, is the
+>[Carmen de los Neveros]()http://www.jimenezbrasa.com/obras/carmen_de_los_neveros/)
+>or "Glass house", a very modern building that you will barely see
+>from outside, in keeping with the spirit of the classic
+>Cármenes. Houses like these deserve to be seen. Besides, it was
+>created by the same architecture studio that brought you the Parque
+>de las Ciencias. The building was finished in 2003, and it is a
+>gorgeous sight at sunset. It is probably also gorgeous from
+>[inside](http://www.jimenezbrasa.com/obras/carmen_de_los_neveros/galeria/),
+>but that is a privilege reserved for just a few. Check just in case
+>they are renting it in AirBnB. 
 
 Be aware that, as the instructions say, *there is no water along the
 way*. One can imagine the snowmen drinking from their own medicine. Or
