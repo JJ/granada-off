@@ -48,7 +48,7 @@ parlors and inns that used it for iced drinks and slushes.
 This route can be easily followed nowadays. It starts in a
 [suburb, Bola de Oro](http://es.wikiloc.com/wikiloc/view.do?id=979719).
 
->In the surroundings there are several intersting things, including a
+>In the surroundings there are several interesting things, including a
 >*haunted house* of which I speak in its corresponding chapter. The
 >start of the route has a chimney or Moorish-like tower that is one of
 >the examples of Granada imitating itself in the shape of kitsch, a

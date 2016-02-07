@@ -113,9 +113,9 @@ the existence of many cisterns, or *aljibes*, all around the city,
 many of which you can visit to this day; for instance, there is one in
 the famous "Mirador de San Nicolás", a big one, but there are also a
 few that can be visited in El Realejo and the Albayzín. Cisterns made
-with bricks, with wooden or nowadays metalic doors for inserting
+with bricks, with wooden or nowadays metallic doors for inserting
 buckets to get the water back from them. These cisterns got names from
-saints or from anything: There was a "Cat cistern", a "Gipsy cistern"
+saints or from anything: There was a "Cat cistern", a "Gypsy cistern"
 and an "Old woman cistern". The
 [Aljibe de las tomasas](http://www.albaicin-granada.com/seccion.php?listEntrada=104)
 can be visited easily, and it was part of the castle or Alcazaba that
