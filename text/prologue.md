@@ -153,6 +153,16 @@ you buy somewhere else, Amazon will display a helpful tip on how to
 purchase it from there. This book includes hints on how to get it
 autographed, so by all means do it you want!
 
+## Share your thoughts
+
+Use \#granadaon in Twitter or share your thoughts and pictures in the
+Facebook page https://www.facebook.com/granada.on/. I would be
+grateful too if you took the time to review it in Amazon. Good or bad
+reviews, all of them help.
+
+The website http://granada.re is also on as of this edition. Check it
+out for infrequent updates.
+
 ## Enjoy
 
 Go to the next page and have fun. Better if you are on site.

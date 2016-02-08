@@ -271,7 +271,7 @@ rejected. It is only in some very specific cases when he can actually
 work. For instance, the gorgeous "giraffe" at the end of the Molinos
 street. A bundle of cables sprouting out of a connection box in a wall
 became the head, long neck and spine of a giraffe. Just add splotches of black
-spray and four sticks in the same color as the yelowish wall and
+spray and four sticks in the same color as the yellowish wall and
 you have got a fantastic giraffe. Its use of the cables and box
 already there made it a fine example of
 [site-specific art](https://en.wikipedia.org/wiki/Site-specific_art)
