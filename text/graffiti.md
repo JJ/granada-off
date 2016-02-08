@@ -123,7 +123,7 @@ in the city, or maybe in the world. Or, if you find them, they will
 have evolved to something different, probably better. 
 
 But let us travel to another place to check out the secret origins of
-graffiti in Granada. And you will have to take a ride or a bus to the
+graffiti in Granada. And you will have to take a ride or a city bus to the
 other tip of the city to find out a
 bit more about them. In fact, you could follow the freeway for around
 fifteen kilometers, but it is better if you take a couple of buses and
@@ -151,7 +151,8 @@ celebrates 10 years of creativity, generosity and chaos.
  to check out Yerma street.
 
 >Yerma is the name of a play by Federico García Lorca. Meaning laid to
->waste or infertile, it is metaphorically applied to a woman. And it
+>waste or infertile, it is metaphorically applied to a woman, one of
+>the characters in the play. And it
 >is a paradox that this street spawned such a fertile art.
 
 This street is where Calahad and Sex lived in the early 90s, and is
@@ -218,7 +219,7 @@ showcase of urban decay, talk to the owner and ask for permission to
 do a beautiful piece, which you do. So this was, in fact,
 [authorized and even documented by the local daily, which provided some sprays](http://granadablogs.com/cableados/2014/01/12/1995-cuando-el-nino-de-las-pinturas-era-sex69/). 
 
-This piece is, in fact, beautiful, and current instance includes Sex,
+This piece is, in fact, beautiful, and the current instance includes Sex,
 Nake and many others, including Drew. But the part I like the most is
 more or less in the middle and uses the *trompe l'oeil* technique to
 simulate a chasm opening in the wall with a figure with elongated arms
@@ -242,8 +243,9 @@ residents in this part of the city said "I am going to Granada" every
 time they walked to the city center. But, in fact, we are in a
 different neighborhood, different rules.
 
-But the same graffiti. The *Virgen" neighborhood, smack in the city
-center, features stencils, pastes and many faces drawn by Sex. Raúl
+But the same graffiti. The *Virgen* neighborhood, smack in the city
+center, features stencils, pastes and many faces drawn by Sex. Raúl,
+Sex, Niño de las Pinturas,
 was probably the first one to be considered *all city* that is, a
 person that has covered all corners or neighborhoods of the city. From
 the Chana to the Zaidín, through the city center, there are few blocks
@@ -259,7 +261,30 @@ like
 that appeared in January 2015 and that promptly was taken down due to
 a protest by the neighbors, who said it did not keep the style of the
 rest of the houses. Which is blatantly false, since the style of this
-particular zone is *defined* by graffiti.
+particular zone is *defined* by graffiti. However, it is increasingly
+difficult for him to write this area, since it is an area specially
+protected by the authorities. He cannot even write in places where he
+has got the permission of the owner; sometimes he barters with owners
+to have their shop decorated in exchange for something. However, when
+they apply for a permission from the city hall it is usually
+rejected. It is only in some very specific cases when he can actually
+work. For instance, the gorgeous "giraffe" at the end of the Molinos
+street. A bundle of cables sprouting out of a connection box in a wall
+became the head, long neck and spine of a giraffe. Just add splotches of black
+spray and four sticks in the same color as the yelowish wall and
+you have got a fantastic giraffe. Its use of the cables and box
+already there made it a fine example of
+[site-specific art](https://en.wikipedia.org/wiki/Site-specific_art)
+of which there are just a few in Granada, which  was on the bring of
+having one less. This giraffe [disappeared by the end of January  2016](http://www.elbolardo.com/2016/01/28/la-muerte-de-la-jirafa-del-realejo-de-la-que-todo-el-mundo-habla/),
+after
+[having been there since 2002](http://www.ideal.es/granada/al-dia/201601/30/adios-jirafa-realejo-20160129194650.html)
+and having become a part of the [memories of the neighbors](http://granadaimedia.com/entrevista-natalia-de-molina/). However,
+it came back, that is, Raúl painted it back, a few days later, after an intervention by the city
+[choir, who sang to say goodbye](https://www.facebook.com/Elninodelaspinturass/videos/1039578336065720/)
+and the reaction of local and [national media](http://verne.elpais.com/verne/2016/02/05/articulo/1454698711_413983.html). And you can maybe watch it today, at
+least while the cables are not removed, which they might be in the
+short run. 
 
 Just wander around every single alley and street and you will find
 things to contemplate, but there is a blind alley, called Parra de San
