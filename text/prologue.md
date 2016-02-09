@@ -1,7 +1,7 @@
-Granada Off
+Granada On
 ===========
 
-Granada Off the Beaten Track, a set of experiences you should not miss on your third or fourth visit.
+Granada Off (and sometimes on) the Beaten Track, a set of experiences you should not miss on your third or fourth visit.
 
 ## Why
 

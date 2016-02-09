@@ -138,7 +138,7 @@ One of the memories I have from my childhood visits to Granada, where
 I had and still have relatives, is to to to the Plaza del Aljibe, or
 Cistern Square, between the Alhambra and the Watchtower or Torre de la
 Vela, and ask for a glass of water taken from the cisterns below the
-Alhambra. It was one of the wells used by watter carriers, and
+Alhambra. It was one of the wells used by water carriers, and
 Washington Irving describes it thus, in his Tales from the 
 Alhambra
 
