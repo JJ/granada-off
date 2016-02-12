@@ -1,6 +1,6 @@
 +++
 date = "2016-02-07T08:50:41+01:00"
-draft = true
+menu = "main"
 title = "About Granada On"
 
 +++

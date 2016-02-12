@@ -1,0 +1,18 @@
+baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Granada On"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+[params]
+    name = "JJ Merelo"
+    description = "A site for the book Granada On" #meta description
+    image = "/images/avatar-192x210.png" #for frontpage profile card
+    website = "http://granada.re"
+    email = "jjmerelo@gmail.com"
+    twitter = "https://twitter.com/jjmerelo"
+    github = "https://github.com/JJ/"
+    copyrightyear = "2016"
+    frontpageposts = 3 #number of post cards to display on frontpage
