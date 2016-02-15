@@ -1,4 +1,4 @@
-#Snow
+#Let it snow
 
 For the average Joe-living-in-Granada, snow is something that happens
 up there, in the mountains. You go there from time to time, maybe once
@@ -10,7 +10,25 @@ Nevada after parking your car in the incredibly expensive
 parking. With global warming, it is increasingly difficult to have
 natural snow even up there.
 
-In the old days, snow was closer to the city itself, and it was mined
+That idea hit ground even before global warming was all over the
+Internet and, indeed, before the Internet was all over the place. The
+[FIS Alpine World Ski Championship 1995](https://en.wikipedia.org/wiki/FIS_Alpine_World_Ski_Championships_1996)
+was slated to take place, well, in 1995. However, it was an unusually
+dry and warm year; I remember it was one of the only years in my life
+when water was rationed and we could only use a few hours a day. It
+was the year I organized the European Conference on Artificial Life
+and my new car was stolen, so when I arrived home all frazzled and
+sweaty I still had to wait for a while until water sputtered out of
+the taps. Anyway, just imagine the guys all dressed up in colorful ski
+attire and no joy. So It was postponed to the next year, 1996, which,
+besides, was a great year for snow. That did not help any Spaniard hop
+to the podium, but you cannot have it all. Since 1982, it is the only
+[ski championship](https://en.wikipedia.org/wiki/List_of_alpine_skiing_world_champions)
+that took place in an even year. Only one in Spain, too. 
+
+The organizers should have realized, much before that, that snow is
+not so close to the city as it used to be. In the old days, you needed
+not go so far away from Granada, which sits at 700 meters of altitude, and it was mined
 by people that took it down to the city for the well-off to cool their
 drinks and their pantries. The muleteers that took the snow down from
 the mountains were called *neveros*, or "snowers", and today there is
@@ -87,9 +105,21 @@ Anyway, when it happens, there are many ways of enjoying the snow
 which you can only do in Granada: 
 
 * Walk up the slippery slopes in the Albayzín and fall down one, or several, times.
-* A few days after, realize there is a river going through Granada and that it was not a parking lot with a somewhat big puddle.
+* A few days after, realize there is a river going through Granada and
+  that it was not a parking lot with a somewhat big puddle. 
 * Take pictures of the Alhambra, which is red, with a bit of pink of top.
-* Walk about in your snow attire that you could show off only when you took your kid to meet the snow a few years prior.
+* Walk about in your snow attire that you could show off only when you
+  took your kid to meet the snow a few years prior.
+
+By the time you read this, there might not be any glaciers in Sierra
+Nevada either. You might be surprised that, up in the Veleta or
+Watchtower, the highest peak in Sierra Nevada, there was a small
+glacier, El Corral del Veleta, that held snow the year
+round. Ice was over the ground until the XIXth century, and since then
+it was [underground](http://ireneu.blogspot.com.es/2015/10/glaciar-veleta-sierra-nevada.html). But [it has been melting](http://www.geocritiq.com/2013/10/el-hielo-glaciar-de-sierra-nevada-continua-derritiendose/)
+at a increasing pace, and probably also due to the operation of the
+snow cannons and the heat they generate in the Sierra itself. You
+always get something, lose something in the process. Maybe forever. 
 
 This chapter ends here. It need not be longer since the probability
 that you will actually see the snow in Granada is next to nil. So no

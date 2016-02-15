@@ -149,16 +149,20 @@ Granada and take notes. It is available for
 [5.95$ in Amazon.com](https://www.amazon.com/Granada-On-Beaten-explorations-Andalusia/dp/1523257083/ref=as_sl_pc_ss_til?tag=perltutobyjjmere&linkCode=w01&linkId=3XPT2CFQUB6UBNK5&creativeASIN=1523257083)
 or
 [4.95 quid in Amazon.co.uk](https://www.amazon.co.uk/Granada-On-Beaten-explorations-Andalusia/dp/1523257083/ref=as_sl_pc_ss_til?tag=severawebsite-21&linkCode=w01&linkId=&creativeASIN=1523257083). If
-you buy somewhere else, Amazon will display a helpful tip on how to
+you usually buy somewhere else, Amazon will display a helpful tip on how to
 purchase it from there. This book includes hints on how to get it
-autographed, so by all means do it you want!
+autographed, so by all means do it you so wish!
 
 ## Share your thoughts
 
 Use \#granadaon in Twitter or share your thoughts and pictures in the
 Facebook page https://www.facebook.com/granada.on/. I would be
 grateful too if you took the time to review it in Amazon. Good or bad
-reviews, all of them help.
+reviews, all of them help if they are heartfelt and true. My twitter
+feed is at http://twitter.com/jjmerelo and I write from time to time
+in Medium, http://medium.com/@jjmerelo. Any of them will feature stuff
+in English and Spanish, and sometimes other languages if the picture
+is nice. 
 
 The website http://granada.re is also on as of this edition. Check it
 out for infrequent updates.
