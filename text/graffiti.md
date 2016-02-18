@@ -1,16 +1,29 @@
 #The graffiti pneumonia and the street art flu
 
 One traveler once wrote about Granada: "It has a massive graffiti
-problem". Because it is true that you cannot walk a few steps without
+problem". And it is probably true that you cannot walk a few steps without
 finding one way of street art or another in Granada. Street art is not
 concentrated in a few blocks, or even a neighborhood. It is all over
-the place, it is evident and, well, it is in occasions a nuisance. But
-in many more it is simply sublime. So, paraphrasing the famous rock
-and roll riff, Granada has got the graffiti pneumonia and the street
+the place, it is evident and, well, it is in occasions a nuisance, so
+that is what the anonymous traveler called a *problem*.  But
+in many more it is simply sublime. Which is why we say, paraphrasing the famous rock
+and roll riff, that Granada has got the graffiti pneumonia and the street
 art flu.
 
 A quick primer on street art is in order here. Street art is anything created with
-artistic intent outdoors. So it goes from stickers to decorated walls
+artistic intent outdoors, and take the term *outdoors* in its wider
+acception that might very well include any space that is not private
+*and* inhabited.
+
+>Private and unhabited, though, might be considered fair game for
+> street art. In fact,
+> [some authors make a distinction between private property and *anything else*](https://www.researchgate.net/publication/270703439_El_Graffiti_y_el_sistema_del_arte),
+> that is, places that clearly belong to someone and other *loci* that
+> can be *used* by anyone to loiter, party or, why not, to write and
+> redefine aesthetically spaces that can be seen, and enjoyed, by
+> anyone. 
+
+So it goes from stickers to decorated walls
 in a parking. *Graffiti* is a subset made mainly with paint, usually
 spray. This one also goes in many different shapes: stencils are
 repetitive and done usually with a cookie-cutter pattern, tags are

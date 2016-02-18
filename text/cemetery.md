@@ -9,7 +9,7 @@ corpses, but just do not think about that.
 
 So being quiet and far away from town they are also off the beaten
 track. Even if there is a map that you can follow, I guarantee that
-you will find not a soul — no pun intended —— Actually, pun intended
+you will find not a soul — no pun intended ——. Actually, pun intended
 —— or your money back. In general, in these heathen times, people do
 not go to graveyards. They do it only on All Saints' Day, the first of
 November, and then they do it droves. You might find one or two
