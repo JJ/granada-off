@@ -46,7 +46,7 @@ Muslim age,
 [people were buried in Puerta Elvira](http://www.adurcal.com/enlaces/cultura/zona/historia/xiv/cementerios.htm)
 and probably all over the place; every time someone opens a tunnel or
 digs for a parking some skeletons surface and are sometimes quickly
-hidden or buried some place else to avoid paralyzation of the works
+hidden or buried some place else to avoid stalling of the works
 and long delays.
 
 But there are nice sculptures commissioned by wealthy families, and
