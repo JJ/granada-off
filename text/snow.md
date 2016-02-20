@@ -8,9 +8,26 @@ trays or something equally dangerous. Sometimes you go just to lounge
 off in one of the incredibly expensive ski resort cafés of Sierra
 Nevada after parking your car in the incredibly expensive
 parking. With global warming, it is increasingly difficult to have
-natural snow even up there.
+natural snow even up there. That is why watching the weather forecast
+is like an spectator sport down here. It is usually very monotonous:
+sunny, sunny, and then a bit more sun, with temperatures that might
+span 20 degrees in a single day because sun, but when in winter and
+morning temperatures dropping below zero you always look for the snow
+level. Granada sits at around 700 meters, 680 meters, in fact, so when
+rain and below zero, there you have it, snow in Granada. Those are two
+different things,
+however. [Granada is one of the provincial capitals in Spain with least rain, 400 mms/year](http://javiersevillano.es/PrecipitacionMediaAnual.htm#provincia)
+and then, see above re: temperature span, and even if it rains, it has
+to do so in the dead of night or at dawn to meet the low temperatures
+that produce snow.
 
-That idea hit ground even before global warming was all over the
+>Today, in the dead of winter, we have a blue sky and a temperature of
+>10 degrees Celsius with daily maximun that will reach 15 degrees. The
+>difference with the minimum is only 11 degrees today, with difference
+>for tomorrow expected to be 14 degrees. 
+
+Temperatures are increasing and rainfall dropping year on year with
+global warming, a concept that hit the ground here even before it  was all over the
 Internet and, indeed, before the Internet was all over the place. The
 [FIS Alpine World Ski Championship 1995](https://en.wikipedia.org/wiki/FIS_Alpine_World_Ski_Championships_1996)
 was slated to take place, well, in 1995. However, it was an unusually
