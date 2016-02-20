@@ -97,7 +97,7 @@ also an illustrator, or
 also some pieces signed LJDA, *Los Jinetes del Apocalipsis*, the
 Apocalipsis riders the first
 collective created in the 90s and who are, still, active in some
-special occasions.
+special occasions, mainly jams and other street art meetings. 
 
 You will have a good idea of what to expect everywhere else in the
 city, but you will get a better one if you proceed to the Faculty of
@@ -132,9 +132,10 @@ jokes by someone else. Also a wall decorated with representations of 1
 euro coins. A black and red stencil with Darth Vader on a Holy Week
 float says "I am your father". Close to the wall, another utility has
 a shadow of a person smoking that seems to look at the rest of the
-graffiti imprinted in the same place. A bit to the right a squid holds
+graffiti imprinted in the same place. A bit further to the right a squid holds
 a bleeding heart and says "squid love". And to the right of that,
-"Graffiti cannot be learned in class".
+"Graffiti cannot be learned in class". Which is true. Only the street
+can teach you street art. 
 
 That might be true, but maybe the class as a collective spawns
 graffiti writers and helps them find their voice. That is interesting
@@ -203,7 +204,7 @@ go to the Nuevo Los Cármenes stadium. Then look South, in the
 direction of the freeway, and will see a mostly dry river.
 
 >That is the river Monachil, the third river in town and the one where
->90% of the locals who you ask will fail.
+>90% of the locals who you ask will fail to name. 
 
 Follow the river bed to get under the bridge where the motorway
 crosses it. You will find a *jam* that was created in the tenth
