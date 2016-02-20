@@ -1,22 +1,43 @@
 #Brothels and whorehouses
 
-Let us be clear here. I am not encouraging you to visit *the inside* of this kind of places. You are obviously free to do so, and I will remain non-judgmental about it, but this chapter is not intended as an encouragement to the kind of behaviors that made this kind of establishments possible in the first place.
+Let us be clear here. I am not encouraging you to visit *the inside*
+of this kind of places. You are obviously free to do so, and I will
+remain non-judgmental about it, but this chapter is not intended as an
+encouragement to the kind of behaviors that made this kind of
+establishments possible in the first place. 
 
 However, this is an off the beaten track kind of book. You must
 acknowledge that Lonely Planet does not include a *lewd* route in
 their otherwise excellent guides or that Fodor's gives one, two or
 three stars to kinky houses. So it is our turn to look at them from a
 cultural point of view and how they contribute to the overall image of
-the city. Besides, prostitution in Granada has been the
+the city.
+
+>Or for that matter, of the country that makes the image of a
+[whorehouse patron falling into a sink a meme](http://verne.elpais.com/verne/2016/02/19/articulo/1455880525_587940.html?id_externo_rsoc=TW_CM)
+
+Besides, prostitution in Granada has been the
 [topic of a book that was going to be published by a scholar in the university](http://www.granadahoy.com/article/granada/540676/geografia/la/prostitucion/granada.html),
 although it eventually became
 [just an article](http://www.rigys.org/estudio/0197.pdf), which you
 can download and read yourself. 
 
->You might want to argue against the main hypothesis of that work: that women in that trade cannot leave it because "they are addicted to money". However, the fieldwork done is really impressive. 
+>You might want to argue against the main hypothesis of that work:
+>that women in that trade cannot leave it because "they are addicted to
+>money". However, the fieldwork done is really impressive, if only for
+>the elaboration of excuses for family or partners that it might have
+>needed. "Honey, are you going to arrive late today?", "Yes, you know,
+>fieldwork is hard". Just insert your own jokes here, because he is a
+>colleague at the university and it must have probably been *really*
+>hard.
+>
+>
+>
+>
+>*Space above left for jokes*
 
 First thing that characterizes them is neon. Since we are an old
-country, we do not care about this newish things that are the subject
+country, we do not care about these newish things that are the subject
 of
 [podcasts and history books elsewhere](http://99percentinvisible.org/episode/tube-benders/). But
 most people and every truck driver in Spain knows that if that colored
