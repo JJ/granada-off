@@ -12,5 +12,10 @@ might happen if you roll downhill or if you step out of it at the very
 moment the city bus is closing its doors to continue its trip and not
 much else. That is why it is probably the most off-the-beaten track
 neighborhood in Granada, so much so that it does not even have a
-single entry in "Insolit and Secret Granada", the book that deals with
-things here that are, well, insolit and secret.
+single entry in "Unusual and Secret Granada", the book that deals with
+things here that are, well, unusual and secret.
+
+Having its origins in cave dwellings, the same as the Sacromonte, it
+is not unusual that it became, when built, a poor neighborhood, that,
+in fact, did not have
+[running water until well into the 21st century](http://www.ideal.es/granada/v/20110913/granada/barranco-abogado-granada-data-20110913.html) 
