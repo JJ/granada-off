@@ -42,7 +42,7 @@ sculptures made with found art or *yarns*, fabric used to wrap trees
 and traffic signals.
 
 One of the main things about Granada is that, not being a big city
-like London of New York, it is a showcase for all kinds or flavours of street
+like London of New York, it is a showcase for all kinds or flavors of street
 art. A short route through a couple of neighborhoods will be enough to
 find most types of street art. That indicates also a thriving and
 vibrant art scene, with artists and crews developing their career from
@@ -186,19 +186,19 @@ another, beautifully decorated staircases, a couple of jams that are
 presided by a violin player and a baby painted, again, by El Niño de
 las Pinturas, feeling comfortable in this painting ground. Those
 staircases were created in 2015, and they were going to be completed
-with another piece at the end of the street, a thinking boyt
+with another piece at the end of the street, a thinking boy
 beautifully rendered by, again, El Niño de las Pinturas. It is
-poignantly uncomplete. El Niño, painting the kid, was on a ladder and
+poignantly incomplete. El Niño, painting the kid, was on a ladder and
 he fell down while doing it. In the middle of the night, with cars
 passing by, nobody stepped up to help him. So it sits there,
-incomplete, as a testimony to the sometimes unhelpful nature of
+unfinished, as a testimony to the sometimes unhelpful nature of
 denizens of this place. 
 
-But let us travel to another place to check out the secret origins of
-graffiti in Granada. And you will have to take a ride or a city bus to the
-other tip of the city to find out a
-bit more about them. In fact, you could follow the freeway for around
-fifteen kilometers, but it is better if you take a couple of buses and
+You might have seen, in one of the decorated staircases in that
+street, the acronym LJDA. We will have to move to another place, not
+far now as the crow flies, to check out the secret origins of
+graffiti in Granada.  In fact, you could follow the ring round for a
+few kilometers, but it is better if you take a couple of buses and
 go to the Nuevo Los Cármenes stadium. Then look South, in the
 direction of the freeway, and will see a mostly dry river.
 
