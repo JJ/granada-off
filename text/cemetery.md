@@ -28,7 +28,7 @@ and, lately, monoliths with plaques holding the names of people whose
 ashes have been poured in a cistern. However, its position is one of
 the things that make it unique. It sits on top of a hill, in front of
 the Alhambra hill, and looking south to the city and Sierra
-Nevada. Laterly, windows have been opened on the walls so that you can
+Nevada. Lately, windows have been opened on the walls so that you can
 watch the view from there. There is something poignant and sad about
 cemeteries with a nice view; guests there are not able to enjoy it and
 in fact visitors should not either, since their main objective there
@@ -46,7 +46,7 @@ Muslim age,
 [people were buried in Puerta Elvira](http://www.adurcal.com/enlaces/cultura/zona/historia/xiv/cementerios.htm)
 and probably all over the place; every time someone opens a tunnel or
 digs for a parking some skeletons surface and are sometimes quickly
-hidden or buried some place else to avoid paralization of the works
+hidden or buried some place else to avoid paralyzation of the works
 and long delays.
 
 But there are nice sculptures commissioned by wealthy families, and

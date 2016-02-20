@@ -45,9 +45,12 @@ not only that. Art.
 
 For instance,
 [this sculpture](http://www.iu-churriana.es/2014/06/vicente-valero-pp-homenajea-las.html),
-which is devoted to the victims of Franco, although you really have to
+which is devoted to the victims of Franco or to the Spanish
+constitution, depending on where you look, although you really have to
 look hard, and stop there, to check that they are actually fingers and
-not some strange mutant vegetable or creature from the underworld. But
+not some strange mutant vegetable or creature from the underworld. Or
+maybe a [copy of The Caring Hand in Glarus, Switzerland](http://imgur.com/5a7EHtx)
+But
 after the tribute to victims of the dictatorship, what is left to
 homage? Of course, the
 [Seat 600](http://www.nidoarquitectura.es/proyectos-obra-singular/146-seat-600.html)
