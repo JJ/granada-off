@@ -22,7 +22,7 @@ to do so in the dead of night or at dawn to meet the low temperatures
 that produce snow.
 
 >Today, in the dead of winter, we have a blue sky and a temperature of
->10 degrees Celsius with daily maximun that will reach 15 degrees. The
+>10 degrees Celsius with daily maximum that will reach 15 degrees. The
 >difference with the minimum is only 11 degrees today, with difference
 >for tomorrow expected to be 14 degrees. 
 
@@ -61,7 +61,7 @@ them, the
 Cuesta del Desmayo, "Fainting Slope"; Collado del Muerto, "Dead Man's
 Hillock"; Collado de la Víbora, "Viper Hillock". Along the way, you
 also find things like "Cerro Caparranas", which literally means "Frog
-Castration Hill", and "Cerro de las Grajas", "She-rooks hill". Well,
+Castration Hill", and "Cerro de las Grajas", "Hen-rooks hill". Well,
 you probably need to have a bit of fun around so much mayhem and
 destruction.
 
@@ -89,7 +89,7 @@ This route can be easily followed nowadays. It starts in a
 >the examples of Granada imitating itself in the shape of kitsch, a
 >fine example of what we could call industrial-exotic revival. A very
 >interesting building, along the route, is the
->[Carmen de los Neveros]()http://www.jimenezbrasa.com/obras/carmen_de_los_neveros/)
+>[Carmen de los Neveros](http://www.jimenezbrasa.com/obras/carmen_de_los_neveros/)
 >or "Glass house", a very modern building that you will barely see
 >from outside, in keeping with the spirit of the classic
 >Cármenes. Houses like these deserve to be seen. Besides, it was
@@ -97,7 +97,7 @@ This route can be easily followed nowadays. It starts in a
 >de las Ciencias. The building was finished in 2003, and it is a
 >gorgeous sight at sunset. It is probably also gorgeous from
 >[inside](http://www.jimenezbrasa.com/obras/carmen_de_los_neveros/galeria/),
->but that is a privilege reserved for just a few. Check just in case
+>but that is a privilege reserved for just a few. Check it out just in case
 >they are renting it in AirBnB. 
 
 Be aware that, as the instructions say, *there is no water along the
@@ -122,7 +122,7 @@ Anyway, when it happens, there are many ways of enjoying the snow
 which you can only do in Granada: 
 
 * Walk up the slippery slopes in the Albayzín and fall down one, or several, times.
-* A few days after, realize there is a river going through Granada and
+* A few days after, when snow melts, realize there is an actual river going through Granada and
   that it was not a parking lot with a somewhat big puddle. 
 * Take pictures of the Alhambra, which is red, with a bit of pink of top.
 * Walk about in your snow attire that you could show off only when you
