@@ -19,7 +19,7 @@ November, and then they do it droves. Any other day of the year and you might fi
 persons, a couple of municipal workers, and maybe a parade in the act
 of burying someone. Other than that, you are left to yourself to enjoy
 the simple pleasure of walking alone surrounded by buried, o,
-in some cases, burned remains, of people.
+in some cases, burned, remains of people.
 
 The graveyard in Granada is quite similar to others in Spain. It is
 divided in *patios* or yards, every one receiving a name, usually of a
