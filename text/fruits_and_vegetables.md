@@ -1,14 +1,14 @@
 #Granada, the orchard
 
 One of the things that will draw your attention in Granada is the
-profussion of trees in the streets. There are not only big bulevards
+profusion of trees in the streets. There are not only big boulevards
 or avenues lined with them, you can see them also from above in Google
 maps and also in smallish, single-lane, streets. They grow on the
 gardens of the carmens and by the swimming pools of the condos. They
 are, simply put, everywhere.
 
 But a few fruits draw the attention of the person taking the
-promenada, by color or by abundance. One of them is the orange. When
+promenade, by color or by abundance. One of them is the orange. When
 the time is appropriate, which is usually in fall and winter, you will
 start to see trees in the streets chock-full with orange-colored
 balls, and in a few weeks, smashed fruits in the sidewalk and boys
@@ -43,3 +43,19 @@ park. You will see its flowers in summer and fruits almost all year
 long. In winter and in spring they are manured, but you will notice
 that from far away, since it remains for a whole week sometimes. No
 need to get closer in that case.
+
+Lemons are a whole different story. For some reason, there are no
+lemon trees in the streets. They have all gone to
+[Chris Stewart's books](https://www.amazon.com/Driving-Over-Lemons-Optimist-Spain/dp/0375709150/ref=as_sl_pc_ss_til?tag=perltutobyjjmere&linkCode=w01&linkId=RRCKPFQAD34SSFUW&creativeASIN=0375709150),
+or now seriously, to gardens and private orchards. If you see lemons
+here, and you do that quite often, it is usually over a wall or
+palisade or sticking out over your head, yours for the taking. Lemon
+trees are all by themselves, they do not line up in the street like
+orange trees. They are bitter and better left alone. But that means
+that lemons are also given out for free, when you buy fish along with
+the parsley, or by friends that reap their trees and do not know what
+to do with so many of them. Sometimes you find lemons opened up and
+laced with cloves, a combination that is supposed to reject mosquitoes
+adn other insects. Anyway, walk around the Albayzín or El Barranco del
+Abogado and you might gather enough lemons for your very own localy
+sourced lemonade.
