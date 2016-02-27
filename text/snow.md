@@ -124,7 +124,11 @@ sometimes looks like camo and some other times like a psychedelic 60's
 dress. These tests
 [usually take place on weekdays](http://www.ideal.es/granada/provincia-granada/201407/27/secretos-altura-sierra-nevada-20140726204405.html)
 and you are advised to post your pictures in forums for car
-aficionados so that they can find out what brand they are.
+aficionados so that they can find out what brand they are. You might
+even be lucky and spot
+[a Bugatty Aveyron or a Rolls Royce](http://www.ideal.es/granada/20120726/local/granada/rolls-royce-prueba-coches-201207260200.html). Or
+when you see a car you like, anywhere, know that it is very likely
+that it was tested here, in Granada. 
 
 I hope that these curious car spottings are not lost, but the sight of
 snow in the streets of Granada is impossible to know how much it will last. Nowadays it
