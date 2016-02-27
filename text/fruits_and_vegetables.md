@@ -4,7 +4,7 @@ One of the things that will draw your attention in Granada is the
 profusion of trees in the streets. There are not only big boulevards
 or avenues lined with them, you can see them also from above in Google
 maps and also in smallish, single-lane, streets. They grow on the
-gardens of the carmens and by the swimming pools of the condos. They
+gardens of the cármenes and by the swimming pools of the condos. They
 are, simply put, everywhere.
 
 But a few fruits draw the attention of the person taking the
@@ -56,6 +56,6 @@ that lemons are also given out for free, when you buy fish along with
 the parsley, or by friends that reap their trees and do not know what
 to do with so many of them. Sometimes you find lemons opened up and
 laced with cloves, a combination that is supposed to reject mosquitoes
-adn other insects. Anyway, walk around the Albayzín or El Barranco del
-Abogado and you might gather enough lemons for your very own localy
+and other insects. Anyway, walk around the Albayzín or El Barranco del
+Abogado and you might gather enough lemons for your very own locally
 sourced lemonade.

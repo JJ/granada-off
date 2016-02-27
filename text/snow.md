@@ -52,7 +52,7 @@ the mountains were called *neveros*, or "snowers", and today there is
 a street, "Camino de los Neveros", that follows that same route up to
 the slopes of Sierra Nevada.
 
-Nowadays it is something that
+Nowadays this route is something that
 [you can do on a bike](http://josemerutass.blogspot.com.es/2007/01/camino-de-los-neveros-el-purche-los.html)
 in a few hours with 90% of the time going up and 10% going down; it
 would also be a 5 hour walk, more or less, 30 kilometers. But back
@@ -110,11 +110,27 @@ creation of ice factories, the first one in 1922. Although after some
 time, in the 50s hospitals and cafés, due to blackouts after the civil
 war, had to create a fleet of trucks that traveled up to the mountains
 to get the ice and bring it down. Mules, horses and donkeys were lost
-forever, along with the muleteers that guided them down those paths. 
+forever, along with the muleteers that guided them down those paths.
 
-The sight of snow in the streets of Granada was also lost. Nowadays it
-is something that happens rarely. One every few years. It happened
-yesterday, and will probably not happen for a few more years. But when
+Now that route is followed more often by
+[camouflaged cars](http://www.bmwfaq.com/threads/de-pruebas-de-coches-pillados-en-sierra-nevada-granada.622877/). Not
+only the road to Sierra Nevada is one of the highest in Europe, it is
+also a few hours' drive away from the seaside, where temperatures
+might be 30 degrees higher, not to mention the difference of
+pressure. That is why it is quite usual to find on the road leading to
+the airport and up in the Sierra cars with everything but the license
+plates and some windows covered with a black-and-white canvas that
+sometimes looks like camo and some other times like a psychedelic 60's
+dress. These tests
+[usually take place on weekdays](http://www.ideal.es/granada/provincia-granada/201407/27/secretos-altura-sierra-nevada-20140726204405.html)
+and you are advised to post your pictures in forums for car
+aficionados so that they can find out what brand they are.
+
+I hope that these curious car spottings are not lost, but the sight of
+snow in the streets of Granada is impossible to know how much it will last. Nowadays it
+is something that happens rarely. Once every few years. It happened
+the day before I wrote this, there are some spots the day I am
+correcting it, and will probably not happen for a few more years. But when
 it does  it is all look at that roof with snow, loot at that car with
 snow, oh, it is stopped snowing, see you in half a dozen years. 
 
@@ -125,7 +141,7 @@ which you can only do in Granada:
 * A few days after, when snow melts, realize there is an actual river going through Granada and
   that it was not a parking lot with a somewhat big puddle. 
 * Take pictures of the Alhambra, which is red, with a bit of pink of top.
-* Walk about in your snow attire that you could show off only when you
+* Walk around the place in your snow attire that you could show off only when you
   took your kid to meet the snow a few years prior.
 
 By the time you read this, there might not be any glaciers in Sierra
