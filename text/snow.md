@@ -126,7 +126,7 @@ dress. These tests
 and you are advised to post your pictures in forums for car
 aficionados so that they can find out what brand they are. You might
 even be lucky and spot
-[a Bugatty Aveyron or a Rolls Royce](http://www.ideal.es/granada/20120726/local/granada/rolls-royce-prueba-coches-201207260200.html). Or
+[a Bugatti Veyron or a Rolls Royce](http://www.ideal.es/granada/20120726/local/granada/rolls-royce-prueba-coches-201207260200.html). Or
 when you see a car you like, anywhere, know that it is very likely
 that it was tested here, in Granada. 
 
