@@ -357,26 +357,34 @@ interesting, if a bit over the top of my head, reading.
 
 The main hall has all kind of widgets: rockets, other engines, maybe
 some other temporary exhibitions, and, from there on, the Biology
-building, which lies to the right, has a rather creepy stuffed animals vitrine, and the geology departments all kind of rocks. There is nothing but people in the Maths area, and in the Chemistry little but pungent smells.
+building, which lies to the right, has a rather creepy stuffed animals
+vitrine, and the geology departments all kind of rocks. There is
+nothing but people in the Maths area, and in the Chemistry little but
+pungent smells. 
 
-If you go across the parking to the next building and ask nicely, you
+If you go across the parking to the next building and ask nicely the
+concierges at the entrance, you
 might be able to visit
 [Alhambra, our very own supercomputer](http://alhambra.ugr.es/), which
 is not open to the public but there will probably be someone proud
 enough in [computing services of the University](http://csirc.ugr.es)
-to show it to you. That is the precise building where the ur-geeks of
-the eighties spent our time, because it housed the first computer lab,
+to show it to you. That is the precise building where we, the ur-geeks of
+the eighties, spent our time, because it housed the first computer lab,
 filled with IBM XTs, and where you had to dress nicely, no shorts, if
-you did not want to be expelled by the janitors. This building housed
-the university mainframes for some time, and it still is the site of
-one of the data centers. 
+you did not want to be expelled by the janitors, or not be allowed in,
+which I was not. This building also housed
+the university mainframes, VAXen, PDPs and relatively unknown Data
+Generals, for some time, and it still is the site of
+one of the data centers that power the university research and
+development. 
 
 If you want to see one of those computers, you will have to catch the
 SN3 bus to the [ETSIIT](http://etsiit.ugr.es), a geek place if there
 is one in Granada. You cannot miss the stop: where the nerd-looking
-guys get down from the bus, that is the place
+guys get down from the bus, that is the place.
 
->That bus stop is by a park, just in case there is a nerd glut the particular moment you ride the bus and they stop somewhere else.
+>That bus stop is by a park, just in case there is a nerd glut the
+>particular moment you ride the bus and they stop somewhere else. 
 
 The main hall is graced by a big [IBM System/3 mainframe](https://en.wikipedia.org/wiki/IBM_System/3), together
 with all its peripherals: disk drum, data entry console, all the
@@ -488,8 +496,9 @@ Department of
 
 >Once you are there, go to the next to last office on the right on the
 >corridor to your left, you might recognize the name of the person
->there, and if he is in, he will happily sign your copy of this book,
->or your Kindle or other reading device. Appointment not necessary.
+>there, name plate scotch-taped to its holder, and if he is in, he
+>will happily sign your copy of this book, 
+>or dab his thumb in your Kindle or other reading device. Appointment not necessary.
 
 To the right of the entrance door there is a vitrine with the history
 of computing as seen from the department. You can see there from
@@ -509,7 +518,10 @@ of chips in it, this is the place to go.
 >one with Pacman and you will achieve the prize of seeing a poster in a
 >scientific institution with Pacman on it.
 
-When you get out of the building, you might want to visit the biggest data center in Andalucía, the [Cloud Center Andalucía](http://cca.trevenque.es/).
+When you get out of the building, and fed up with old hardware, you
+might feel like visiting the biggest
+data center in Andalucía, the
+[Cloud Center Andalucía](http://cca.trevenque.es/). 
  
 >Incidentally, you will go past one of the establishments we talked about in the chapter on whorehouses, the Don Pepe. None are too far, so using a pit stop as an excuse to be there is not an option.
 
@@ -609,9 +621,38 @@ mainly to call home, a set of customers that is very different of the teens that
 
 Still, local cibercafés had something authentic in them and were as
 much a showcase for local living culture as pubs or cemeteries, these
-later for living as well as dead culture, of course. The games played, the size and age of groups, the peek hours, were something to observe. I have been in cibercafés all over the world, and they are also a way of getting acquainted with the local keyboards, as well of being very jealous of security so as not to get your credentials stolen. It is rather safer now, with ubiquitous WiFi, although I would not put all my trust in an open network.
+later for living as well as dead culture, of course. The games played,
+the size and age of groups, the peek hours, were something to
+observe. I have been in cibercafés all over the world, and they are
+also a way of getting acquainted with the local keyboards, as well of
+being very jealous of security so as not to get your credentials
+stolen. It is rather safer now, with ubiquitous WiFi, although I would
+not put all my trust in an open network. 
 
-If you are not able to spot any Internet café, then, just look for your inner geek and grab your smartphone. Or maybe try one of the comic bookstores. Actually, one of the most venerable in Granada, Flash, is not so far away, by the end of San Antón street and actually pretty close to the rail relic we talked about in the chapter devoted to the train station. Its narrow storefront is jammed between a coffee and tea shop and a bakery, and you know you are in geek territory from the get go. As you enter through a narrow corridor, you will see right and left Warhammer 40K pieces for coloring and boxes. You will have to dodge or physically push people to advance past the new releases shelf and go around perusing Spanish and European comic, which are to the right and bottom of the library, or American and Japanese comic, to the left. Actually, it is a good occasion to browse [Blacksad](https://en.wikipedia.org/wiki/Blacksad), the series of hardboiled graphic novels with a black cat as main character, beautifully drawn and scripted by Díaz Canales and [Juanjo Guarnido, a local artist](https://en.wikipedia.org/wiki/Juanjo_Guarnido). Local fanzines are also for sale, and spontaneous discussion are started whenever a few of the usual visitors, of which there are quite a few, meet. This usually happens on Saturdays before closing at 2PM, so this is probably the best time to visit. You might end up with a few friends or maybe enemies, if you happen to like exactly the opposite of what passes as mainstream in the shop, usually American superhero stuff.
+If you are not able to spot any Internet café, then, just look for
+your inner geek and grab your smartphone. Or maybe try one of the
+comic bookstores. Actually, one of the most venerable in Granada,
+Flash, is not so far away, by the end of San Antón street and actually
+pretty close to the rail relic we talked about in the chapter devoted
+to the train station. Its narrow storefront is jammed between a coffee
+and tea shop and a bakery, and you know you are in geek territory from
+the get go. As you enter through a narrow corridor, you will see right
+and left Warhammer 40K pieces for coloring and boxes. You will have to
+dodge or physically push people to advance past the new releases shelf
+and go around perusing Spanish and European comic, which are to the
+right and bottom of the library, or American and Japanese comic, to
+the left. Actually, it is a good occasion to browse
+[Blacksad](https://en.wikipedia.org/wiki/Blacksad), the series of
+hardboiled graphic novels with a black cat as main character,
+beautifully drawn and scripted by Díaz Canales and
+[Juanjo Guarnido, a local artist](https://en.wikipedia.org/wiki/Juanjo_Guarnido). Local
+fanzines are also for sale, and spontaneous discussion are started
+whenever a few of the usual visitors, of which there are quite a few,
+meet. This usually happens on Saturdays before closing at 2PM, so this
+is probably the best time to visit. You might end up with a few
+friends or maybe enemies, if you happen to like exactly the opposite
+of what passes as mainstream in the shop, usually American superhero
+stuff. 
 
 Flash is closed on Saturday afternoons, but [Draco](http://www.libreriadraco.com/), the center of the local role playing games community, is not. Actually, there is kind of a gaming triangle that extends down to the end of the Alhamar street, where another shop, [Shazam](http://m.forocoches.com/foro/showthread.php?t=3535022), used to be and if you allow a triangle to have another vertex, Dune used to be a few meters down Pedro Antonio. It is no longer there, and the options for gamers and comicateers have been greatly diminished, although they are well served, and probably will be for many years, with just [Flash](http://www.libreriaflash.com/).
 
