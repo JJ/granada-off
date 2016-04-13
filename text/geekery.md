@@ -359,7 +359,7 @@ The main hall has all kind of widgets: rockets, other engines, maybe
 some other temporary exhibitions, and, from there on, the Biology
 building, which lies to the right, has a rather creepy stuffed animals
 vitrine, and the geology departments all kind of rocks. There is
-nothing but people in the Maths area, and in the Chemistry little but
+nothing but people in the Maths area, and in the Chemistry light but
 pungent smells. 
 
 If you go across the parking to the next building and ask nicely the
@@ -597,7 +597,7 @@ was, at one point in time, one of almost a couple of dozen coworking
 spaces in Granada. If you are not familiar with the concept, a
 coworking office is just an open space that provides a desk area,
 connectivity and amenities to freelancers and startup
-companies. During the crisis, they were a convenient and cheap
+companies. During the Crisis, they were a convenient and cheap
 alternative to either staying at your parents, renting real office
 space or crashing at a café. For less than 50€ a month, you could have
 your very own office to receive customers and interact with fellow
@@ -717,7 +717,7 @@ Or you can stop again and visit the Alhambra.
 >in the Alhambra? Yes. Just look up, look at the patterns, and look at
 >it with the eyes of mathematics.
 
-Brush up your math first. Because to walk of the beaten track you need
+Brush up your math first. Because to walk off the beaten track you need
 sturdy boots and math. Remember studying symmetry groups? I do not,
 either. Anyway, it is basically a way of covering a surface by picking
 up a motif, twisting, moving it, and flipping it. Get a black and
