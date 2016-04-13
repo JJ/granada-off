@@ -1,10 +1,11 @@
 #Freemasonry and other hidden messages in buildings
 
-For those in the know, Granada itself is a symbol of freemasonry. Its
+For those *in the know*, Granada itself is a symbol of freemasonry. Its
 main symbol is a pomegranate, *granada* in Spanish, a fruit that can
-be found all over the city.  A pomegranate, according
-to the Dictionary of Symbols by Cirlot, is a symbol of unity in
-multiplicity. The Greeks believed that it was created out of the blood
+be found all over the city in representation and, if you look hard
+enough and it is the right season, in the red and a bit tart flesh.  A pomegranate, according
+to Cirlot's Dictionary of Symbols, stands for unity in
+multiplicity. The Greeks believed that the fruit was created out of the blood
 of [Dionysus or Bacchus](http://www.men-myths-minds.com/Dionysus-greek-god.html), the god of pleasure, wine and ritual
 madness. When he died killed by the Titans, which is weird because he was a god, maybe he
 was a low-cost god or took too much of its own wine or the Titans were
