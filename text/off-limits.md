@@ -1,17 +1,36 @@
 #Off limits
 
-Having an *off* in the title of a chapter in a book that also includes *off* in the title might put you *off* a little bit coming anywhere near what we are going to be talking about here.
+Having an *off* in the title of a chapter in a book that also includes
+*off* in the title might put you *off* a little bit coming anywhere
+near what we are going to be talking about here.
 
-Which is good, because that is sort of my point.
+>Actually, it does not include *off* any more. Because I thought that
+>might put you, the buyer, *off* buying it. So I changed it to the
+>more positive, and logo-inspiring, *on*. 
 
-Every medium-size city includes some neighborhoods where locals, except, obviously, those that live there or have some errand to do and if so do it quickly and inconspicuously, never set their foot in. Granada has a a few of those, and could have even more if gentrification in the shape of big stores had not kicked in. Even so, there is maybe a single area that is, quintessentially, [the place *not* to go](http://www.elotrolado.net/hilo_me-voy-a-granada-sitios-los-cuales-no-visitar_1274982), and that is the [Almanjáyar quarter](http://almanjayar.org/index.php?page=site.Home&portal=sitegoogle-site-verification%3A+google6bd22180a&control=). The [Wikipedia entry](http://es.wikipedia.org/wiki/Almanj%C3%A1yar) mentions that many people in Granada were there for the first time in 1983, when the Pope John Paul II gave a Mass there.
+Which is good, because that is sort of my point. 
+
+Every medium-size city includes some neighborhoods where locals,
+except, obviously, those that live there or have some errand to do and
+if so do it quickly and inconspicuously, never set their foot
+in. Granada has a a few of those, and could have even more if
+gentrification in the shape of big stores had not kicked in. Even so,
+there is maybe a single area that is, quintessentially,
+[the place *not* to go](http://www.elotrolado.net/hilo_me-voy-a-granada-sitios-los-cuales-no-visitar_1274982),
+and that is the
+[Almanjáyar quarter](http://almanjayar.org/index.php?page=site.Home&portal=sitegoogle-site-verification%3A+google6bd22180a&control=). The
+[Wikipedia entry](http://es.wikipedia.org/wiki/Almanj%C3%A1yar)
+mentions that many people in Granada were there for the first time in
+1983, when the Pope John Paul II gave a Mass there. 
 
 >Incidentally, I was there too, brought by bus from my home town,
->Úbeda. I just saw a big flat field surrounded by what I though were
+>Úbeda. I just saw a big flat field surrounded by what I thought were
 >high-rises. And a guy dressed in white, far, far away, surrounded by
 >many others dressed in primary colors. The thing I
 >remember the most from that trip is feeling pity from the guy that
->was peddling sandwiches on our way *back* to the buses. 
+>was peddling sandwiches on our way *back* to the buses. Nowadays, the
+>big avenue that is kind of the limit to Almanjáyar carries the name
+>of the Pope. 
 
 You can get there fresh off the bus station. Go across the street and continue straight ahead. What you will find will be new-ish buildings, bars and convenience stores. The [whole area was built starting in 1965](http://es.wikipedia.org/wiki/Almanj%C3%A1yar), with some of the most conspicuous blocks, those that bear the name of the builder OSUNA, built later on, even in the 80s. Straight streets, which are used sometimes, or said to be used, for stolen car races, fuel barrels turned into hearths at night, sometimes, and people around them, and people just sitting around, doing nothing, which is only to be expected, since the unemployment rate hovers around 40%.
 
