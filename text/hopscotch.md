@@ -23,7 +23,7 @@ best documented. If you are an Erasmus visitor to the city, read the
 chapter about the University. If you like urban art, there is a
 chapter I love on graffiti; if you are more curious about people,
 three chapters on buskers, whorehouses and famous eccentrics plus the
-one that describes the "off-limits" parts of Granada might be
+one that describes the quote unquote off-limits parts of Granada might be
 the ones for you.
 
 If you like the water, you are in luck: there is a chapter on water
