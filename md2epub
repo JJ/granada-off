@@ -10,6 +10,7 @@ pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
     text/danger-castle.md text/haunted.md text/fast-food.md \
     text/university.md text/geekery.md\
     text/graffiti.md
+    coda.txt
    
 
 
