@@ -14,7 +14,7 @@ next. But this has been done in a rather haphazard way.
 >Alhambra.
 
 However, some chapters might be more interesting to you than others,
-and you might want to read them first. If you consider yoursel a geek
+and you might want to read them first. If you consider yourself a geek
 
 >and who does not, nowadays...
 

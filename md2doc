@@ -3,7 +3,7 @@
 
 
 pandoc --toc  \
-    -o granadaoff.doc granada.txt  text/prologue.md text/tips.md text/hopscotch\
+    -o granadaoff.doc granada.txt  text/prologue.md text/tips.md text/hopscotch.md\
     text/earthquakes.md text/off-limits.md  text/water.md text/snow.md \
     text/roundabouts.md text/train-station.md  text/freemasonry.md\
     text/buskers.md text/whorehouses.md  text/eccentrics-and-oddballs.md \
