@@ -137,9 +137,9 @@ I really encourage you to email me or reach out to me in Twitter for
 suggestions, criticism, compliments and, of course, to correct
 mistakes of which there must be quite a few. As a self-published
 author without the luxury, and also the burden, of an editor, I must
-rely on kind strangers to provide me with help in these matters. Only
+rely on kind strangers to provide me with help in these matters. Although
 if you have acquired this book you will no longer be a stranger. You
-will keep being kind, I hope.
+will keep on being kind, I hope.
 
 ## Buy the book
 
