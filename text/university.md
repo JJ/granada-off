@@ -10,7 +10,21 @@ So, off the top of my head, and outside that in-the-beaten track fact that some 
 
 >In fact, I am big fan of universities everywhere for the sanitary services they provide. When touristing, I always follow the old adage "Pee when you can, not when you want" so if you pass by an university building, just walk confidently in and look for the lavatories, in the corridor straight ahead and to your left.
 
-Other than that, why would you want to go to the university? For starters, it might go to you instead. There are several campus and then independent buildings. Ciencias, for instance, is in a big campus called Fuentenueva which is close to the city center. Two faculties, Translation and Law, are independent, and old, and nice, buildings very close to downtown and the other monuments. Other campus, Aynadamar houses the closely related Fine Arts and Computer Science, while Cartuja houses the also closely related Pharmacy, Psychology, marketing and humanities. The recently built Health campus includes several high rises where Nursing and Medicine is taught, as well as a big, and so far unfinished, hospital, the morgue and several research campuses. It is really unlikely that you end up, by mistake, in the Faculty of Sports Sciences, but if you visit the Gothic structure of the Hospital Real, you can be seen from the windows of the university president office.
+Other than that, why would you want to go to the university? For
+starters, it might go to you instead. There are several campus and
+then independent buildings. Ciencias, for instance, is in a big campus
+called Fuentenueva which is close to the city center. Two faculties,
+Translation and Law, are independent, and old, and nice, buildings
+very close to downtown and the other monuments. Other campus,
+Aynadamar houses the closely related Fine Arts and Computer Science,
+while Cartuja houses the also closely related Pharmacy, Psychology,
+marketing and humanities. The recently built Health campus includes
+several high rises where Nursing and Medicine is taught, as well as a
+big, and so far unfinished, hospital, the morgue and several research
+campuses. It is really unlikely that you end up, by mistake, in the
+Faculty of Sports Sciences, but if you visit the Gothic structure of
+the Hospital Real, you can be seen from the windows of the university
+president office. 
 
 The university cafeterias are also good reasons for visiting any of
 them. The *café con leche* is awful but also awfully cheap, and there
@@ -178,19 +192,19 @@ students and faculty.
 
 And once you are there, you can walk up the street to the other side
 of the roundabout with the olive tree in the middle and visit the
-ETSIIT, an important part of the geek 
+[ETSIIT](http://etsiit.ugr.es), an important part of the geek 
 chapter. Or use it as a warm-up to know about graffiti in Granada,
 since Fine Arts is at its core. I have spent quite a few paragraphs on
 the geek contents of the ETSIIT, but in this chapter I would like to
 remark a few things. First, its great library for all things geek. If
-you need a book on some obscure programming language, it is probably
+you need a book on some obscure or obsolete programming language, it is probably
 here. For instance, the great and big "The art of computer
 programming", which Donald Knuth has spent a whole life writing and
 will probably do so for years to come. It is one of the few colleges
 that have an alfresco gathering room; you can see people lounging and
-writing code and gaming almost all year round. It is by the left as
-you get into it by the main gate. And to the right and almost hidden
-by the prefabricated units, [there is a small forest created by the trees](https://www.flickr.com/photos/atalaya/149900614) planted by every outgoing promotion of alumni. It is quite small
+writing code and gaming almost all year round in the area to the left
+of the gate. And to the right and almost hidden
+by the prefabricated units and the proverbial trees, [there is a small forest created by the trees](https://www.flickr.com/photos/atalaya/149900614) planted by every outgoing promotion of alumni. It is quite small
 indeed, but you will see a set of different trees, which might number
 20 or so, since the first promotion graduated in 93. A curious
 souvenir and maybe a metaphor that computers not only save trees from
@@ -198,7 +212,7 @@ death by eliminating the need of paper, but also plant them for good
 measure. 
 
 For political consciousness and painted slogans on paper rolls, check
-out political science or philosophy. There are always political
+out Political Sciences, which goes together with Sociology, or Philosophy. There are always political
 assemblies or organized protests going on there. But if you are more
 into economics, check the ecosystem that has evolved around the
 Faculties. Having a sparse campus has spread the wealth it brings to
@@ -213,7 +227,8 @@ drab barracks to a
 [functional, bright and light building that has received an architecture price](https://minutosdearquitectura.wordpress.com/2015/06/19/premio-arquitectura-2015-para-la-rehabilitacion-del-antiguo-hospital-militar-de-granada-de-victor-lopez-cotelo/),
 which is turning a former traditional and touristic neighborhood into
 a vibrant student area. Architecture, with its grim job outlook,
-accompanies now the Modern Languages Center, which is not strictly
+accompanies now the
+[Modern Languages Center](https://www.clm-granada.com/) in the neighborhood, which is not strictly
 University but university-owned. 
 
 >Yes, it is complicated. But never mind, it quacks and walks and swims
@@ -227,7 +242,8 @@ coffee-to-go places that cater precisely to this crowd and nobody
 else, since any self-respecting Spaniard will have a proper sit-down
 coffee with an olive-oiled toast on the side.
 
-And probably the best place in the university to have one is the
+And probably the best place in the university to have one of those
+coffees, Spanish style, is the
 cafeteria in the Faculty of Law. It opens to the
 [Botanic Garden](https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_de_la_Universidad_de_Granada)
 so you can sip your capuccino and enjoy the sights, too. Besides, this
@@ -251,15 +267,17 @@ Igitur". Some of them, at least.
 Finally, for a glimpse of he future, visit the gleaming and spanking
 new Biosanitary campus, which started to be used at the beginning of
 the first semester of the 2015-2016 course. It is white, it has
-high-rises, and the professors hated it and almost went on strike
+high-rises, and the professors hated it and all but went on strike
 before being forced to occupy it: It was too far away from their
+private practices,
 clinics and home offices, it did not have enough parking space, it had
 a single bus line going through it. It does have nice light rail
-stations, but no actual light rail, so no joy. Be that as it may, it
+stations, but no actual light rail, so no joy for the time being. Be that as it may, it
 is now working and surrounded by research centers and weed-filled
 empty lots, so it kind of looks like the kind of place zombie fighters
 might go looking for a cure in a post-apocalyptic world. In fact, the
-main city morgue is part of the campus, so if that is the most likely
+main city morgue is part of the campus, so if that zombiepocalypse
+eventually happens is the most likely
 place that kind of thing will begin.
 But it is evolving and there might no weeds, or chest-high ones, by
 the time you read this.
@@ -268,9 +286,11 @@ One of the most beautiful things there are the graffiti. A famous
 local graffiti artist, 
 
 >More on him on its very own chapter, or a chapter devoted to
->graffiti, whatever comes first.
+>graffiti, whatever comes first. This is a book with no plan, exactly
+>like the city itself. 
 
-Niño de las Pinturas, was commissioned to paint all its utility shacks. It is worth a visit just for that reason.
+Niño de las Pinturas, was commissioned to paint all its utility
+shacks. It is worth a visit just for that reason. 
 
 >In fact, it can be the starting point for a interesting graffiti route. 
 
