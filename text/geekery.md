@@ -348,6 +348,16 @@ which was projected and built in the sixties although it has had lots
 of additions. There is some fodder for geeks inside the building,
 where all kind of sciences, from Physics to Geology, are studied. To
 the right hand side, the Physics building houses a Foucault pendulum,
+
+>There could almost be a whole chapter devoted to these kind of
+> pendulums (*penduli*?) in Granada. There is another one in the
+> Parque de las Ciencias, and the
+> [biggest one is housed in the interior patio of the Polytechnic building](http://granatensis.tumblr.com/post/31215056053)
+> in the Campus Fuentenueva. According to the Wikipedia,
+> [it is the city in Spain with the most installations](https://es.wikipedia.org/wiki/Anexo:P%C3%A9ndulos_de_Foucault#Espa.C3.B1a),
+> and, if counted correctly, it ties with Louisville Kentucky, at 3
+> penduli, for the most pendulused city in the world. 
+
 and going from there to the main building, the library to the right
 hand side houses scientific journals from early on, the fifties and
 even before that. I have spent there a good part of my studies in the
