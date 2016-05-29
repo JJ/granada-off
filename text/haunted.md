@@ -39,7 +39,7 @@ after having actually been a hotel for just a few years. It started to
 operate in 1910 under the name *Bosque de la Alhambra*, or "Alhambra
 forest", but it remained in operation only for a couple of years. It
 had to close due to the chill and dampness that pervaded all rooms,
-which made for a romantic, albeit uncomfortable, accomodation. Since
+which made for a romantic, albeit uncomfortable, accommodation. Since
 it was placed in the slopes of the Alhambra hill, there was absolutely
 no sun shining on it from September to March.
 
