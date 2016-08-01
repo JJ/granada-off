@@ -5,8 +5,8 @@
 Granada is an university city, thanks mainly to the
 [UGR](http://ugr.university), which is one of the biggest in Spain and
 includes around fifty thousand graduate students or eighty thousands
-if you include postgraduates and people taking any kind of class. In a
-city with a population roughly five the number of graduates, that implies that Granada lives
+if you include postgraduates and people taking any kind of class there. In a
+city with a population roughly five times the number of graduates, that implies that Granada lives
 and breathes through its university. And that is literal in a sense:
 [almost 5% of the provincial income stems from the university](http://www.ideal.es/granada/v/20120503/granada/motores-granada-20120503.html)
 and eleven thousand jobs, which is 3.5% of the total employment in the
@@ -51,8 +51,8 @@ the Hospital Real, you can be seen from the windows of the university
 president office. 
 
 The university cafeterias are also good reasons for visiting any of
-them. The *café con leche* is often awful, and myth says that in
-occassions number-twos inducing, but also awfully cheap, and there
+them. The *café con leche* is often awful, and myth says that, in
+ocassions, number-twos inducing, but also awfully cheap, and there
 is great, funny and knowledgeable company. Every one of them has a
 library where old and dusty tomes are housed, and you can go through
 while you hide from the heat, or the rain, or if you actually are looking for a
@@ -195,7 +195,7 @@ which apparently lists only more classic works and not the modern
 ones, I cannot point out which ones are good enough for you or where
 they are, my dear reader. 
 
-A set of piedes that is easily available in any faculty is this one:
+A set of pieces that is easily available in any faculty is this one:
 If you walk into the administrative area or close to the lecture halls 
 you will be unable to avoid the pictures with the former deans,
 dressed with the classic university attire, one that I have been
@@ -235,7 +235,7 @@ built at the turn of the century, although the reforms and decoration
 include a couple of graffiti walls on the back. If you are in need of
 art supplies, it has a *economato* or student discount store where you can buy
 all kind of brushes, drawing pads and stuff needed for artistry. Its
-main building includings an exhibition space used for works of arts by
+main building including an exhibition space used for works of arts created by
 students and faculty. 
 
 And once you are there, you can walk up the street to the other side

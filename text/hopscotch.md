@@ -21,12 +21,12 @@ and you might want to read them first. If you consider yourself a geek
 read first the Geekery chapter, which, besides, is the longest and
 best documented. If you are an Erasmus visitor to the city, read the
 chapter about the University. If you like urban art, there is a
-chapter I love on graffiti; if you are more curious about people,
+chapter I loved to write on graffiti, which I love, too; if you are more curious about urban dwellers,
 three chapters on buskers, whorehouses and famous eccentrics plus the
 one that describes the quote unquote off-limits parts of Granada might be
 the ones for you.
 
-If you like the water, you are in luck: there is a chapter on water
+If you like water, you are in luck: there is a chapter on water
 *and* another about snow.
 
 All this to say that, really, make your own way through the
