@@ -8,7 +8,7 @@ a book is a sequential thing, so there is no other way out that put
 this chapter before the following one, and that one before the
 next. But this has been done in a rather haphazard way.
 
->No, there is no reason why the first chapter is about earthquakes, as
+>Talking about hazards, and since you are asking, no, there is no reason why the first chapter is about earthquakes, as
 >in keep away from here for your safety or visit this before a huge
 >chasm opens and swallows everything from the *botellódromo* to the
 >Alhambra.
