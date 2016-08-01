@@ -317,7 +317,7 @@ Igitur". Some of them, at least.
 
 Finally, for a glimpse of he future, visit the gleaming and spanking
 new Biosanitary campus, which started to be used at the beginning of
-the first semester of the 2015-2016 course. It is white, it has
+the first semester of the 2015-2016 school year. It is white, it has
 high-rises, and the professors hated it and all but went on strike
 before being forced to occupy it: It was too far away from their
 private practices,
