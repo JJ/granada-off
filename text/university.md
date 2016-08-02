@@ -52,7 +52,7 @@ president office.
 
 The university cafeterias are also good reasons for visiting any of
 them. The *café con leche* is often awful, and myth says that, in
-ocassions, number-twos inducing, but also awfully cheap, and there
+occasions, number-twos inducing, but also awfully cheap, and there
 is great, funny and knowledgeable company. Every one of them has a
 library where old and dusty tomes are housed, and you can go through
 while you hide from the heat, or the rain, or if you actually are looking for a
