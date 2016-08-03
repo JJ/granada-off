@@ -57,13 +57,13 @@ the middle of the woods, rotting and rusting all by itself.
 
 >More on freemasons on its very own chapter. 
 
-You can check it out from the metalic fence that surrounds it, after
-crossing the small bridge from el Paseo de los Tristes. From that side of the river, look up to the Albayzín, where you can
+You can check it out from the metallic fence that surrounds it, after
+crossing the small bridge from the Paseo de los Tristes. From that side of the river, look up to the Albayzín, where you can
 either find other haunting places or work out by just walking around,
 looking up, and checking out wrought iron balconies, boarded-shut
 windows and "for sale" signs. Places like the derelict *cármenes* in
 the Albayzín, the Dar-al-Horra palace, only recently opened, and, of
-course, the haunted apartment blocks that dot the the outskirts and
+course, off the Albayzin or looking down the hill to the other side,  the haunted apartment blocks that dot the the outskirts and
 suburbs of the city and that are a relic of the real estate
 bubble. Places you will be able to watch from outside, but never get
 in, specially after dark. Adding to their mystery. 

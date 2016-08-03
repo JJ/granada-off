@@ -24,8 +24,8 @@ the ground. Somebody commissioned
 who had worked in the Alhambra, to design and build this all new
 Alcaicería, from scratch. In doing so he all but invented the
 [Moorish revival or neo Arab style](https://en.wikipedia.org/wiki/Moorish_Revival_architecture),
-at the same time building one of the (first commercial
-arcades)[https://en.wikipedia.org/wiki/Shopping_mall#Development_of_shopping_areas_and_building_types]
+at the same time building one of the [first commercial
+arcades](https://en.wikipedia.org/wiki/Shopping_mall#Development_of_shopping_areas_and_building_types)
 and most certainly one of the first in Europe. It took a long time to
 take off, however. The 1908 Baedeker's guide to Spain and Portugal
 mentions "a market hall (little used)", but no wonder, since the city
