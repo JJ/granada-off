@@ -24,8 +24,7 @@ the ground. Somebody commissioned
 who had worked in the Alhambra, to design and build this all new
 Alcaicería, from scratch. In doing so he all but invented the
 [Moorish revival or neo Arab style](https://en.wikipedia.org/wiki/Moorish_Revival_architecture),
-at the same time building one of the [first commercial
-arcades](https://en.wikipedia.org/wiki/Shopping_mall#Development_of_shopping_areas_and_building_types)
+at the same time building one of the [first commercial arcades](https://en.wikipedia.org/wiki/Shopping_mall#Development_of_shopping_areas_and_building_types)
 and most certainly one of the first in Europe. It took a long time to
 take off, however. The 1908 Baedeker's guide to Spain and Portugal
 mentions "a market hall (little used)", but no wonder, since the city
@@ -54,7 +53,7 @@ you choose. You might then want to check out
 *Centro Comercial Neptuno*, which is a real, actual, modern, shopping mall, and is within walking
 distance of the city center, and is practically haunted, with most
 shops closed down and just a movie theater and a few bars surviving
-from tweens meeting and millennials taking their kids to run there
+from tweens meeting and millenials taking their kids to run there
 when it is a foul day. It was the first mall ever opened in Granada,
 not so long ago, as a response by local merchants to the onslaught
 brought by the big department stores, Hipercor and Carrefour. These
