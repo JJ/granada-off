@@ -53,7 +53,7 @@ you choose. You might then want to check out
 *Centro Comercial Neptuno*, which is a real, actual, modern, shopping mall, and is within walking
 distance of the city center, and is practically haunted, with most
 shops closed down and just a movie theater and a few bars surviving
-from tweens meeting and millenials taking their kids to run there
+from tweens meeting and millennials taking their kids to run there
 when it is a foul day. It was the first mall ever opened in Granada,
 not so long ago, as a response by local merchants to the onslaught
 brought by the big department stores, Hipercor and Carrefour. These

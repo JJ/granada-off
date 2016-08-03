@@ -63,7 +63,7 @@ either find other haunting places or work out by just walking around,
 looking up, and checking out wrought iron balconies, boarded-shut
 windows and "for sale" signs. Places like the derelict *cármenes* in
 the Albayzín, the Dar-al-Horra palace, only recently opened, and, of
-course, off the Albayzin or looking down the hill to the other side,  the haunted apartment blocks that dot the the outskirts and
+course, off the Albayzín or looking down the hill to the other side,  the haunted apartment blocks that dot the the outskirts and
 suburbs of the city and that are a relic of the real estate
 bubble. Places you will be able to watch from outside, but never get
 in, specially after dark. Adding to their mystery. 
