@@ -66,7 +66,7 @@ malls in some other places. First came Kinépolis, North of the city,
 with a cineplex and Carrefour as its main poles of attraction. Then
 came the curiously spelled [Alhsur](http://www.alhsur.com/),
 
->Just realized in might have something to do with the *Alh*hambra. As if...
+>Just realized in might have something to do with the *Alh*ambra. As if...
 
 South of the city and close to the
 living quarters of many granadinos. Then came Serrallo Plaza, modern,
@@ -108,7 +108,7 @@ everything, although its movie theaters are among the best, and the
 only place where you can watch some movies in their original
 version. Serrallo is quite fashionable since it opened, and has a
 great mixture of a leisure area together with nice shopping
-franchises. It is preferred by couples with small childre, who you can
+franchises. It is preferred by couples with small children, who you can
 see pursuing their toddlers riding on plush-mobiles and looking
 bored. It usually shows Granada matches in the big screen, so it might
 be as good a place as any other to disappoint yourself and see other
