@@ -64,7 +64,11 @@ other malls that have opened all around the city.
 The final strike was the opening or yet other, bigger and better,
 malls in some other places. First came Kinépolis, North of the city,
 with a cineplex and Carrefour as its main poles of attraction. Then
-came the curiously spelled Alhsur, South of the city and close to the
+came the curiously spelled [Alhsur](http://www.alhsur.com/),
+
+>Just realized in might have something to do with the *Alh*hambra. As if...
+
+South of the city and close to the
 living quarters of many granadinos. Then came Serrallo Plaza, modern,
 gleaming, more movie theaters, and that was the clinch, a Mercadona
 and a Zara. You could shop for groceries, buy a tee, go to the movies
@@ -94,4 +98,39 @@ upper-middle class homes, besides the locals, which might be
 increasingly less in a town that was, some time ago, mainly devoted to
 agriculture. The town itself might be worth a visit, if only because
 it is not in any touristic guide, but only if you have checked in
-already in all the other places.
+already in all the other places in this and Lonely Planet's book.
+
+The other two malls might have some anthropological interest, due to
+the diverse mixture of people that their geographical position
+offers. Kinépolis is close to the poorest parts of Granada, and it is
+more a leisure than a shopping center. It is rather far from
+everything, although its movie theaters are among the best, and the
+only place where you can watch some movies in their original
+version. Serrallo is quite fashionable since it opened, and has a
+great mixture of a leisure area together with nice shopping
+franchises. It is preferred by couples with small childre, who you can
+see pursuing their toddlers riding on plush-mobiles and looking
+bored. It usually shows Granada matches in the big screen, so it might
+be as good a place as any other to disappoint yourself and see other
+people disappointed following one of the most disappointing, if
+resilient, teams of the First Division in Spain which, for unknown
+reasons, somebody call *La Primera Liga*, when the *Liga* is the whole
+set of divisions. This mall is also within walking distance of the
+soccer stadium, so it is a good stopover in the way from or to a
+match; even if you are not attending, the show of team shirts and spirit
+is worth the while and probably one of the few places in the world
+where you can contemplate football team supporters without being in
+any kind of danger.
+
+The last mall, the Nevada, is the largest, the most controversial and, for the time
+being, the one that has been closed for the longest time, since it
+took some space from the tram right-of-pass, was stopped by the
+regional government, apparently illegally, so it will have to be
+[reimbursed to the tune of a few hundred million euro](http://www.elmundo.es/andalucia/2016/07/15/578931c7268e3edd6b8b46b0.html). Maybe
+by the time you read this it will be opened, since it is slated to
+start
+[by November 2016](http://www.granadadigital.es/el-centro-comercial-nevada-tiene-prevista-su-apertura-el-11-de-noviembre/). If
+eventually it opens as planned, it will be the place to go, with a
+FNAC, a Primark, and most probably a huge traffic jam to get there if
+the tram is not working, which it will not until maybe 2017. 
+
