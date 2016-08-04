@@ -78,3 +78,20 @@ an American-style space.
 >Avenida de Cervantes. And check out other
 >haunted mansions and some graffiti along the way, so have those
 >chapters handy. 
+
+The only way to go to Alhsur is to ride your own car. There might be
+public transportation, as in metropolitan buses that ply the route
+Granada-La Zubia, but if you intend to spend some time there and get
+out late at night, you better bring your own ride. A taxi back to
+Granada might cost you a few dozens euros. And, well, in fact, there
+is nothing there that is worth the while. It is a bog-standard neat
+little mall, with balconies all along it, and franchises in the
+middle, a cineplex at one end, and a supermarket in the other. For a
+time, it was the only place where you could buy Dunkin Donuts in
+Granada, but it closed and there is one now downtown. It is not even
+interesting in the anthropological sense. That area houses
+upper-middle class homes, besides the locals, which might be
+increasingly less in a town that was, some time ago, mainly devoted to
+agriculture. The town itself might be worth a visit, if only because
+it is not in any touristic guide, but only if you have checked in
+already in all the other places.
