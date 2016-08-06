@@ -58,7 +58,7 @@ macabre bird flies, you are just a few hundred meters away from the graveyard.
 
 >And I am getting already into other two chapters which you could read
 >too, the one about graffiti and the one that deals with the
->cementery.
+>cemetery.
 
 Walk right in that street to find other curious feature of this place:
 the Virgin of Lourdes Sanctuary. Why a Virgin of French origin has a
@@ -75,13 +75,13 @@ You can go back to the main street or wander around for a while in
 streets where people seem to have their very own *patio*. You will
 enter some dead alleys where people have set couches, drying lines,
 and are out there watching time go by. You will hear, more so when you
-arrive to the cusp of the hill, where real farms, lemond and all kind
-of groves are actually tended by real people. That is not all. 
+arrive to the cusp of the hill, where real farms, lemmon and all kind
+of fruit trees are actually tended by real people. That is not all. 
 
 When you get to the road to the Alhambra, take a hard turn left and go
 through the olive grove. You heard that correctly, there is an olive
 grove if not in the middle of the city, totally surrounded by it. A
-gazebo to the left will give you an impressive sight, but further
+[gazebo to the left](https://www.google.es/maps/@37.1709396,-3.5846537,19z) will give you an impressive sight, but further
 ahead the walls of the Carmen de los Mártires will make you go down
 some steps to find the lines waiting to get into the Alhambra. 
 
