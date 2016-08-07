@@ -35,14 +35,38 @@ Córdoba might be the origin of them. Many
 and when their age was gone and mosques turned into churches or razed,
 the orange trees became part of the street and remained there for a
 time. The Alhambra has its own Patio de los Naranjos, and also the
-[Carmen de la Victoria](https://www.tripadvisor.es/LocationPhotoDirectLink-g187441-d1027773-i137902822-Carmen_de_los_Martires-Granada_Province_of_Granada_Andalucia.html). 
+[Carmen de la Victoria](https://www.tripadvisor.es/LocationPhotoDirectLink-g187441-d1027773-i137902822-Carmen_de_los_Martires-Granada_Province_of_Granada_Andalucia.html). But
+not only there were these trees, the Alhambra included
+[fields that were exploited by several workers](http://www.otragranada.org/spip.php?article704),
+every one paying a rent to the owners, initially some guy who owned
+these lands, 
+and eventually, for some time, the government until they weree
+eventually evicted to be substituted by a landscaper paid by the Alhambra. All kind of fruits and vegetables grew there, from
+prunes to potatos. 
 
-So the best place to check them out is almost anywhere, although there
+Growing your own stuff is still a tradition. From time to time,
+coworkers arrive with bags of prunes, or lemons, or almonds, or some
+other thing themselves in their garden, or their parents, grow and do
+not care to pick up except for giving out, or to sell. Agriculture is
+unfortunately turning from a way of living to a hobby, and that is
+kind of sad. 
+
+But you can still find these vestiges of the past in the streets of
+Granada. The best place to check it out is almost anywhere, although there
 are many orange trees in Paseo del Salón along the fringes of the
 park. You will see its flowers in summer and fruits almost all year
-long. In winter and in spring they are manured, but you will notice
+long. In the middle of the spring, orange blossoms and you can smell
+it almost anywhere in the city. These blossoms last for a couple of
+days, and you will find the sidewalk dotted with white flakes, the
+remains of these beautiful flowers. In this tradition, akin to Sakuro,
+but which nobody cares about, should be as famous as that one. And is,
+at least smell-wise, one of the most enjoyables.
+
+These trees are manured in winter and in spring by the city hall
+gardeners. Unlike orange blossom smell,  you will notice
 that from far away, since it remains for a whole week sometimes. No
-need to get closer in that case.
+need to get closer in that case. At least you can rest assured that it
+is ecological, since it is pure, unadultered, horse shit. 
 
 Lemons are a whole different story. For some reason, there are no
 lemon trees in the streets. They have all gone to
