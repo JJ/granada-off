@@ -75,7 +75,7 @@ You can go back to the main street or wander around for a while in
 streets where people seem to have their very own *patio*. You will
 enter some dead alleys where people have set couches, drying lines,
 and are out there watching time go by. You will hear, more so when you
-arrive to the cusp of the hill, where real farms, lemmon and all kind
+arrive to the cusp of the hill, where real farms, lemon and all kind
 of fruit trees are actually tended by real people. That is not all. 
 
 When you get to the road to the Alhambra, take a hard turn left and go

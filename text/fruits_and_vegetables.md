@@ -2,7 +2,7 @@
 
 One of the things that will draw your attention in Granada is the
 profusion of green matter in the streets. There are not only big boulevards
-or avenues lined with trees, you can also see them in the Albayzin from above in Google
+or avenues lined with trees, you can also see them in the Albayzín from above in Google
 maps and also in smallish, single-lane, streets. They grow on the
 gardens of the cármenes and by the swimming pools of the condos. They
 are, simply put, everywhere.
