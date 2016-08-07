@@ -40,9 +40,9 @@ not only there were these trees, the Alhambra included
 [fields that were exploited by several workers](http://www.otragranada.org/spip.php?article704),
 every one paying a rent to the owners, initially some guy who owned
 these lands, 
-and eventually, for some time, the government until they weree
+and eventually, for some time, the government until they were
 eventually evicted to be substituted by a landscaper paid by the Alhambra. All kind of fruits and vegetables grew there, from
-prunes to potatos. 
+prunes to potatoes. 
 
 Growing your own stuff is still a tradition. From time to time,
 coworkers arrive with bags of prunes, or lemons, or almonds, or some
@@ -58,15 +58,15 @@ park. You will see its flowers in summer and fruits almost all year
 long. In the middle of the spring, orange blossoms and you can smell
 it almost anywhere in the city. These blossoms last for a couple of
 days, and you will find the sidewalk dotted with white flakes, the
-remains of these beautiful flowers. In this tradition, akin to Sakuro,
+remains of these beautiful flowers. In this tradition, akin to Sakura,
 but which nobody cares about, should be as famous as that one. And is,
-at least smell-wise, one of the most enjoyables.
+at least smell-wise, one of the most enjoyable.
 
 These trees are manured in winter and in spring by the city hall
 gardeners. Unlike orange blossom smell,  you will notice
 that from far away, since it remains for a whole week sometimes. No
 need to get closer in that case. At least you can rest assured that it
-is ecological, since it is pure, unadultered, horse shit. 
+is ecological, since it is pure, unadulterated, horse shit. 
 
 Lemons are a whole different story. For some reason, there are no
 lemon trees in the streets. They have all gone to
