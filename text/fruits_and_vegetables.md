@@ -83,3 +83,5 @@ laced with cloves, a combination that is supposed to reject mosquitoes
 and other insects. Anyway, walk around the Albayzín or El Barranco del
 Abogado and you might gather enough lemons for your very own locally
 sourced lemonade.
+
+Both are also good places for prickly pears, but the main places are el Barranco and the Sacromonte.
