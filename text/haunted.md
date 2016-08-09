@@ -32,7 +32,8 @@ If you are into meditation, you might do a bit of haunting yourself in site for 
 
 Haunted and also spiritual, in a way, is the
 [Hotel del Reúma, or Rheumatism hotel](http://granadapickups.blogspot.com.es/2011/09/el-hotel-reuma.html),
-which is right by the river and in the slope of the Alhambra hill. And
+which is right by the river and in the slope of the Alhambra hill, at
+the other side of the Paseo de los Tristes. And 
 it was spiritual, and also in a way, since it housed, for a time, the
 [Alhambra lodge of the freemasons](http://elintercambiador.estaciondiseno.es/hotel-reuma-arquitectura-abandonada-bajo-la-alhambra/),
 after having actually been a hotel for just a few years. It started to
@@ -41,26 +42,31 @@ forest", but it remained in operation only for a couple of years. It
 had to close due to the chill and dampness that pervaded all rooms,
 which made for a romantic, albeit uncomfortable, accommodation. Since
 it was placed in the slopes of the Alhambra hill, there was absolutely
-no sun shining on it from September to March.
+no sun shining on it from September to March, which are not the months
+you want the Sun not to shine. A bit late for the discovery, after two
+years of operation, but those were unenlightened times, quite unlike
+ours, where we like to shine lights on literally everything, leaving
+no stone unturned. 
 
 If there is a candidate for haunting or urban exploration,
-here is one: it was a hospital during the civil war and also used as
-changing rooms for plays taking place at the other side of the
+this is the one: it was a hospital during the Civil War and also used as
+changing rooms for plays taking place in a rig at the other side of the
 river. And it is completely shuttered and will probably be for years
 to come, since nobody cares too much about it, so it lays there, in
 the middle of the woods, rotting and rusting all by itself. 
 
 >More on freemasons on its very own chapter. 
 
-From that side of the river, look up to the Albayzín, where you can
+You can check it out from the metallic fence that surrounds it, after
+crossing the small bridge from the Paseo de los Tristes. From that side of the river, look up to the Albayzín, where you can
 either find other haunting places or work out by just walking around,
 looking up, and checking out wrought iron balconies, boarded-shut
 windows and "for sale" signs. Places like the derelict *cármenes* in
 the Albayzín, the Dar-al-Horra palace, only recently opened, and, of
-course, the haunted apartment blocks that dot the the outskirts and
+course, off the Albayzín or looking down the hill to the other side,  the haunted apartment blocks that dot the the outskirts and
 suburbs of the city and that are a relic of the real estate
 bubble. Places you will be able to watch from outside, but never get
-in, specially after dark. 
+in, specially after dark. Adding to their mystery. 
 
 
 
