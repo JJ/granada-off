@@ -273,7 +273,7 @@ There
 is a Monument to the Rotarians, which were actually founded by
 freemasons and, in fact, started recruiting withing the lodges of the
 places where they were established. Not a secret but rather a
-philantropic society itself, its relationship to Granada is lost to
+philanthropic society itself, its relationship to Granada is lost to
 me, although there is
 [apparently a local chapter](http://www.ideal.es/granada/v/20120609/granada/rotarios-reunen-granada-20120609.html)
 with 32 members in 2012.
