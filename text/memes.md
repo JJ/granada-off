@@ -24,6 +24,6 @@ in several places. You can find several pictures
 [in Flickr](https://www.flickr.com/photos/cottonmouth2010/4481868029/in/photolist-7Q3KdH),
 but the main places where you find them is those in which cables are
 in a low enough position to be reached by a non-professional
-shoe-thrower, that is, narrow streets with low-hanging power lines
+shoe-tosser, that is, narrow streets with low-hanging power lines
 like those in the Magdalena neighborhood, the Realejo or even the
 Albayzín. 
