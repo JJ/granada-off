@@ -2,7 +2,7 @@
 
 Yes, there are earthquakes from time to time in Granada.
 
-What? There
+So what? There
 are big ones in Japan and San Francisco and no one refrains from going
 there to do a bit of sightseeing, right?
 
@@ -15,12 +15,13 @@ Spanish cities in Africa, than to Granada.
 
 Even so, we were awakened by a rocking bed, and we live in a first
 floor. So I can imagine people living in the 10th floor or doing so in
-Málaga, closer to the earthquake, having a rather had time. And, close
+Málaga, closer to the earthquake, having a rather hard time. And, close
 to home, I can also imagine people living
-in Fear of Missing the Earthquake, or FOMTE. It is that kind of
+in Fear of Missing the Earthquake, or FOMTE. In Granada, it is that kind of
 event. You meet your colleagues or friends the next day, and they are all, yes, wow,
 it was the couch, or the bed, or the rocking chair, rocking, or all,
-maaaan, I was sound asleep, I missed it. Fortunately, these earthquakes, they are the
+maaaan, I was sound asleep, I missed it, and from then on you live in
+fear of missing the next one. Fortunately, these earthquakes, they are the
 hashtag-producing and conversation-inducing kind, not the massive
 destruction kind.
 
