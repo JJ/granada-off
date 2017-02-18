@@ -117,7 +117,8 @@ house in the number 21 of the Buen Suceso (literally, Good Event)
 street there are three frontispieces over the first floor
 balconies. In the one in the middle, by the side of a cherub that holds a
 parchment with what looks like a circle, we see all kind of building
-symbols: a mallet, a trove, a dented wheel, a cornucopia, and, yes, what could be a
+symbols: a mallet, a trove, a dented wheel, what could be a cornucopia
+but is actually a feather, and, yes, what could be a
 compass, or a triangle, or the symbol you find in the dollar
 bills. Most of
 them
