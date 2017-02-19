@@ -1,4 +1,4 @@
-# The emerging phenomenom of the *kasbah*
+# The emerging phenomenon of the *kasbah*
 
 Walking up the Elvira street, which is kind of the boundary between
 the *real* and the *unreal* city, you might find a sign pointing to
@@ -8,8 +8,8 @@ Boiler factory street.
 
 It is undoubtedly a colorful and lively, although completely fake,
 place. Walking up the street you will find a teashop in every other
-door, and souvenirs and arab bakeries in between. By the end of the
-street people meet in the steps leading up to the top of the Albayzing
+door, and souvenirs and Arab bakeries in between. By the end of the
+street people meet in the steps leading up to the top of the Albayzín
 all kind of people smoking all kind of things, juggling and
 drinking. Also the San Gregorio cloistered convent which is open at odd hours, and
 where you can listen to the nuns chanting in special occasions. All in
@@ -21,7 +21,7 @@ spectacular graffiti and also views of the cathedral. Check out the
 pedestrian floors, created as a pebble mosaic, with all kind of
 geometric motifs. It is also [completely fake](http://www.granadahoy.com/granada/empedrado-historico-Albayzin_0_650035186.html), with a motif dating back
 to the last century, probably 1984 when the city major decided to pave
-all the streets in the Albayzin, but the patterns and texture are original,
+all the streets in the Albayzín, but the patterns and texture are original,
 created with black and white pebbles and simply nice to see for the
 same reason that they are terribly inconvenient for people that lives
 there, a curious mixture of old timers with no place else to go and
@@ -33,13 +33,13 @@ people walking down to their jobs, children with their backpack on
 wheels making a racket in the street pebbles, maybe some bakers
 opening the doors to their establishment, letting out a waft of warm
 and scented air smelling of flour and crispy bread. Although, to tell
-the truth, that is as likely as the scent of marihuana produced by
+the truth, that is as likely as the scent of marijuana produced by
 people returning at that time to their places. Anyway, it will be
 easier to see the origin of this place: halfway up the street and to
-the left, the tetería Alfaguara was actualy the origin of it all
+the left, the tetería Alfaguara was actually the origin of it all
 during the eighties.
 
-Back then, before the Albayzin was considered World Heritage, tourists
+Back then, before the Albayzín was considered World Heritage, tourists
 mostly went to the Alhambra and that was Granada for then. No
 touristic apartments, no low-cost weekend escapades, nothing like
 that. Teashops were as exotic as gastrobars and there were only a
@@ -53,9 +53,13 @@ outside the universitary geography in the eighties, it was not exactly
 popular, but you could take exotic teas and smoothies although
 everyone ordered the Pakistani, with a hint of cinnamon, since the
 rest were either too exotic or presented too many unknowns (Cardamom?
-Really?). 
+Really?). Besides being the oldest in the place, there is also more
+history behind it,
+from
+[labor conflicts](http://archivo-periodico.cnt.es/290may2003/gacetasindical/archivos/gs001.htm) to
+[employees skimming the cash register](http://www.granadahoy.com/granada/Piden-acusada-quedarse-recaudacion-teteria_0_533046953.html). 
 
-The other shops came later, and I really do not know exactly when, but
+The other shops came later, one by one and two by two, and I really do not know exactly when, but
 in the late nineties, the *kasbah* was a thing. At the same time,
 *real* tea shops started to be opened in Granada. And I am a tea
 person, so if you really want to taste flavorful, loose leaf tea, try
@@ -77,5 +81,5 @@ spicy and minty during summer.
 You should really go there for the tea. Buy a couple of bags, take a
 walk up the Calderería and then go back to your house or apartment and
 browse the pictures you have taken while you enjoy a great, warm,
-flavourful tea made with your own hands. It is what I do and, hey, you
+flavorful tea made with your own hands. It is what I do and, hey, you
 wanted to do as the locals, right?
