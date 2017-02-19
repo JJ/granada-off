@@ -60,7 +60,22 @@ from
 [employees skimming the cash register](http://www.granadahoy.com/granada/Piden-acusada-quedarse-recaudacion-teteria_0_533046953.html). 
 
 The other shops came later, one by one and two by two, and I really do not know exactly when, but
-in the late nineties, the *kasbah* was a thing. At the same time,
+in the late nineties, the *kasbah* was a thing. And a thing that is
+actually against the reality and authenticity of this area, which
+before actually hosted [some traditional gipsy boiler makers](https://hera.ugr.es/tesisugr/17566629.pdf), as well
+as orchards and even donkey mews. The introduction of foreign
+merchants and products eventually pushed these traditions away, and turned
+a part of the Albayzin that was local, gipsy and authentic into a
+imported piece of Arabiana where it is all but impossible to
+distinguish the local wares from cheap imports, although it is quite
+safe to assume that most everything is a cheap import. In which it is
+probably no different from other kasbahs, whose similarity runs to the
+point of having a mosque, the [At-Taqwa mosque](http://www.webislam.com/directorio/65084-comunidad_musulmana_de_la_mezquita_attaqwa.html), nearby, one so discrete
+that, to tell you the truth, I had never noticed. All in all an
+interesting area, actually. But not in the way you might think at
+first. 
+
+At the same time,
 *real* tea shops started to be opened in Granada. And I am a tea
 person, so if you really want to taste flavorful, loose leaf tea, try
 one of them, although my favorite is Granada Tea, which happens to be
