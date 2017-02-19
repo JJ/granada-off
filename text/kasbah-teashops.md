@@ -65,7 +65,7 @@ actually against the reality and authenticity of this area, which
 before actually hosted [some traditional gipsy boiler makers](https://hera.ugr.es/tesisugr/17566629.pdf), as well
 as orchards and even donkey mews. The introduction of foreign
 merchants and products eventually pushed these traditions away, and turned
-a part of the Albayzin that was local, gipsy and authentic into a
+a part of the Albayzín that was local, gipsy and authentic into a
 imported piece of Arabiana where it is all but impossible to
 distinguish the local wares from cheap imports, although it is quite
 safe to assume that most everything is a cheap import. In which it is
