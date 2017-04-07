@@ -113,12 +113,20 @@ sad too, he was probably dead between 1910 and 1920.
 
 There might be
 some symbols there, but it is hard to see from below. However, in this
-house in the number 23 of the Buen Suceso (literally, Good Event)
+house in the number 21 of the Buen Suceso (literally, Good Event)
 street there are three frontispieces over the first floor
-balconies. The one in the middle, by the side of a cherub that holds a
+balconies. In the one in the middle, by the side of a cherub that holds a
 parchment with what looks like a circle, we see all kind of building
-symbols: a mallet, a trove, a dented wheel, and, yes, what could be a
-compass, or a triangle, or 
+symbols: a mallet, a trove, a dented wheel, what could be a cornucopia
+but is actually a feather, and, yes, what could be a
+compass, or a triangle, or the symbol you find in the dollar
+bills. Most of
+them
+[freemason symbols](https://www.google.es/maps/@37.1749685,-3.603491,3a,15y,202.32h,131.26t/data=!3m6!1e1!3m4!1sAHViTf3RrKMa8EvPYEizJA!2e0!7i13312!8i6656!6m1!1e1?hl=es). Last
+time I was there it is being restored, so you might get a chance to
+peek inside by the time you read this (if you are close by, that
+is). Actually, the effect is kind of underwhelming, or shall we say
+discrete. But that is the whole essence of the movement, is it not?
 
 I have not been able to find other symbols anywhere else; either
 Solomonic columns, or Frigian caps, or triangles. There might be a
