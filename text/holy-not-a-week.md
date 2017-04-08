@@ -21,7 +21,30 @@ the Sacromonte and the Alhambra at night. I have never watched them,
 really, but I can imagine it. Feel free to do it, if you happen to be
 in Granada during Holy Week proper.
 
-But the thing is, well, you are in Granada some time in, say, early
+You will probably also experience *something* after Holy Week that
+stems directly from it. The mysterious screeching sound. First year I
+owned a car, that might have been the 90s or so, a boxy second-hand
+Talbot Horizon, driving around to work, I was young and unexperienced
+and did not think I should have walked, anyway, that screeching sound
+that was unlike anything I had seen before. I took it to the repair
+shop and, lo and behold, they found nothing. Except for, that is, wax
+in the tyres. Many streets in Granada, and all the main ones, are
+covered by wax pretty much in the area the car wheels turn. That
+sticks to the wheel tires and makes that screeching sound when
+turning. You can easily see it, a grayish-yellowish gunk that forms
+rows close to the sidewalk. Which reminds me of another tradition,
+which is collecting wax from candles during the processions; boys
+create a core using aluminium paper or anything that can not be easily
+melted, and put it
+[right below the candles, where the wax falls](https://www.flickr.com/photos/guervos/3991990775/in/photolist-75KZMa-4zbnw7). The
+brothers in the procession even stop to help them. That does not
+prevent *all* wax from falling to the floor, obviously. It stays there
+for a while and has to eventually be removed by the city hall, to the
+tune of 300 kilos, to avoid
+[motorbike accidents](http://www.granadadigital.es/atencion-motorista-cera-en-la-calzada/). 
+
+That wax footprint lasts for a while, but let's say you are in Granada
+some time in, for instance, early
 November and want to see what the whole thing is about. You can check
 the "home" of many of the brotherhoods. Why these figures have a
 *home* outside an official church has many origins, including the fact
