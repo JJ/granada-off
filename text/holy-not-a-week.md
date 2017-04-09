@@ -28,13 +28,13 @@ Talbot Horizon, driving around to work, I was young and unexperienced
 and did not think I should have walked, anyway, that screeching sound
 that was unlike anything I had seen before. I took it to the repair
 shop and, lo and behold, they found nothing. Except for, that is, wax
-in the tyres. Many streets in Granada, and all the main ones, are
+in the tires. Many streets in Granada, and all the main ones, are
 covered by wax pretty much in the area the car wheels turn. That
 sticks to the wheel tires and makes that screeching sound when
 turning. You can easily see it, a grayish-yellowish gunk that forms
 rows close to the sidewalk. Which reminds me of another tradition,
 which is collecting wax from candles during the processions; boys
-create a core using aluminium paper or anything that can not be easily
+create a core using tin foil or anything that can not be easily
 melted, and put it
 [right below the candles, where the wax falls](https://www.flickr.com/photos/guervos/3991990775/in/photolist-75KZMa-4zbnw7). The
 brothers in the procession even stop to help them. That does not
