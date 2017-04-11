@@ -5,6 +5,7 @@
 pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=granadaoff.css \
     -o granadaoff.epub granada.txt  text/prologue.md text/tips.md text/hopscotch.md\
     text/earthquakes.md text/off-limits.md text/water.md text/snow.md text/barranco-abogado.md\
+    text/holy-not-a-week.md \
     text/roundabouts.md text/train-station.md text/suburban-malls.md\
     text/freemasonry.md text/kasbah-teashops.md \
     text/buskers.md text/whorehouses.md  text/eccentrics-and-oddballs.md \
