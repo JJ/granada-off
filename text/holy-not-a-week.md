@@ -196,7 +196,7 @@ look-alikes. He meant that they are pretty much obliged to do so in
 front of the bleachers set in one of the main streets, which people
 pay dearly to occupy. That is the beaten track, I guess. Instead of
 sitting or staking a place in the sidewalk, which is an art by itself
-and might need a whole chapter including anthropolical studies on the
+and might need a whole chapter including anthropological studies on the
 territoriality of the families and how their territory is marked by
 sunflower seed husks, you can navigate lanes and streets and check it
 out here and there, and then go to a quiet place and enjoy some wine
