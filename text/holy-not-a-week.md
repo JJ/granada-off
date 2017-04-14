@@ -1,10 +1,12 @@
 # Holy not-a-week
 
-Most people think that the Holy Week is  named so because it takes
+Most people think that the Holy Week is named so because it takes
 pretty much the amount of days implied by the substantive *week*. Not
 so. For people involved in it, it takes the whole year, and starts
 right before the last parade of Easter Sunday has entered again the
-temple, gates closed and hoods are ironed and hanged in the closet. 
+temple, gates closed and hoods are ironed and hanged in the
+closet. And chances are you are one of those people if you spend some
+extended amount of time in Granada, willing or not. 
 
 The fact that you can experience the Holy Week any time you want, and
 also in many different places, explains why it is going to feel a
@@ -178,3 +180,45 @@ actually a cultural celebration with closer ties to the Carnival or to
 being a football fan than anything else. And if you do, just let
 yourself be carried by the crying sound of the bugles, and the
 heartbeat of the drums, a samba by any other name. 
+
+However, there is something about the Holy Week that makes it, at the
+same time, on and off the beaten track at the same time. To tell you
+the truth, although I get bored pretty quickly, a bit of checking it
+out here and there does no harm and you might even enjoy
+it. Yesterday, Holy Thursday, we were in a no-name square in the city
+center, and the chariot with Christ tied to a column stopped in front
+of us. The boss, when they were going to start again, said "Well,
+guys, do your best because there is a square full of normal people,
+and this is good enough for me." That they did, and we enjoyed the
+chariot dancing, yes, that is weird, considering the subject, to the
+tune of the religious-ish music from the Bengal lancers
+look-alikes. He meant that they are pretty much obliged to do so in
+front of the bleachers set in one of the main streets, which people
+pay dearly to occupy. That is the beaten track, I guess. Instead of
+sitting or staking a place in the sidewalk, which is an art by itself
+and might need a whole chapter including anthropolical studies on the
+territoriality of the families and how their territory is marked by
+sunflower seed husks, you can navigate lanes and streets and check it
+out here and there, and then go to a quiet place and enjoy some wine
+and tapas. 
+
+Even if you do, there are some little details in the processions that
+make them a microcosmos of Spanish culture. The presence of kids, in
+the procession and outside, with their balled-up tin foil ready to
+gather a big ball of wax, the dress and hairstyles people carry,
+giving you the chance to se what is fashionable or not this year. In
+some cases, yes, the devotion of people that spend 7 or 8 hours or
+their lives in pumps or barefoot, following a procession. The presence
+of the Army and police forces inside the procession, using sometimes
+weaponry, like
+the [Mauser M98](https://en.wikipedia.org/wiki/Gewehr_98), which can
+rarely be seen anymore outside museums and some Afghan guerrilla. 
+
+You might have to, anyway. During Holy Week, streets are diverted and
+you can listen to the bands pretty much anywhere in town. Most
+neighborhoods have their own little procession, so it might be
+difficult to avoid, even more so if you are in the city center. You
+will definitely meet one in the street if you go downtown to your
+usual watering hole. So have a small dose, check it out with a
+critical eye, and enjoy it because it is an interesting experience you
+might not be able to see anywhere else. 
