@@ -139,7 +139,8 @@ band.
 >desert, right?
 
 And don't get me started with bands dressed as Romans. There is none
-in Granada proper, but there is one in my home town, Úbeda. They are
+in Granada proper, although there are small squads dressed the Roman
+way, but there is one in my home town, Úbeda. They are
 the best of the Holy Week hands down. They watch Ben Hur (the classic
 one, obviously) and Gladiator endlessly looking for proper ways of
 dressing, proper markings, and actual Roman slash Hollywood *toques*
@@ -164,8 +165,8 @@ the trip, and they really enjoy it, moving from one band to other as
 soccer midfielders and also having a big rivalry with other bands
 which they meet, sometimes, in little towns or just because they
 happen to parade the same day. In some cases, they try to outplay the
-other band by playing so loud that that the band starts to make
-mistakes. It is all good fun with the bugles and trumpets, not so with
+other band by playing so loud that the other band starts to make
+mistakes. Which is all good fun with the bugles and trumpets, not so with
 drums when it can turn positively bloody when blisters burst. That blood,
 and also doodles with the brotherhood logo and sometimes other
 inscriptions are the decoration of some drum skins, that is, when they
@@ -193,7 +194,8 @@ and this is good enough for me." That they did, and we enjoyed the
 chariot dancing, yes, that is weird, considering the subject, to the
 tune of the religious-ish music from the Bengal lancers
 look-alikes. He meant that they are pretty much obliged to do so in
-front of the bleachers set in one of the main streets, which people
+front of the bleachers set in one of the main streets, which people,
+well, mind you, not *normal* people as above, 
 pay dearly to occupy. That is the beaten track, I guess. Instead of
 sitting or staking a place in the sidewalk, which is an art by itself
 and might need a whole chapter including anthropological studies on the
