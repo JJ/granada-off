@@ -45,7 +45,22 @@ for a while and has to eventually be removed by the city hall, to the
 tune of 300 kilos, to avoid
 [motorbike accidents](http://www.granadadigital.es/atencion-motorista-cera-en-la-calzada/). 
 
-That wax footprint lasts for a while, but let's say you are in Granada
+That wax footprint lasts for a while, as well as the *removals* or
+*traslados* of the floats from one church to another. Generally, the
+images spend the year in a church or in the brotherhood house, but the
+parades are not circular, they have to follow a particular route and
+end up somewhere else. They stay in that place for some time, but
+after Holy Week they have got to get back to their home base. Hence
+the *traslados* which at one point in time were simply a bare float
+with no flowers or anything, but now have their own ceremony and even
+the
+[local police warns about the route and stops traffic](https://www.google.com/maps/d/viewer?mid=1_cUVKYYkoVvsuAnfYPKsXYwXcyc&ll=37.17959935157143%2C-3.600744899999995&z=18). They
+could take place up to a week after the Holy Week itself, at the same
+time wax is being removed. 
+
+Holy-week related parades will then stop for some time, although there
+might be others of saints or virgins that are attended and joined
+enthusiastically by *semanasanteros*. But let's say you are in Granada
 some time in, for instance, early
 November and want to see what the whole thing is about. You can check
 the "home" of many of the brotherhoods. Why these figures have a
