@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Cambia la plantilla de latex al directorio donde esté
+
+pandoc --template=/home/jmerelo/Libros/curso-git/utils/plantilla.latex \
+    -V language=spanish -V lang=spanish \
+    -V author='JJ Merelo' -V title='Granada on'\
+    -V documentclass=book\
+    -S --latex-engine=xelatex  \
+    -o aprendegit.pdf  \
+    prologo.md  introduccion.md  uso_basico.md \
+    solucion_problemas.md mas_usos.md \
+    github.md          ganchos.md --toc
+
+
+
