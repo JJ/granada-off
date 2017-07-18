@@ -10,4 +10,5 @@ granada-on/
 Imágenes candidatas/
 
 *~
-*.temp
+*temp
+*epub
