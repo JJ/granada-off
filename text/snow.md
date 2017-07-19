@@ -1,4 +1,4 @@
-#Let it snow
+# Let it snow
 
 For the average Joe-living-in-Granada, snow is something that happens
 up there, in the mountains. You go there from time to time, maybe once
@@ -16,8 +16,8 @@ morning temperatures dropping below zero you always look for the snow
 level. Granada sits at around 700 meters, 680 meters, in fact, so when
 rain and below zero, there you have it, snow in Granada. Those are two
 different things,
-however. [Granada is one of the provincial capitals in Spain with least rain, 400 mms/year](http://javiersevillano.es/PrecipitacionMediaAnual.htm#provincia)
-and then, see above re: temperature span, and even if it rains, it has
+however. [Granada is one of the provincial capitals in Spain with the lowest rainfall, 400 mms/year](http://javiersevillano.es/PrecipitacionMediaAnual.htm#provincia)
+and then, see above re: temperature variation span, and even if it rains, it has
 to do so in the dead of night or at dawn to meet the low temperatures
 that produce snow.
 
@@ -131,8 +131,8 @@ even be lucky and spot
 when you see a car you like, anywhere, know that it is very likely
 that it was tested here, in Granada. 
 
-I hope that these curious car spottings are not lost, but the sight of
-snow in the streets of Granada is impossible to know how much it will last. Nowadays it
+I hope that these curious car spottings are not lost, but it is impossible to know how much but the sight of
+snow in the streets of Granada will last. Nowadays it
 is something that happens rarely. Once every few years. It happened
 the day before I wrote this, there are some spots the day I am
 correcting it, and will probably not happen for a few more years. But when
@@ -140,13 +140,8 @@ it does  it is all look at that roof with snow, loot at that car with
 snow, oh, it is stopped snowing, see you in half a dozen years. 
 
 Anyway, when it happens, there are many ways of enjoying the snow
-which you can only do in Granada: 
-
-* Walk up the slippery slopes in the Albayzín and fall down one, or several, times.
-* A few days after, when snow melts, realize there is an actual river going through Granada and
-  that it was not a parking lot with a somewhat big puddle. 
-* Take pictures of the Alhambra, which is red, with a bit of pink of top.
-* Walk around the place in your snow attire that you could show off only when you
+which you can only do in Granada: Walk up the slippery slopes in the Albayzín and fall down one, or several, times; a few days after, when snow melts, realize there is an actual river going through Granada and
+  that it was not a parking lot with a somewhat big puddle, take pictures of the Alhambra, which is red, with a bit of pink of top, walk around the place in your snow attire that you could show off only when you
   took your kid to meet the snow a few years prior.
 
 By the time you read this, there might not be any glaciers in Sierra
