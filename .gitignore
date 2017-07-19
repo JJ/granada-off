@@ -1,5 +1,4 @@
-*~
-node_modules/
+_modules/
 *.doc
 *.epub
 *.pdf
@@ -12,3 +11,4 @@ Imágenes candidatas/
 *~
 *temp
 *epub
+*pdf
