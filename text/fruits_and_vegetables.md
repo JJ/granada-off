@@ -1,16 +1,24 @@
-#Granada, the orchard
+# Granada, the orchard
 
 One of the things that will draw your attention in Granada is the
 profusion of green matter in the streets. There are not only big boulevards
-or avenues lined with trees, you can also see them in the Albayzín from above in Google
+or avenues lined with trees, you can also see them in the Albayzín if
+you watch it from above using Google
 maps and also in smallish, single-lane, streets. They grow on the
-gardens of the cármenes and by the swimming pools of the condos. They
+gardens of the cármenes and by the swimming pools of the suburbial condos. They
 are, simply put, everywhere.
 
-But not only they are an ornament or help us breathe. They also bear many kind of fruits, drawing the attention of the person taking the
-promenade, by color or by abundance. One of them is the orange. When
+But they are not only an ornament or are there help us breathe, which
+in fact they do. They also bear many kind of fruits, drawing the attention of the person taking the
+promenade, by color or by abundance, mainly during the time that
+happens, spring or autumn, when otherwise plain trees all of a sudden
+appear to be something else, a promise of abundance with their
+branches laden with golden orbs, right there for you to watch, maybe
+pick up. 
+
+And there are all kinds of them. One of fruits you will notice right away is the orange. When
 the time is appropriate, which is usually in fall and winter, you will
-start to see trees in the streets chock-full with orange-colored
+start to see trees in the streets chock-full with orange-colored tennis-sized
 balls, and in a few weeks, smashed fruits in the sidewalk and boys
 throwing them at each other, like sweet and sour rocks.
 
