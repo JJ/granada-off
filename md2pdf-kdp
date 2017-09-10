@@ -7,8 +7,7 @@ file_argument=''
 for file in $files; do
     file_argument="$file_argument text/$file"
 done
-echo $file_argument
-pandoc --verbose --template=plantilla.latex \
+pandoc --verbose --template="$PWD"/template.latex \
      -V language=english -V lang=english \
      -V author='JJ Merelo' -V title='Granada on'\
      -V documentclass=book\
