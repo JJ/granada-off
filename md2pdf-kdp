@@ -5,14 +5,16 @@
 files=`cat files`
 file_argument=''
 for file in $files; do
-    file_argument="$file_argument text/$file"
+    file_argument="$file_argument text/$file-links.md"
 done
+../../perl6em/utils/expand-urls.p6 text data/urls-with-short.json
 pandoc --verbose --template="$PWD"/template.latex \
      -V language=english -V lang=english \
      -V author='JJ Merelo' -V title='Granada on'\
      -V documentclass=book\
      -S --latex-engine=xelatex  \
      -o granadaon.pdf $file_argument coda.txt --toc
+rm text/*-links.md
 
 
 
