@@ -1,6 +1,13 @@
-# The (nearly abandoned) train station and other tracks of the past
+# Tracks of the past
 
-If you are in Granada, it is as likely that you arrived by train as by cruise ship. Unless you happened to be in Seville and had a lot of time in your hands plus a real love for trains, it is quite unlikely that you took that mean of transport to enter Granada. In fact, even if you did, and you did it in the last few months, you would have arrived at the train station via coach from Antequera, since the works preparing it for the AVE, the high speed train, have had it closed for the last few months of 2015.
+If you are in Granada, it is as likely that you arrived by train as by
+cruise ship. Unless you happened to be in Seville and had a lot of
+time in your hands plus a real love for trains, it is quite unlikely
+that you took that mean of transport to enter Granada. In fact, even
+if you did, and you did it in the last few months, you would have
+arrived at the train station via coach from Antequera, since the works
+preparing it for the AVE, the high speed train, have had it closed for
+the last few months of 2015. 
 
 > Despite what Paul Theroux said in The Pillars of Hercules, there is not, and has not been as far as I have been able to find out, any direct train between Málaga and Granada. 
 

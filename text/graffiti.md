@@ -1,8 +1,9 @@
-#The graffiti pneumonia and the street art flu
+# The graffiti pneumonia 
 
 One traveler once wrote about Granada: "It has a massive graffiti
 problem". And it is probably true that you cannot walk a few steps without
-finding one way of street art or another in Granada. Street art is not
+finding one way of street art or another in Granada; Granada does have
+the graffiti pneumonia and the street art flu. Is that a bad thing? Street art is not
 concentrated in a few blocks, or even a neighborhood. It is all over
 the place, it is evident and, well, it is in occasions a nuisance, so
 that is what the anonymous traveler called a *problem*.  But
@@ -143,7 +144,7 @@ about this area: many graffiti writers cannot be found anywhere else
 in the city, or maybe in the world. Or, if you find them, they will
 have evolved to something different, probably better.
 
-Jump back again into the SN3 and follow it back to almost the other
+Jump back again into the SN3 and follow it through to almost the other
 end of its trip, to the Carretera de la Sierra. This street, which we
 mentioned in the chapter that talks about water because it was the way
 water merchants took from the Sierra, is visited by tourists only when

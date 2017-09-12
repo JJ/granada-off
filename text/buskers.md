@@ -1,4 +1,8 @@
-# Buskers, street performers, mimes, flashmobs and other stuff mainly happening outdoors
+# Buskers and street performers
+
+Let's talk about buskers, street performers, mimes, flashmobs and
+other stuff mainly happening outdoors, as in out there, in streets,
+alleys and town plazas. 
 
 You might or might not find them, or by the time you read this maybe
 they have moved to some place sunnier and where their art is better

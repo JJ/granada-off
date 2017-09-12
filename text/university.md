@@ -1,4 +1,4 @@
-#The best university in Granada
+# The best university
 
 >There is only one university in Granada. So that thing above is a joke. Laughs accepted; in fact, they are compulsory. Thanks.
 

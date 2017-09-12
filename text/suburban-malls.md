@@ -1,4 +1,4 @@
-#Malls, suburban and otherwise
+# Malls, suburban or not
 
 Before there were even malls, there were *passages*, covered alleys filled with shops of many kinds. There were quite a few of them in Granada, and I used to visit them to buy, for instance, model planes or just to check out the immense variety of model trains and ships and wonderful stuff I might build, which I sometimes did, and hanged on the ceiling, and they woke me up once crashing down to the floor to become a pile of plastic pieces. All shops in that passage [closed in 2013](http://granadaimedia.com/la-decadencia-de-la-galeria-de-ganivet/), shuttering the last vestige of those galleries in Granada. 
 

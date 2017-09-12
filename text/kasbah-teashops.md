@@ -1,4 +1,4 @@
-# The emerging phenomenon of the *kasbah*
+# The *old* *kasbah*
 
 Walking up the Elvira street, which is kind of the boundary between
 the *real* and the *unreal* city, you might find a sign pointing to

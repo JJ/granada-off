@@ -5,7 +5,13 @@ Granada Off (and sometimes on) the Beaten Track, a set of experiences you should
 
 ## Why
 
-When I started this book, I had been living in Granada for thirty years. Every day I walk to my day job or walk about to vent off I try to follow a new path or double a corner to a street I have never been before, I find new graffiti, a derelict house that is derelicter or a statue that very few people have seen and even less care about. And I have always thought, one day I will have to write about this, and do it in English, just because.
+When I started this book, I had been living in Granada for thirty
+years. Every day I walk to my day job or walk about to vent off I try
+to follow a new path or double a corner to a street I have never been
+before, I find new graffiti, a derelict house that is derelicter or a
+statue that very few people have seen and even less care about. And I
+have always thought, one day I will have to write about this, and do
+it in English, just because. 
 
 ## The title
 
@@ -156,7 +162,9 @@ autographed, so by all means do it you so wish!
 ## Share your thoughts
 
 Use \#granadaon in Twitter or share your thoughts and pictures in the
-Facebook page https://www.facebook.com/granada.on/. I would be
+Facebook page:
+https://www.facebook.com/granada.on/. 
+I would be
 grateful too if you took the time to review it in Amazon. Good or bad
 reviews, all of them help if they are heartfelt and true. My twitter
 feed is at http://twitter.com/jjmerelo and I write from time to time
@@ -164,8 +172,6 @@ in Medium, http://medium.com/@jjmerelo. Any of them will feature stuff
 in English and Spanish, and sometimes other languages if the picture
 is nice. 
 
-The website http://granada.re is also on as of this edition. Check it
-out for infrequent updates.
 
 ## Enjoy
 
