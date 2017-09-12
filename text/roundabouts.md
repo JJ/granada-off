@@ -1,4 +1,4 @@
-# The art of the roundabouts.
+# The art of the roundabouts
 
 A roundabout is a convenient way of distributing traffic among three
 or more roads, right? Wrong. In Spain, roundabouts have been elevated
@@ -14,7 +14,9 @@ will give a job to my cousin, a hard working guy, but unfortunately
 unemployed. And five or six other assorted citizens of this talented
 and hard-working town.
 
-You say roundabout, I say [pork barrel](http://www.cuatro.com/noticias/espana/rotondas-corrupcion-derroche-arquitectos-Nacion_Rotonda_2_1970880081.html). Roundabouts have reached such
+You say roundabout.
+
+I say [pork barrel](http://www.cuatro.com/noticias/espana/rotondas-corrupcion-derroche-arquitectos-Nacion_Rotonda_2_1970880081.html). Roundabouts have reached such
 proportions that some newspapers are looking for the
 [ten ugliest roundabouts in Spain](http://blogs.publico.es/strambotic/2014/04/rotondismo/),
 and it was hard work, there is even a full

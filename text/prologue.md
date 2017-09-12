@@ -163,7 +163,9 @@ autographed, so by all means do it you so wish!
 
 Use \#granadaon in Twitter or share your thoughts and pictures in the
 Facebook page:
-https://www.facebook.com/granada.on/. 
+
+https://www.facebook.com/granada.on/
+
 I would be
 grateful too if you took the time to review it in Amazon. Good or bad
 reviews, all of them help if they are heartfelt and true. My twitter

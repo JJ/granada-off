@@ -1,4 +1,4 @@
-# Freemasonry and other secrets
+# Freemasonry
 
 For those *in the know*, Granada itself is a symbol of freemasonry. Its
 main symbol is a pomegranate, *granada* in Spanish, a fruit that can

@@ -1,4 +1,4 @@
-# Buskers and street performers
+# Buskers 
 
 Let's talk about buskers, street performers, mimes, flashmobs and
 other stuff mainly happening outdoors, as in out there, in streets,
