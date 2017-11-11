@@ -190,9 +190,10 @@ the basement of some college. Or sold in pieces in eBay.
 Once you check out the vault, you can ride the bus from the cemetery to the city, or just walk
 downhill, proceeding to the popularly named "Rotonda del Helicóptero", or "Helicopter roundabout", which you cannot miss since there is a helicopter there, set up on a rotating axis that makes it look this and that way, depending on wind and ground vibration. It is placed on the way to the [Armilla air base, wing 78 of the Spanish Air Force](http://www.ejercitodelaire.mde.es/ea/pag?idDoc=D7BBF2E4EBCB7EE6C12570DD00429F4B&idRef=1C4723CC4E4142DCC125745900266B6D), precisely the wing that flew it until not so long ago, well into this millenium. This is mainly a training wing but also houses the [patrulla ASPA](http://patrullaaspa.defensa.gob.es/es/index.html), a helicopter aerobatics team that features the new Eurocopter, one of just half a dozen in the world. However, there are only a few scheduled acts if you want to watch them. 
 
->I remember to spend the time of boring classes during the 80s
+>I remember spending the time of boring classes of the Physics degree
+>I was pursuing, during the 80s,
 >watching the Bucker 131 biplanes sputtering in the sky, in front of
->the Facultad de Ciencias. They were true relics of the 20s, and
+>the Facultad de Ciencias. They were true relics of the 20s, and also
 >probably the ones that were used to get trained by current fighter pilots
 >in the Spanish Air Force (SpAF).
 
@@ -218,7 +219,7 @@ dashes.
 
 >More about roundabouts in its very own chapter.
 
-If you continue in the direction of the Avenida de América, that is
+If you continue in the direction of the Avenida de América, that is,
 right if you come from Parque de las Ciencias, and go past the
 exit of the underground tunnel, where, who knows, you might even see a
 train coming or going, go past the nano-Manhattan by the end of that
@@ -250,7 +251,7 @@ you cannot miss if you are into big steam machines, or into steampunk.
 
 Despite its name, which might or might not be due to a bomb falling
 there in the civil war or maybe to the fact that there was a big pump
-for the *Acequia Gorda*, or big irrigation ditch or maybe to the
+for the *Acequia Gorda*, or big irrigation ditch, or maybe to the
 [fountain at the beginning which does not look at all like a bomb](http://1000-reinogranada.blogspot.com.es/2012/05/fuente-de-los-cuatro-leones.html)
 or another that looks like a maritime mine;
 *bomba* means either *bomb* or *pump* in Spanish, and the big machine
@@ -270,8 +271,8 @@ scary-looking machines in Andalucía.
 >uphill, the street just in front is the Cuesta del Molino, and houses
 >a small museum devoted to Ángel Ganivet, whom we met for the first
 >time above as a student of the Padre Suárez high school. The museum
->is in its former house and mill, and there is a millstone right
->there, embedded in the in the wall, as a souvenir.
+>is in its former house and mill, and there are a couple of millstones right
+>there, embedded in the wall, as a souvenir.
 > But the
 >geeky highlight is right to the left hand side of that street: an alley called
 >"Ingeniero Ricardo de la Cierva", or Ricardo de la Cierva,
@@ -279,7 +280,7 @@ scary-looking machines in Andalucía.
 >engineer called Ricardo de la Cierva. There were two Ricardos de la
 >Cierva: one politician, killed by the republicans in the civil war,
 >and one writer, mainly about history, and mainly attacking the
->republicans and pro-Franco. There were two Juanes de la Cierva,
+>republicans and pro-Franco. There were a few Juanes de la Cierva,
 >however. The first
 >[one, Juan de la Cierva y Codorniú, *was* an engineer, brother of Ricardo, and discoverer of the autogyre](https://en.wikipedia.org/wiki/Juan_de_la_Cierva). [Second one, Juan de la Cierva y Peñafiel](https://en.wikipedia.org/wiki/Juan_de_la_Cierva_y_Pe%C3%B1afiel)
 >father of the first Ricardo, was another politician. And there is
@@ -294,17 +295,19 @@ scary-looking machines in Andalucía.
 >this does not belong to Granada, but it is geek and cool and Spanish,
 >so please admit the detour. Besides, my campaign in Twitter to
 >acknowledge the error in the name of the street might have succeeded
->by the time you read this, so it might have his name or the one of a
+>by the time you read this, so it might have that name or the one of a
 >pop singer, who knows. If
 >[my change.org petition succeeds](https://www.change.org/p/ayuntamiento-de-granada-llamar-arquitecto-juan-montserrat-verg%C3%A9s-a-la-calle-ingeniero-ricardo-de-la-cierva),
 >it will have the name of Juan Montserrat Vergés, whom we mention in
 >the chapter on freemasonry, and maybe on the one on modernist
 >Granada, if I get to write it eventually.
 >An *update* on this after the first edition: the bug in the name of
->the street was found and it is going to be fixed. Maybe it will
+>the street was found and it is going to be fixed, but it has not by
+>the time I write this in fall 2017. Maybe it will
 >create another but at another level, because the initial intention
 >[when the street was named in 1996 was to name it Ingeniero Juan de la Cierva](http://granadablogs.com/cableados/2016/01/10/tienes-mas-calles-que-de-la-cierva-en-granada/). So
->it is worth the while to check this street out just to see the end of this.
+>it is worth the while to check this street out just to see the end of
+>this or the persistence of the bug.
 
 This machine, along with the modernist mansions in the city center and
 the Gran Vía, are testimony of that era
