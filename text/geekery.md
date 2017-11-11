@@ -652,7 +652,7 @@ being very jealous of security so as not to get your credentials
 stolen. It is rather safer now, with ubiquitous WiFi, although I would
 not put all my trust in an open network. 
 
-If you are not able to spot any Internet café, then, just look for
+If you are not able to spot any Internet café, then, just seek
 your inner geek and grab your smartphone. Or maybe try one of the
 comic bookstores. Actually, one of the most venerable in Granada,
 Flash, is not so far away, by the end of San Antón street and actually
@@ -677,10 +677,26 @@ friends or maybe enemies, if you happen to like exactly the opposite
 of what passes as mainstream in the shop, usually American superhero
 stuff. 
 
-Flash is closed on Saturday afternoons, but [Draco](http://www.libreriadraco.com/), the center of the local role playing games community, is not. Actually, there is kind of a gaming triangle that extends down to the end of the Alhamar street, where another shop, [Shazam](http://m.forocoches.com/foro/showthread.php?t=3535022), used to be and if you allow a triangle to have another vertex, Dune used to be a few meters down Pedro Antonio. It is no longer there, and the options for gamers and comicateers have been greatly diminished, although they are well served, and probably will be for many years, with just [Flash](http://www.libreriaflash.com/).
+Flash is closed on Saturday afternoons,
+but [Draco](http://www.libreriadraco.com/), the center of the local
+role playing games community, is not. Actually, there is kind of a
+gaming triangle that extends down to the end of the Alhamar street,
+where another
+shop, [Shazam](http://m.forocoches.com/foro/showthread.php?t=3535022),
+used to be and if you allow a triangle to have another vertex, Dune
+used to be a few meters down Pedro Antonio. It is no longer there, and
+the options for gamers and comicateers have been greatly diminished,
+although they are well served, and probably will be for many years,
+if only [Flash](http://www.libreriaflash.com/). 
 
 Or, if that fails, by any one of the many comic, anime and RPG-related
-events that take place almost monthly in Granada. There is a single
+events that take place almost monthly in Granada, and which apparently
+have made
+it
+[the city of comic books](http://www.emagine.uk.net/GP_EXPO/Pageturner/Pageturner.lasso?REF=91RON1717) (move
+on to page 60, and it is in Flash, you might have to go through hoops
+to visit that page),
+according to the national airline in-flight magazine. There is a single
 ComiCon, but Granada boasts
 [el Salón del Cómic](http://saloncomicgranada.com/),
 [Japan Weekend](http://www.japanweekend.com/granada/),
@@ -698,7 +714,7 @@ the local indie game creation scene.
 >chance, as I did, to meet and greet comic creators and talk for a
 >while with them, even if you had not heard about them before.
 
-Not too far from the last comic shop, there is a place devoted to
+Not too far from the last comic shop mentioned, Flash, there is a place devoted to
 [Emilio Herrera](https://en.wikipedia.org/wiki/Emilio_Herrera_Linares),
 maybe our closest equivalent to Tesla. His short Wikipedia article is
 unable to contain all the things he did in his life, but suffice it to
@@ -708,7 +724,7 @@ he was president of the government of the republic, in exile, between
 1960 and 1962.
 
 >And he was probably a freemason too. In an era where that kind of
->thing could land you in jail and maybe dead, and your estate
+>thing could land you in jail and maybe kill you, and have your estate
 >confiscated, he apparently preferred to keep it secret. In fact, I
 >have not been able to find a reference to this anywhere, quite the
 >opposite, saying that he was a loyal Catholic and supporter of the
@@ -717,19 +733,27 @@ he was president of the government of the republic, in exile, between
 >in a particular military academy where many freemasons
 >studied. Federico García Lorca, a great Granadino, said that in
 >Granada one plus one is never two, it is one plus one. So Catholic
->and Republican, no contradiction here. 
+>and freemason, monarchic and president of the republic, no contradiction here. 
 
 His résumé is so incredible that you really have to read it through to
 believe it. Cosmology. Computing. Politics. Aeronautics. Optics. He helped
-Juan de la Cierva create his autogyre. He has a square in Granada and
+Juan de la Cierva create his autogyre. The above mentioned square in Granada and
 a little monolith with his resemblance, but you should visit his tomb
 in the graveyard, a chrome sphere with an embedded cross, and many of
 his merits inscribed on a stone plaque below it. It is really a
 monument that takes the graveyard into this century. 
 
-You can also be a hardcore geek of the kind that develops stuff and post it for everyone on [GitHub](http://github.com). If that is the case and you never leave your laptop at home, I have just created [Granada Geek](http://www.meetup.com/es/Granada-Geek/) in MeetUp, so that all groups, entrepreneurs, hacktivists, free software developers, and anyone, can create events for all to see. If it is not there it is probably not happening, but we expect to have something going on every week. 
+You can also be a hardcore geek of the kind that develops stuff and
+posts it for everyone to use and continue developing on [GitHub](http://github.com). If that is the
+case and you never leave your laptop at home, I created in 2015
+[Granada Geek](http://www.meetup.com/es/Granada-Geek/) in
+MeetUp, so that all groups, entrepreneurs, hacktivists, free software
+developers, and anyone, can create events for all to see and participate. If it is not
+there it is probably not happening, but we expect to have something
+going on every week.
 
-You can stop reading this now and start to browse your Blacksad. When you are done,
+You can stop reading this now and start to browse your Blacksad,
+bought at the Flash bookstore. When you are done,
 continue right here, there is so much more in Granada on and off the beaten
 track. 
 
@@ -759,7 +783,7 @@ in 1891.
 >Translate for the world to know, so that other guy did it all over
 >again. Third one generalized it to more dimensions. But the Alhambra
 >is only three-dimensional in space, so we will not pay attention to
->the later.
+>the latter.
 
 Well, it so happens that
 [the Alhambra is the only historical site, prior to Fedorov's theorem, that includes the 17 groups](http://www.ralph-abraham.org/articles/MS%23145.Alhambra/ms145.pdf). Is
@@ -773,8 +797,8 @@ patterns, or take some drawings home for reference.
 
 Which is exactly what
 [Maurits Cornelius Escher did, and did it twice](http://euler.slu.edu/escher/index.php/The_Alhambra_and_The_Alcazar_%28Spain%29). He
-visited the Alhambra twice: once in 1926 or 27, and the second time in
-1936, three months before the Spanish Civil war. In fact, he had
+visited the Alhambra in two occasions: once in 1926 or 27, and the second time in
+1936, three months before the Spanish Civil war started. In fact, he had
 created tessellations, which are tilings of the surface, somewhat
 before that, in the early 20s, but, after his second visit, where he
 took detailed notes, he started to create his amazing "Metamorphoses",
@@ -796,7 +820,7 @@ as a succession of short scenes that include fishes swimming in a fountain, refl
 and, at one time, a plane flying overhead. You can see a bit of David
 Lynch there, only 60 years prior to Twin Peaks. At
 the time, Valdelomar was involved with the "Pedagogic missions",
-itinerant workshops and shows created by the Republican Government; he
+itinerant workshops and shows created by the Republican government; he
 was introduced to them by Federico García Lorca.
 
 However, his geekery stems on his work on the machinery of the
@@ -815,15 +839,15 @@ regime. His work was discovered only after his death, with
 [exhibitions in the national art museum](http://www.museoreinasofia.es/actividades/archipielago-val-omar)
 and [release of his work](https://vimeo.com/josevaldelomar) which, of
 course, can be enjoyed much better with the full sensory experience he
-favored. Although he went on to live in Madrid, he returns to Granada
+favored. Although he went on to live in Madrid, he returned to Granada
 often and can be seen in
 [these candid domestic videos](https://vimeo.com/40709352). That is
-why you will not be able to see much of him, unless there is
+why you will not be able to see much of him here, unless there is
 [an exhibition](http://granadaocio.es/event/exposicion-val-del-omar-111-111-aniversario-del-nacimiento-en-granada/). There
 is a Val del Omar room in the Parque de las Ciencias, and there is a
 [Val del Omar prize for experimental cinema ](http://www.filmfest-granada.com/blog/el-xxi-festival-internacional-de-jovenes-realizadores-de-granada-anuncia-parte-de-su-palmares/9-meter-ganador-premio-val-del-omar)
 at the Young Cinematographers Festival in Granada. So let him live in
-your memory, or remember him when you watch Star Wars with surround
+your memory, or remember him when you watch Star Wars in a movie theater with surround
 sound. 
 
 
