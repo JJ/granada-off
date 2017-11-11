@@ -58,7 +58,7 @@ least if you look from the bottom; in fact, it blends pretty well with
 the rest of the hill, or that maybe the overhanging balcony exceeds
 the habitability rates or some other public regulation might have
 something to do with it. The fact is that it has not decayed because
-it is actually a great structure, concrete and Korten iron plaques, great
+it is actually a great structure, concrete and COR-TEN iron plaques, great
 insulation, or maybe because it is being actively kept until the
 administrative logjam clears off. When it does, I can imagine it being
 occupied by an old glory, silver in his temples, that wakes up early
