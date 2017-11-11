@@ -584,24 +584,26 @@ credit rating agencies in Spain.
 Once again, not much to see there. You will have to ask for an
 appointment and then probably a commercial person will give you the
 company spiel. If you peek into the building, you will see lots of
-desks with computers and people busy with it. They have an interesting
+desks with computers and people busy with them. They have an interesting
 data center and also very exciting credit prediction technology. 
 
->And I know this because we were the origin of that technology through a contract between them and our university.
+>And I know this because we were the origin of that technology through
+>a contract between them and our university, which I participated in. 
 
-But algorithms do not a high visual impact, although they have
+But algorithms do not have a high visual impact, although they have
 all kind of other impacts when your company is the target of the
 prediction. Maybe the best is to be in one of the cafés around it at
 coffee time, around 10-11 AM, and listen to their geek conversation or
 just watch their demeanor, which is probably similar to every other
 tech company in the world except for the fact that they go outside to
 have a coffee. Try to make out who are the executives, who are the
-commercial, who man customer supports, and who is in the basement
+commercial, which ones of them man customer support, and who is in the basement
 manhandling the computers that make everything work or programming
 them. 
 
 And, while you are at it, you might see the signs for one such "Spiral
-startups", in another glass building, right by its side. You might
+startups", in another glass building, right by its side, in fact, on
+top of one of the cafeterias. You might
 even be able to watch it from outside the shuttered spaces, because it
 closed a while ago, signaling the onset of the bursting of the
 coworking bubble in
@@ -611,12 +613,18 @@ spaces in Granada. If you are not familiar with the concept, a
 coworking office is just an open space that provides a desk area,
 connectivity and amenities to freelancers and startup
 companies. During the Crisis, they were a convenient and cheap
-alternative to either staying at your parents, renting real office
+alternative to either staying at home with your parents or renting real office
 space or crashing at a café. For less than 50€ a month, you could have
 your very own office to receive customers and interact with fellow
 entrepreneurs.  
 
-Only maybe it became too much of a good thing. At the height of the phenomenon, there were more coworking spaces in Granada than in any other city in Spain, proving again that, when it comes to geekery, Granada rocks. After closing Spiral, other coworking spaces, like Cocorocó, also shut down, and then smaller ones. The only thriving space right now seems to be [ErranT](http://www.errant.es/), which you are welcome to visit by itself or joining one of the many activities that take place there. 
+Only maybe it became too much of a good thing. At the height of the
+phenomenon, there were more coworking spaces in Granada than in any
+other city in Spain, proving again that, when it comes to geekery,
+Granada rocks. After closing Spiral, other coworking spaces, like
+Cocorocó, also shut down, and then smaller ones. The only thriving
+space right now seems to be [ErranT](http://www.errant.es/), which you
+are welcome to visit by itself or by joining one of the many activities that take place there. 
 It is actually very close to one of the biggest cibercafés that
 existed also in Granada in the late 90s and early aughts,
 [Red Isis](http://www.exploregranada.com/internet.htm). It is now
@@ -624,18 +632,20 @@ closed, as the
 [rest of the public-access computer shops](http://www.andalucia.com/internet/cybercafes/granada.htm),
 of which there were quite a few in Granada. I have rarely been in such
 a kind of place in Granada, since the University provided us with
-Internet access at home since early one. However, there was one in
+Internet access at home since early on. However, there was one in
 every corner at the beginning of the century, before ADSL became
 affordable; it even resisted half a dozen of years, until now that we
-have Internet in our hand through our smartphones. 
+have Internet in our hands through our smartphones. 
 
 There might be still one open, plying mainly to migrants who use it
-mainly to call home, a set of customers that is very different of the teens that crowded it back them to maim and kill through Unreal Tournament or other wargames.
+to call home, a set of customers that is very different of the teens
+that crowded it back then to maim and kill through Unreal Tournament
+or other wargames. 
 
 Still, local cibercafés had something authentic in them and were as
 much a showcase for local living culture as pubs or cemeteries, these
 later for living as well as dead culture, of course. The games played,
-the size and age of groups, the peek hours, were something to
+the size and age of groups, the peak hours, were something to
 observe. I have been in cibercafés all over the world, and they are
 also a way of getting acquainted with the local keyboards, as well of
 being very jealous of security so as not to get your credentials
