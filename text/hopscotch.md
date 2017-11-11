@@ -1,12 +1,12 @@
-#Hopscotch this book
+# Hopscotch this book
 
-##Or, how to read it your own way.
+## Or, how to read it your own way.
 
-There is no particular order in this book. Nothing is more or less
-important, nothing should be done before or after everything else. But
-a book is a sequential thing, so there is no other way out that put
+The chapters in this book do not have any particular order. None of them is more or less
+important, none should be done before or after everything else. But
+written word is a sequential thing, so there is no other way out that putting
 this chapter before the following one, and that one before the
-next. But this has been done in a rather haphazard way.
+next. But this has been done by the author in a rather haphazard way.
 
 >Talking about hazards, and since you are asking, no, there is no reason why the first chapter is about earthquakes, as
 >in keep away from here for your safety or visit this before a huge
