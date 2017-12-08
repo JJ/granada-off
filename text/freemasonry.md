@@ -48,7 +48,7 @@ Nueva. Besides an advocation to Mithra, "Deo Soli Invicto Mithre", to
 the unbeaten sun-god Mithra, and a representation of him fighting
 against a
 [lion, a symbol of a masonic candidate](http://ezinearticles.com/?Masonic-Symbolism-Book---Grip-Of-The-Lions-Paw&id=4871957),
-the symbols painted at the left hand side of the wall are quite clear:
+the symbols painted at the left hand side of the wall are quite apparent:
 an old sage holds an armillary sphere in one hand, a symbol of
 knowledge, and a compass in the other hand. This compass hovers over a
 parchment with a triangle, the masonic symbol for the all-seeing
@@ -57,15 +57,15 @@ pomegranate-in-the-cornerstone, we might have some doubt on whether
 this is actually related to freemasons at all, it is well known the
 masonic affiliation of the owner of the house, Nicolás Fajardo, and in fact,
 [the application for initiation in the Reforma nr. 75 Lodge](http://hemerotecadigital.bne.es/pdf.raw?query=parent%3A0003374779+type%3Apress%2Fpage&name=Bolet%C3%ADn+oficial+del+Gran+Oriente+Espa%C3%B1ol.+1-1-1890)
-is published in the bulletin number 13, dated January the
+is published in the bulletin number 13 of the Grande Oriente, dated January the
 first, 1890. This lodge was apparently
-[expensive](https://books.google.es/books?id=jufWVxJrcqcC&pg=PA124&lpg=PA124&dq=logia+reforma+75&source=bl&ots=yleW56cyaI&sig=m0VMGJXnDubIvU_VprJVRERw_2c&hl=es&sa=X&ved=0ahUKEwjwvJeb75TKAhXG1RoKHc_dBesQ6AEIIDAA#v=onepage&q=logia%20reforma%2075&f=false)
+[an expensive one](https://books.google.es/books?id=jufWVxJrcqcC&pg=PA124&lpg=PA124&dq=logia+reforma+75&source=bl&ots=yleW56cyaI&sig=m0VMGJXnDubIvU_VprJVRERw_2c&hl=es&sa=X&ved=0ahUKEwjwvJeb75TKAhXG1RoKHc_dBesQ6AEIIDAA#v=onepage&q=logia%20reforma%2075&f=false)
 and thus reserved to persons of a certain economic level, which might
-or not explain why this
+or might not explain why this
 [lodge was one of the first to ask for admission of women, even a few years before that](http://gredos.usal.es/jspui/bitstream/10366/80189/1/La_integracion_de_las_mujeres_en_la_maso.pdf). That
 lodge also included
 [Anselmo Arenas](http://www.aache.com/alcarrians/arenas_lopez.htm), a
-geography professor at the university of Granada whose teaching were
+ professor of Geography at the university of Granada whose teaching were
 suppressed because they clashed with the catholic doctrine. So all was
 not good and well for the heterodoxy, and freemasons had good reasons to hide, or at
 least not be extremely open about their ideas. Although the house is
@@ -82,10 +82,10 @@ fresco, which would have been nice, since popular tradition said that
 the representation of the Eternal Father was looking at a place where
 a treasure was buried.
 
->It is now looking at the crowds that break open to let the touristic
->train pass. So, in this case the beaten track is just a metaphor for
+>The Eternal Father is now looking at the crowds that break open to let the touristic
+>train pass. Which means that in this case veering off beaten track is just a metaphor for
 >looking at different things, or the same things in a different way,
->because that particular has track has been beat to exhaustion.
+>because that particular  track has been beat to exhaustion.
 
 This means that the only way to contemplate them is to look at the
 copy. Copy and paste saves the day, for once.
@@ -107,15 +107,14 @@ which forms the the South-West corner of the Gran Vía. This poor chap
 has a file 
 [in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
 but it is unlikely that anything was done to him, since he was
-probably dead. Although the date of his death is unknown, and that is
-sad too, he was probably dead between 1910 and 1920.
+dead since 1909. 
 
 
-There might be
-some symbols there, but it is hard to see from below. However, in this
+There might be some symbols in that hotel or in the Hotel Victoria,
+which is still a hotel and was also designed by him, but it is hard to see from below. However, in this
 house in the number 21 of the Buen Suceso (literally, Good Event)
 street there are three frontispieces over the first floor
-balconies. In the one in the middle, by the side of a cherub that holds a
+balconies chock-full of imagery. In the one in the middle, by the side of a cherub that holds a
 parchment with what looks like a circle, we see all kind of building
 symbols: a mallet, a trove, a dented wheel, what could be a cornucopia
 but is actually a feather, and, yes, what could be a
@@ -131,11 +130,11 @@ discrete. But that is the whole essence of the movement, is it not?
 I have not been able to find other symbols anywhere else; either
 Solomonic columns, or Frigian caps, or triangles. There might be a
 reason for this: Freemasonry was very actively repressed during
-Franco's dictatorship in Granada, with masons arrested and shot just
+Franco's dictatorship in Granada, and everywhere else for that matter, with masons arrested and shot just
 for that reason. This does not imply that masonic symbols or houses
 with them were razed; in most cases they were not recognized as such,
 but maybe they simply disappeared after the home owners were exiled or
-killed. That is why one of the remaining masonic symbols come from way
+killed and their property confiscated. That is why one of the remaining masonic symbols come from way
 before that, from 1595:
 [a symbol in the cross in front of the Sacromonte monastery](http://www.heraldaria.com/phorum5/read.php?3,6883,6901). A
 legend inscribed in the cross references Solomon's temple and were
