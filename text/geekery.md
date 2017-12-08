@@ -1,8 +1,8 @@
 # Assorted geekery
 
-Geeks travel too. And when we arrive to some place we are, sometimes,
+Us geeks travel too. And when we arrive to some place we are, sometimes,
 less interested in watching old stones than in tech meetings, little
-museums with engineering feats, or science related places. 
+museums showing engineering feats, or science related places. 
 
 >I remember, for instance, seeing and playing a Theremin in a small
 >electricity museum in Barranco, Lima. That was the only time I have
@@ -13,12 +13,14 @@ museums with engineering feats, or science related places.
 >plane. 
 
 We have that in Granada, starting with the behemoth
-[Parque de las Ciencias](Parque de las Ciencias) or sciences museum, which is the subject
-of jokes for its constant expansion, filling now more than a park,
-which is what its name means in Spanish, a
+[Parque de las Ciencias](Parque de las Ciencias) or sciences museum,
+not exactly *little*, being the subject
+of jokes for its constant expansion. The different buildings thet
+compose the museum now fill now more than a park,
+which is what its name means in Spanish; in fact, it takes a
 whole block. You can very well spend the whole day there, or even a
 whole weekend, devoting
-half day in the temporal exhibitions area and then proceed to the rest: the
+half day to the temporal exhibitions area and then proceed to the rest: the
 aviary, planetary and many other things ending with *ary*. It is really a
 nice and family friendly place and a source of learning if you can just stand the yelling
 herds of kids that abound there. Also, since budget for these places is always kind of
@@ -372,8 +374,8 @@ The main hall has all kind of widgets: rockets, other engines, maybe
 some other temporary exhibitions, and, from there on, the Biology
 building, which lies to the right, has a rather creepy stuffed animals
 vitrine, and the geology departments all kind of rocks. There is
-nothing but people in the Maths area, and in the Chemistry light but
-pungent smells. 
+nothing but people in the Maths area; on the other hand, the Chemistry
+zone boasts light, but pungent smells. 
 
 If you go across the parking to the next building and ask nicely the
 concierges at the entrance, you
@@ -772,13 +774,13 @@ white square, for instance. You copy/paste it and you have got
 two. Then turn it around clockwise, and you will have two squares with
 perpendicular motifs. You can keep and turning it until you get bored,
 and then copy the whole thing and flip it around.
-Well, whatever you do it, you can do it in 17 different ways: that is
+Well, whatever you do to it, you can do it in 17 different ways: that is
 [Fedorov's theorem](https://en.wikipedia.org/wiki/Periodic_graph_%28geometry%29), which was proposed by, you guessed it, Fedorov
 in 1891.
 
 >It is actually known as Fedorov-Schoenflies, or even
 >Fedorov-Schoenflies-Bieberbach theorem. Actually the first two guys
->discovered it independently, because Fedorov did it first, but
+>discovered it independently, because Fedorov did it first but
 >published it only in Russian and did not have Twitter and Google
 >Translate for the world to know, so that other guy did it all over
 >again. Third one generalized it to more dimensions. But the Alhambra
@@ -824,7 +826,7 @@ itinerant workshops and shows created by the Republican government; he
 was introduced to them by Federico García Lorca.
 
 However, his geekery stems on his work on the machinery of the
-cinema. During the second world war, he
+cinema. During the Second World War, he
 [registered a patent](http://invenes.oepm.es/InvenesWeb/detalle?referencia=P0168257)
 for what would now be called binaural sound. He wanted to create an
 integral experience with moviegoing, and in fact, the wrapping sound
