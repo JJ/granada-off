@@ -15,7 +15,7 @@ museums showing engineering feats, or science related places.
 We have that in Granada, starting with the behemoth
 [Parque de las Ciencias](Parque de las Ciencias) or sciences museum,
 not exactly *little*, being the subject
-of jokes for its constant expansion. The different buildings thet
+of jokes for its constant expansion. The diverse buildings that
 compose the museum now fill now more than a park,
 which is what its name means in Spanish; in fact, it takes a
 whole block. You can very well spend the whole day there, or even a
