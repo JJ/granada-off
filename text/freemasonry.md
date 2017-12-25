@@ -313,7 +313,7 @@ Freemasons are still a discrete society and there is nothing you will
 be able to watch and see if you are looking for living and breathing
 freemasons here. But they have the word "freedom" in their name, and along the recent
 history of Granada, they have been associated with struggles for
-freedom allright. Freedom that should be your guide when visiting, when living,
+freedom alright. Freedom that should be your guide when visiting, when living,
 Granada. 
 
 
