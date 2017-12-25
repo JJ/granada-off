@@ -22,24 +22,36 @@ Jaén, a huge pomegranate greets the visitor.
 
 Thus, bollards in Granada share the caps with the [columns of the temple of Solomon](http://www.masonicdictionary.com/pomegranate.html) mentioned in the masonic literature. Pomegranates are a [symbol of fertility all over the world](http://www.themasonictrowel.com/Articles/Symbolism/comprehensive_files/short_symbolism/pomegranates.htm), and explained in the lectures for the second masonic degree, being a symbol for the mason himself, since it has got a tough skin but an indulgent interior, every seed a symbol for the masons and the whole pomegranate a symbol for the order, and many other different meanings.
 
-The pomegranate symbol is also in the coat of arms of Granada and,
-through it, in the Spanish one. It shares the pomegranate with
+The pomegranate symbol is also in the coat of arms of the kingdom of Granada and,
+through it, in
+the
+[Spanish one](https://en.wikipedia.org/wiki/Coat_of_arms_of_Spain). It
+looks like an afterthought, which in fact it was, down there in its lower part, crushed by
+the Navarran chains and the Aragonian bars, but it is there alright. 
+It shares the pomegranate with
 [Colombia, which was part of what was initially called Nueva Granada](http://aperiresecreta.blogspot.com.es/2015/06/colombianopoly-el-poder-de-la-masoneria.html)
-but where the symbol is also acknowledged as having a masonic origin,
+but where the symbol is actually acknowledged as having a masonic origin,
 with their first president, Francisco de Paula Santander, being
 himself a freemason.
 
 Identifying the seal of freemasonry every time we find a pomegranate
 in Granada would, however, take things a bit too far. First, because they all over the place: in rain gutters, in sewer hatches, in all kinds of company logos, even in stencils in walls. Second, because the symbol was
-already there when the Catholic Kings took Granada in the XV century,
-and, in fact, put a pomegranate in the coat of arms of Spain; if you
+already there when the Catholic Kings incorporated Granada to their
+kingdom in the XV century; if you
 think that makes the old guys remiss of freemasonry, you would be so
 very wrong. 
-We would have to look for it by itself, in a place which
-was not official or built officially, or in conjunction with other
+To make it out as a real symbol we would have to look for it by itself, in a place which
+was not official or officially built, or in conjunction with other freemason
 symbols. There is one, for instance, in the middle of the Antequeruela
-neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner, for no reason. Although it is actually in a *cornerstone*, which [freemasons lay out publicly](https://en.wikipedia.org/wiki/Cornerstone#Freemasonry). So one can imagine these guys all dressed up laying the cornerstone, and so as to drive the message home clearly, putting a discrete pomegranate, instead of a less discrete triangle or compass, on it. And this is not the only candidate: 
-Check it out also in Paseo de los Tristes number 63, with pomegranates in the cusps of a elongated pyramid, another masonic symbol.
+neighborhood, in the Calle Paredón Jesús de las Penas, up in a corner,
+for no reason. But it is actually sculpted in a *cornerstone*,
+which
+[freemasons lay out publicly](https://en.wikipedia.org/wiki/Cornerstone#Freemasonry). So
+one can imagine these guys all dressed up laying the cornerstone, and
+so as to drive the message home clearly, putting a discrete
+pomegranate, instead of a less discrete triangle or compass, on
+it. And this is not the only candidate:  
+Check it out also in Paseo de los Tristes number 63, with pomegranates in the cusps of an elongated pyramid, another masonic symbol.
 
 The symbology is quite clear, however, in
 [the Ladrón de Agua hotel](http://www.ladrondeagua.com/legacy/), a bit
@@ -57,33 +69,36 @@ pomegranate-in-the-cornerstone, we might have some doubt on whether
 this is actually related to freemasons at all, it is well known the
 masonic affiliation of the owner of the house, Nicolás Fajardo, and in fact,
 [the application for initiation in the Reforma nr. 75 Lodge](http://hemerotecadigital.bne.es/pdf.raw?query=parent%3A0003374779+type%3Apress%2Fpage&name=Bolet%C3%ADn+oficial+del+Gran+Oriente+Espa%C3%B1ol.+1-1-1890)
-is published in the bulletin number 13 of the Grande Oriente, dated January the
+is published in the bulletin number 13 of the Grande Oriente, which is
+kind of the higher office of things freemason, dated January the
 first, 1890. This lodge was apparently
 [an expensive one](https://books.google.es/books?id=jufWVxJrcqcC&pg=PA124&lpg=PA124&dq=logia+reforma+75&source=bl&ots=yleW56cyaI&sig=m0VMGJXnDubIvU_VprJVRERw_2c&hl=es&sa=X&ved=0ahUKEwjwvJeb75TKAhXG1RoKHc_dBesQ6AEIIDAA#v=onepage&q=logia%20reforma%2075&f=false)
 and thus reserved to persons of a certain economic level, which might
-or might not explain why this
-[lodge was one of the first to ask for admission of women, even a few years before that](http://gredos.usal.es/jspui/bitstream/10366/80189/1/La_integracion_de_las_mujeres_en_la_maso.pdf). That
+or might not explain why 
+[it was one of the first to ask for admission of women, even a few years before that](http://gredos.usal.es/jspui/bitstream/10366/80189/1/La_integracion_de_las_mujeres_en_la_maso.pdf). That
 lodge also included
 [Anselmo Arenas](http://www.aache.com/alcarrians/arenas_lopez.htm), a
- professor of Geography at the university of Granada whose teaching were
-suppressed because they clashed with the catholic doctrine. So all was
+ professor of Geography at the university of Granada whose teachings were
+suppressed because they clashed with the Catholic doctrine. So all was
 not good and well for the heterodoxy, and freemasons had good reasons to hide, or at
-least not be extremely open about their ideas. Although the house is
+least not be extremely open about their ideas. 
+
+Although the house is
 quite old, from the XVI century, it was bought by Nicolás in the
 1920s; he commissioned his own son, Nicolás Fajardo Vílchez, to carry
-them out and, in fact, they are a copy of older paintings found in the
+these paintings out and, in fact, they are a copy of older paintings found in the
 backyard of the 
 ["Casa del padre Eterno", or "Eternal father house", which belonged to the same family](http://nito-lamurga.blogspot.com.es/2013/07/la-casa-de-mitra-h-oy-traemos-la.html). This
 decoration is much older, from the XVI century, in the classic
 tradition which has nothing to do with the modernist fashion that used
 to be the rage in those days in Spain. This house still exists and is
-now a luxury hotel. Nothing remains of this original
+now a luxury hotel too. Nothing remains of this original
 fresco, which would have been nice, since popular tradition said that
 the representation of the Eternal Father was looking at a place where
 a treasure was buried.
 
 >The Eternal Father is now looking at the crowds that break open to let the touristic
->train pass. Which means that in this case veering off beaten track is just a metaphor for
+>train pass. Which means that in this case veering off the beaten track is just a metaphor for
 >looking at different things, or the same things in a different way,
 >because that particular  track has been beat to exhaustion.
 
@@ -91,7 +106,7 @@ This means that the only way to contemplate them is to look at the
 copy. Copy and paste saves the day, for once.
 
 You have to dig, and by digging I mean google, really hard to find
-more traces of the mason aesthetics. But it so happens that the
+more traces of the mason aesthetics in Granada. But it so happens that the
 University of Granada has got an expert in that kind of thing,
 [David Martín López](https://granada.academia.edu/DAVIDMARTINLOPEZ),
 who has published all kind of treatises on the topic, including a
@@ -106,18 +121,25 @@ y Vergés, himself a freemason, and also the author of the
 which forms the the South-West corner of the Gran Vía. This poor chap
 has a file 
 [in the special court for the repression of masonry and communism](http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&&txt_tipo_busqueda=dl&txt_busqueda=&txt_correo=S&txt_id_desc_ud=7374585),
-but it is unlikely that anything was done to him, since he was
-dead since 1909. 
+but it is unlikely that anything was done to him, since he died in
+1909.
+
+	> And this is something I personally discovered when digging a bit
+	> more into his life and work, something I did also when writing
+	> the first versions of the book. He died in a spa in Northern
+	> Spain on August 3, 1909, at least according to the obituary
+	> published in a newspaper in Granada. I still have to find out
+	> how he died, where he was buried, and what he was doing there. 
 
 
 There might be some symbols in that hotel or in the Hotel Victoria,
-which is still a hotel and was also designed by him, but it is hard to see from below. However, in this
+which still has the same function and was also designed by him, but it is hard to see from below. However, in this
 house in the number 21 of the Buen Suceso (literally, Good Event)
 street there are three frontispieces over the first floor
 balconies chock-full of imagery. In the one in the middle, by the side of a cherub that holds a
 parchment with what looks like a circle, we see all kind of building
 symbols: a mallet, a trove, a dented wheel, what could be a cornucopia
-but is actually a feather, and, yes, what could be a
+but is actually a feather, and, yes, what looks like a
 compass, or a triangle, or the symbol you find in the dollar
 bills. Most of
 them
@@ -158,8 +180,10 @@ Christians. To drive the message home, there are five fierce-looking
 warriors representing ancient heroes such as Hercules or Mercury and a
 sword with the inscription "The heart rules". The rest of the sentence
 is inscribed in the balcony and is related to the fact that they
-helped to repress the revolt of their former fellow Muslims in the
-Alpujarras. The square in the middle is a symbol of stability and the
+helped repress the revolt of their former fellow Muslims in the
+Alpujarras. 
+
+But there are more symbols: The square in the middle is a symbol of stability and the
 triangle, pointing at heaven, a symbol of the afterlife. The octagon,
 in fact, is similar to a circle. And circle, triangle and square
 together are a
@@ -170,8 +194,7 @@ all religions being one and the same, a message they tried to transmit
 also with the
 [lead "books" of the Sacromonte](https://en.wikipedia.org/wiki/Lead_Books_of_Sacromonte),
 a hoax with which they were apparently related. These books talked
-about the Arabs in Granada being the first Christians in Spain, and
-thus a inherent brotherhood between Muslims and Christians. It failed
+about the Arabs in Granada being the first Christians in Spain, implying an inherent brotherhood between Muslims and Christians. It failed
 to prove anything to anyone
 and Christians kept killing Muslims by the dozens in Spain while
 Muslims killed Christians by the dozens elsewhere. This lead books are
@@ -207,7 +230,7 @@ initiated, under the assumed name Homer. And he was not the only
 person associated with freemasonry here. [Mariana Pineda](https://es.wikipedia.org/wiki/Mariana_Pineda), the heroine
 that was killed during the reign of the much hated Ferdinand the VII,
 was accused of creating a republican flag when what she was
-actually doing was embroidering an emblem, or maybe an apron, for a masonic lodge with a
+actually doing was embroidering an emblem, or maybe an apron, for a masonic lodge, with a
 triangle and the words "Libertad, Ley, Igualdad", "Freedom, Law,
 Equality". The colors of the emblem correspond to the Knight of the
 Royal Axe, of Prince of Libanus, 22º degree in the Scottish Rite. In
@@ -217,13 +240,12 @@ like the Spanish republican flag, red, yellow and purple.
 
 However, at that time women were not allowed into lodges, so she was
 not a freemason herself. Her name was
-[adopted by the first woman to actually become freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html).
+[adopted by the first woman to actually become a freemason, Dolores Gallego](http://www.masoneriaengranada.es/2015/03/masonas-en-granada-125-anos-despues-la.html).
 
-It is still a discrete society and there is nothing you will
-be able to watch and see. It is worth the while to visit her monument,
+It is worth the while to visit Mariana Pineda's monument,
 in the middle of the square that bears her name. One of the panels of
 the pedestal bears the legend "Con el secreto inmortalizó el nombre",
-"With the secret immortalized the name", presumably referring to the
+"With the secret (she) immortalized the name", presumably referring to the
 secret society. The flag she puts her hand on is a reproduction of the
 actual standard, and it obviously bears the triangle and the visible
 words "Ley" and "Libertad".
@@ -231,7 +253,7 @@ words "Ley" and "Libertad".
 Nowadays,
 she lives on as the [name of one of the active lodges in Granada](http://www.masoneriaengranada.es/),
 which is, as most of them nowadays, open to all kinds of
-people. Two more lodges are active now:
+people. Two more lodges seem to be active now:
 [Conocimiento](http://www.logiaconocimiento158.com/regularidad.htm)
 and [Giner de los Ríos](http://www.logiaginerdelosrios.es/).
 
@@ -266,7 +288,8 @@ representing unfinished work.
 >[Alejandro Muñoz Miranda](http://arquitecturagranada.blogspot.com.es/2008/04/alejandro-muoz-miranda.html),
 >a young architect that has carried out
 >[many projects](http://www.alejandromunozmiranda.com/home.html), some
->of them in Granada. 
+>of them in Granada. This symbology is my own interpretation and he
+>did not answer the emails I sent to his study. 
 
 Following the axis of this avenue through the city center and past the
 Helicopter roundabout, you will end up in the city huge conference
@@ -286,9 +309,11 @@ me, although there is
 with 32 members in 2012.
 
 
-Freemasons have the word "freedom" in their name, and along the recent
-history of Granada, they have been associated with struggling for
-freedom. Freedom that should be your guide when visiting, when living,
+Freemasons are still a discrete society and there is nothing you will
+be able to watch and see if you are looking for living and breathing
+freemasons here. But they have the word "freedom" in their name, and along the recent
+history of Granada, they have been associated with struggles for
+freedom allright. Freedom that should be your guide when visiting, when living,
 Granada. 
 
 
