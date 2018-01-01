@@ -85,9 +85,18 @@ force base which is by the end of that same road. Apparently the air
 force did not have other helicopters to spare after the one above, so
 the city had to settle with this [toy and beautifully kitsch one](https://www.flickr.com/photos/atalaya/24486385857/in/dateposted/). This
 makes Granada the province with the most helicopters in roundabouts in
-the world. 
+the world.
+
+And to top it all, there is a roundabout devoted to... Twitter. It is
+[in Jun](https://magnet.xataka.com/why-so-serious/twitterboulevard-la-rotonda-homenaje-a-twitter-en-jun-podria-ser-peor-podria-ser-una-de-estas). You
+might have heard about the place and its mayor. I am saying that in
+the wrong order. You might have heard about its sempiternal mayor. One
+Twitter guy came for the inauguration. You might want to have a look
+at it and take a selfie if you are tired of so much contextually
+meaningful art. Or of you love roundabouts.
 
 Remember next time you see *something* in the middle of a roundabout
 in the suburbs of Granada. Do not ask What the heck is *that*? The
 answer is always *Art*.
 
+ 
