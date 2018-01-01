@@ -77,7 +77,15 @@ you can not beat the views.
 
 >Actually, that is fake. Not the helicopter. The squatter.
 
-We love helicopter roundabouts in Granada, actually. There is another [with a fake helicopter in Ogíjares](http://www.granadahoy.com/article/granada/2019928/vueltas/con/las/rotondas.html), close to Alhendín. And sculptures.
+We love helicopter roundabouts in Granada, actually. There is another
+[with a fake helicopter in Ogíjares](http://www.granadahoy.com/article/granada/2019928/vueltas/con/las/rotondas.html),
+close to Alhendín. And sculptures. It is right by the offramp, and the
+story goes that the city mayor promised a real helicopter from the air
+force base which is by the end of that same road. Apparently the air
+force did not have other helicopters to spare after the one above, so
+the city had to settle with this [toy and beautifully kitsch one](https://www.flickr.com/photos/atalaya/24486385857/in/dateposted/). This
+makes Granada the province with the most helicopters in roundabouts in
+the world. 
 
 Remember next time you see *something* in the middle of a roundabout
 in the suburbs of Granada. Do not ask What the heck is *that*? The
