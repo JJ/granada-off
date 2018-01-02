@@ -6,17 +6,18 @@ finding one way of street art or another in Granada; Granada does have
 the graffiti pneumonia and the street art flu. Is that a bad thing? Street art is not
 concentrated in a few blocks, or even a neighborhood. It is all over
 the place, it is evident and, well, it is in occasions a nuisance, so
-that is what the anonymous traveler called a *problem*.  But
-in many more it is simply sublime. Which is why we say, paraphrasing the famous rock
-and roll riff, that Granada has got the graffiti pneumonia and the street
-art flu.
+that is why the anonymous traveler called it a *problem*, and many
+locals concur. But
+in many more ways it is simply sublime. Which is why we paraphrase the famous rock
+and roll riff above, as in flu is not a great thing, but rock and roll
+is. Same as graffiti.
 
 A quick primer on street art is in order here. Street art is anything created with
 artistic intent outdoors, and take the term *outdoors* in its wider
 meaning that might very well include any space that is not private
 *and* inhabited.
 
->Private and inhabited, though, might be considered fair game for
+> Private and vacant, though, might be considered fair game for
 > street art. In fact,
 > [some authors make a distinction between private property and *anything else*](https://www.researchgate.net/publication/270703439_El_Graffiti_y_el_sistema_del_arte),
 > that is, places that clearly belong to someone and other *loci* that
@@ -24,7 +25,7 @@ meaning that might very well include any space that is not private
 > redefine aesthetically spaces that can be seen, and enjoyed, by
 > anyone. 
 
-So it goes from stickers to decorated walls
+So it goes from stickers on walls all the way through to decorated walls
 in a parking. *Graffiti* is a subset made mainly with paint, usually
 spray. This one also goes in many different shapes: stencils are
 repetitive and done usually with a cookie-cutter pattern, tags are
@@ -40,7 +41,10 @@ simply stickers, printed or painted name tags, you know, the ones with
 possible, from contextual art that leverages preexisting shapes and
 colors in the surface it is made to tiles stuck on a wall through
 sculptures made with found art or *yarns*, fabric used to wrap trees
-and traffic signals.
+and traffic signals. 
+
+Then there are some techniques that are used by writers. 
+** Continue here **
 
 One of the main things about Granada is that, not being a big city
 like London of New York, it is a showcase for all kinds or flavors of street
