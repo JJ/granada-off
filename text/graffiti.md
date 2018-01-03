@@ -43,10 +43,14 @@ colors in the surface it is made to tiles stuck on a wall through
 sculptures made with found art or *yarns*, fabric used to wrap trees
 and traffic signals. 
 
-Then there are some techniques that are used by writers. 
-** Continue here **
+Then there are some techniques that are used by writers, and you can
+find most of them in Granada. For instance, there is an amazing
+[anamorphic guitar](https://www.flickr.com/photos/atalaya/32686763214/in/dateposted/) impressed
+on a staircase, part of the Gata Cattana wall in the Carretera de
+Jaén. You can also find *bas-reliefs* in the shape of a breast planted
+by Intra La Rue during her visit to Granada. 
 
-One of the main things about Granada is that, not being a big city
+Because one of the main things about Granada is that, not being a big city
 like London of New York, it is a showcase for all kinds or flavors of street
 art. A short route through a couple of neighborhoods will be enough to
 find most types of street art. That indicates also a thriving and
@@ -297,13 +301,14 @@ showcase of urban decay, talk to the owner and ask for permission to
 do a beautiful piece, which you do. So this was, in fact,
 [authorized and even documented by the local daily, which provided some sprays](http://granadablogs.com/cableados/2014/01/12/1995-cuando-el-nino-de-las-pinturas-era-sex69/). 
 
-This piece is, in fact, beautiful, and the current instance includes Sex,
+This piece is, in fact, beautiful, and the current instance features Sex,
 Nake and many others, including Drew. But the part I like the most is
 more or less in the middle and uses the *trompe l'oeil* technique to
 simulate a chasm opening in the wall with a figure with elongated arms
-grabbing another graffiti to avoid falling. It was created by XNOS,
-[which has a few other pieces to his name](https://www.flickr.com/photos/bit-ramone/2436938878),
-but he is not so well known by this name, unlike the signatures to the right, Sex, [Rakis](http://pintandogranada.blogspot.com.es/2015/08/rakis.html) and
+grabbing another character to avoid falling. It was created by XNOS,
+a.k.a Pornostars, a crew
+[which has a few other pieces to their name](https://www.flickr.com/photos/bit-ramone/2436938878),
+but they are not so well known by this name, unlike the signatures to the right, Sex, [Rakis](http://pintandogranada.blogspot.com.es/2015/08/rakis.html) and
 even LJDA again are still there. [Rakis](https://myspace.com/rakisljda/photos) was born in Düsseldorf and was
 the one in charge of bringing sprays to the whole LJDA crew. He
 continues
