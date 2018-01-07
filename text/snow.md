@@ -1,14 +1,14 @@
 # Let it snow
 
 For the average Joe-living-in-Granada, snow is something that happens
-up there, in the mountains. You go there from time to time, maybe once
+up there, in the mountains. And you go "up there" from time to time, maybe once
 a year, maybe just when you realize your kid is seven year old and has
 never seen the snow, to slide down slopes using ripped plastic bags or
 trays or something equally dangerous. Sometimes you go just to lounge
 off in one of the incredibly expensive ski resort cafés of Sierra
 Nevada after parking your car in the incredibly expensive
 parking. With global warming, it is increasingly difficult to have
-natural snow even up there. That is why watching the weather forecast
+natural snow even up there, that is why watching the weather forecast
 is like an spectator sport down here. It is usually very monotonous:
 sunny, sunny, and then a bit more sun, with temperatures that might
 span 20 degrees in a single day because sun, but when in winter and
@@ -21,7 +21,7 @@ and then, see above re: temperature variation span, and even if it rains, it has
 to do so in the dead of night or at dawn to meet the low temperatures
 that produce snow.
 
->Today, in the dead of winter, we have a blue sky and a temperature of
+>When I'm writing this, in the dead of winter, we have a blue sky and a temperature of
 >10 degrees Celsius with daily maximum that will reach 15 degrees. The
 >difference with the minimum is only 11 degrees today, with difference
 >for tomorrow expected to be 14 degrees. 
@@ -32,7 +32,7 @@ Internet and, indeed, before the Internet was all over the place. The
 [FIS Alpine World Ski Championship 1995](https://en.wikipedia.org/wiki/FIS_Alpine_World_Ski_Championships_1996)
 was slated to take place, well, in 1995. However, it was an unusually
 dry and warm year; I remember it was one of the only years in my life
-when water was rationed and we could only use a few hours a day. It
+when water was rationed and we could only use it a few hours a day. It
 was the year I organized the European Conference on Artificial Life
 and my new car was stolen, so when I arrived home all frazzled and
 sweaty I still had to wait for a while until water sputtered out of
@@ -45,7 +45,8 @@ that took place in an even year. Only one in Spain, too.
 
 The organizers should have realized, much before that, that snow is
 not so close to the city as it used to be. In the old days, you needed
-not go so far away from Granada, which sits at 700 meters of altitude, and it was mined
+not go so far away from Granada, which is high enough, and it was
+mined, if that is the correct term,
 by people that took it down to the city for the well-off to cool their
 drinks and their pantries. The muleteers that took the snow down from
 the mountains were called *neveros*, or "snowers", and today there is
@@ -56,22 +57,25 @@ Nowadays this route is something that
 [you can do on a bike](http://josemerutass.blogspot.com.es/2007/01/camino-de-los-neveros-el-purche-los.html)
 in a few hours with 90% of the time going up and 10% going down; it
 would also be a 5 hour walk, more or less, 30 kilometers. But back
-them, the
+then, the
 [names of the milestones along the way are witness to a hardscrabble business](http://www.magrama.gob.es/es/red-parques-nacionales/nuestros-parques/sierra-nevada/Camino_de_los_neveros_tcm7-311798.pdf):
-Cuesta del Desmayo, "Fainting Slope"; Collado del Muerto, "Dead Man's
-Hillock"; Collado de la Víbora, "Viper Hillock". Along the way, you
-also find things like "Cerro Caparranas", which literally means "Frog
-Castration Hill", and "Cerro de las Grajas", "Hen-rooks hill". Well,
+*Cuesta del Desmayo*, "Fainting Slope"; *Collado del Muerto*, "Dead Man's
+Hillock"; *Collado de la Víbora*, "Viper Hillock". Along the way, you
+also find places with the colorful names *Cerro Caparranas*, which literally means "Frog
+Castration Hill", and *Cerro de las Grajas*, "Hen-rooks hill". Well,
 you probably need to have a bit of fun around so much mayhem and
 destruction.
 
 Maybe the hard path and possible work-related injuries was the reason
-why they traveled in [mule or donkey packs](https://www.youtube.com/watch?v=e-XBQMznOVQ). The snow was extracted
-from "neveros", which is also the name of more or less permanent snow
-hollows, packed in wicker baskets and covered with blankets. Then it
-was a long walk down to the city,
-[usually by night ](http://www.nevasport.com/nivalis/art/1927/El-oficio-de-nevero/). However,
-the most usual thing in Granada was that these working guys were
+why muleteers traveled
+in
+[mule or donkey packs](https://www.youtube.com/watch?v=e-XBQMznOVQ). *Neveros"
+was also the name of the places where they extracted snow from,
+meaning more or less permanent snow 
+hollows. The ice or snow extracted from there was packed in wicker
+baskets and covered with blankets, and then it
+was a long ride down to the city,
+[usually by night](http://www.nevasport.com/nivalis/art/1927/El-oficio-de-nevero/). The most usual thing in Granada was that these working guys were
 salaried workers. Snow trading, in an egregious exercise of what we
 call now gating the countryside, was a monopoly that was given to the
 best bid for a certain time. The person owning the trade usually had a
@@ -102,8 +106,8 @@ This route can be easily followed nowadays. It starts in a
 
 Be aware that, as the instructions say, *there is no water along the
 way*. One can imagine the snowmen drinking from their own medicine. Or
-having a hard time on the way up if they forgot the water jugs and
-imagining names for the places they were going through. 
+having a hard time on the way up if they forgot the water jugs and then
+imagining names for the places they were going through just out of thirst. 
 
 The end of the snowmen arrived in 1920, when electricity allowed the
 creation of ice factories, the first one in 1922. Although after some
@@ -118,7 +122,7 @@ only the road to Sierra Nevada is one of the highest in Europe, it is
 also a few hours' drive away from the seaside, where temperatures
 might be 30 degrees higher, not to mention the difference of
 pressure. That is why it is quite usual to find on the road leading to
-the airport and up in the Sierra cars with everything but the license
+the airport, up in the Sierra, and some times in the city itself, cars with everything but the license
 plates and some windows covered with a black-and-white canvas that
 sometimes looks like camo and some other times like a psychedelic 60's
 dress. These tests
@@ -135,13 +139,24 @@ I hope that these curious car spottings are not lost, but it is impossible to kn
 snow in the streets of Granada will last. Nowadays it
 is something that happens rarely. Once every few years. It happened
 the day before I wrote this, there are some spots the day I am
-correcting it, and will probably not happen for a few more years. But when
+correcting it, and will probably not happen for a few more years. 
+
+> In fact, it has happened again on the 6th of January of 2018, when
+> I'm correcting this for a new edition. Present tense in books has a
+> nice elastic nature, which I love. 
+
+But when
 it does  it is all look at that roof with snow, loot at that car with
 snow, oh, it is stopped snowing, see you in half a dozen years. 
 
 Anyway, when it happens, there are many ways of enjoying the snow
-which you can only do in Granada: Walk up the slippery slopes in the Albayzín and fall down one, or several, times; a few days after, when snow melts, realize there is an actual river going through Granada and
-  that it was not a parking lot with a somewhat big puddle, take pictures of the Alhambra, which is red, with a bit of pink of top, walk around the place in your snow attire that you could show off only when you
+which you can only do in Granada: Walk up the slippery slopes in the
+Albayzín and fall down one, or several, times; a few days after, when
+snow melts, realize there is an actual river going through Granada and 
+  that it was not a parking lot with a somewhat big puddle; take
+  pictures of the Alhambra, which is red, with a bit of pink of top;
+  walk around the place in your snow attire that you could show off
+  only when you 
   took your kid to meet the snow a few years prior.
 
 By the time you read this, there might not be any glaciers in Sierra
