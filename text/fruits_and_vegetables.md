@@ -2,7 +2,7 @@
 
 One of the things that will draw your attention in Granada is the
 profusion of green matter in the streets. There are not only big boulevards
-or avenues lined with trees, you can also see them in the Albayzín if
+or avenues lined with trees, although not as many as would be desirable, you can also see them in the Albayzín if
 you watch it from above using Google
 maps and also in smallish, single-lane, streets. They grow on the
 gardens of the cármenes and by the swimming pools of the suburban condos. They
@@ -10,7 +10,7 @@ are, simply put, everywhere.
 
 But they are not only an ornament or are there help us breathe, which
 in fact they do. They also bear many kind of fruits, drawing the attention of the person taking the
-promenade, by color or by abundance, mainly during the time that
+promenade, by color, abundance, or presence in the floor, mainly during the time that
 happens, spring or autumn, when otherwise plain trees all of a sudden
 appear to be something else, a promise of abundance with their
 branches laden with golden orbs, right there for you to watch, maybe
@@ -98,4 +98,45 @@ and other insects. Anyway, walk around the Albayzín or El Barranco del
 Abogado and you might gather enough lemons for your very own locally
 sourced lemonade.
 
-Both are also good places for prickly pears, but the main places are el Barranco and the Sacromonte.
+Both are also good places for prickly pears, but the main places are
+el Barranco and the Sacromonte. I have tasted prickly pears in Sicily,
+where they have an excellent sherbet, and in Madeira, where they make
+a nice fruit salad. In fact, I have seen prickly pears for sale in
+boxes that state they Sicilian origin. They can be, in fact, bought
+here usually in an informal setting: its pricks taken away, in a
+plastic bucket, selling from a sidewalk. To tell you the truth, I have
+never bought them there and it's been a long time since I have seen
+them. So I guess it's back to see them rotting in the slopes of the
+hills surrounding Granada, or have them as a source of C Vitamin for
+all kind of critters.
+
+Same happens to pomegranates. There are not so many as oranges, but in
+fact there are quite a few here and there. There is one just outside
+the [CS school](https://etsiit.ugr.es), and several in the Rotary
+roundabout in front of the conference center. The leather-like fruit
+rips open in fall to reveal the red pips inside, turning black by the
+moment. Unlike oranges, you can pretty safely consume these ones; they
+are tasty, sweet, and usually can be reached by hand. Lots of them in
+the Ruta del Colesterol, also. And you can buy them in fruit shops,
+although they are probably not from around here; some local bars and
+restaurants use them in salads, and, at least in one place, mixed with
+*migas*, fried bread crumbs usually accompanied with sausage and
+bacon. Just imagine that with pomegranate pips. Delicious. The city
+hall
+[offers a guide of where you can find the tree](https://www.granada.org/inet/warboles.nsf/b923413206d1d319c1256e580031f387/70145fa89fdf85fdc1256e35007b9cd7!OpenDocument),
+just in case it's time to harvest and you can cook your very own salad
+or migas. 
+
+There is a whole
+list
+[of trees and vegetables](https://www.granada.org/inet/warboles.nsf/xcomun) which
+you can use. Ever heard about
+the [crape myrtle](https://en.wikipedia.org/wiki/Lagerstroemia_indica)
+we have that in Granada, along with many other species. And there are
+lots of them in
+the
+[botanic garden that belongs to the university](https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_de_la_Universidad_de_Granada). Where
+you can also check out the gates built by Juan Monserrat Vergés and
+have a coffee alfresco, because the Law school cafeteria opens to it. 
+
+
