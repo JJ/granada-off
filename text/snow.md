@@ -147,7 +147,11 @@ correcting it, and will probably not happen for a few more years.
 
 But when
 it does  it is all look at that roof with snow, loot at that car with
-snow, oh, it is stopped snowing, see you in half a dozen years. 
+snow, oh, it is stopped snowing, see you in half a dozen years. And,
+of course, take gazillions of
+pictures. [Graphext, a social media analysis company, found out that during the last snow pictures geolocated to Granada were uploaded in twice the usual amount](https://twitter.com/graphext/status/950073841891643392). Granada,
+when it snows, is twice as beautiful, and it is something you want to
+remember and share. 
 
 Anyway, when it happens, there are many ways of enjoying the snow
 which you can only do in Granada: Walk up the slippery slopes in the
