@@ -203,7 +203,12 @@ gives it 2.2/10](https://www.imdb.com/title/tt0107683/). If ghosts
 haunt the mansions where they did their bad deeds, movie theaters are
 haunted by the characters of bad movies, and they are condemned to
 watch them over and over again. Without any popcorn to help them
-through.
+through. This one closed in living memory due to the onslaugt of
+bigger, and better, multiplexes all around the
+city. [2014 was the date](http://granadaimedia.com/el-ultimo-fin-de-semana-del-multicines-centro/),
+and if you pass by you might be able to still see the last movies that
+were shown there. What will happen in this place? Unlike actual, built
+things, we might really see it rebuilt, most probably as a Starbucks.
 
 
 
