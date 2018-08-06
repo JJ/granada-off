@@ -177,7 +177,7 @@ the Albayzín, the Dar-al-Horra palace, only recently opened, and, of
 course, off the Albayzín or looking down the hill to the other side,  the haunted apartment blocks that dot the the outskirts and
 suburbs of the city and that are a relic of the real estate
 bubble. Places you will be able to watch from outside, but never get
-in, specially after dark. Adding to their mystery. 
+in, specially after dark. Adding to their mystery.
 
 Those haunted, half built houses, also left another haunted place: a
 [merry go-round](https://www.ideal.es/granada/provincia-granada/noria-olvidada-20180806131826-ntvo.html) that
@@ -189,6 +189,22 @@ might imagine, watching it, that we are in a permanent state of
 fair. That is not the case. But we are in a permanent state of
 haunting, even of things, like merry go-rounds, that are not haunted
 anywhere else.
+
+There are places which I have actually visited while they were still
+open. [Multicines centro](https://www.ahoragranada.com/noticia/granada-se-ha-convertido-en-un-cementerio-de-edificios-fantasmas/) was
+the first cineplex, and I have spent many an evening
+watching movies, in the eighties, there. It was probably here where I
+was exposed to masterpieces such as Die Hard or, and I remember this
+quite
+clearly,
+[Night Train to Venice](https://en.wikipedia.org/wiki/Night_Train_to_Venice),
+one of the worst movies I've ever had the bad luck to watch. [IMDB
+gives it 2.2/10](https://www.imdb.com/title/tt0107683/). If ghosts
+haunt the mansions where they did their bad deeds, movie theaters are
+haunted by the characters of bad movies, and they are condemned to
+watch them over and over again. Without any popcorn to help them
+through.
+
 
 
 
