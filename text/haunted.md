@@ -183,23 +183,21 @@ Those haunted, half built houses, also left another haunted place: a
 [merry go-round](https://www.ideal.es/granada/provincia-granada/noria-olvidada-20180806131826-ntvo.html) that
 was used as a publicity gimmick by a real estate company and that has
 stayed there, in the same way, for 30 years. You can see pretty well
-from the road to Murcia in either direction. [Check it out here, in
-Google Maps](https://www.google.com/maps/@37.2433833,-3.647345,3a,75y,20.4h,102.72t/data=!3m6!1e1!3m4!1sSgLfp6UxE0P56mO5ub6OVg!2e0!7i13312!8i6656). You
+from the road to Murcia in either direction. [Check it out here, in Google Maps](https://www.google.com/maps/@37.2433833,-3.647345,3a,75y,20.4h,102.72t/data=!3m6!1e1!3m4!1sSgLfp6UxE0P56mO5ub6OVg!2e0!7i13312!8i6656). You
 might imagine, watching it, that we are in a permanent state of
 fair. That is not the case. But we are in a permanent state of
 haunting, even of things, like merry go-rounds, that are not haunted
 anywhere else.
 
 There are places which I have actually visited while they were still
-open. [Multicines centro](https://www.ahoragranada.com/noticia/granada-se-ha-convertido-en-un-cementerio-de-edificios-fantasmas/) was
+open. [Multicines Centro](https://www.ahoragranada.com/noticia/granada-se-ha-convertido-en-un-cementerio-de-edificios-fantasmas/) was
 the first cineplex, and I have spent many an evening
 watching movies, in the eighties, there. It was probably here where I
 was exposed to masterpieces such as Die Hard or, and I remember this
 quite
 clearly,
 [Night Train to Venice](https://en.wikipedia.org/wiki/Night_Train_to_Venice),
-one of the worst movies I've ever had the bad luck to watch. [IMDB
-gives it 2.2/10](https://www.imdb.com/title/tt0107683/). If ghosts
+one of the worst movies I've ever had the bad luck to watch. [IMDB gives it 2.2/10](https://www.imdb.com/title/tt0107683/). If ghosts
 haunt the mansions where they did their bad deeds, movie theaters are
 haunted by the characters of bad movies, and they are condemned to
 watch them over and over again. Without any popcorn to help them
