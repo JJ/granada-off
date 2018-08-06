@@ -201,7 +201,7 @@ one of the worst movies I've ever had the bad luck to watch. [IMDB gives it 2.2/
 haunt the mansions where they did their bad deeds, movie theaters are
 haunted by the characters of bad movies, and they are condemned to
 watch them over and over again. Without any popcorn to help them
-through. This one closed in living memory due to the onslaugt of
+through. This one closed in living memory due to the onslaught of
 bigger, and better, multiplexes all around the
 city. [2014 was the date](http://granadaimedia.com/el-ultimo-fin-de-semana-del-multicines-centro/),
 and if you pass by you might be able to still see the last movies that
