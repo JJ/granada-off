@@ -525,11 +525,11 @@ peripherals, including a hand scanner that belonged to me, to chips
 that were designed from scratch in our very own department. Outside a
 few paper tags that are usually associated to donations, they are
 neither catalogued, nor labeled, nor acknowledged. We do not even know
-if it works or not, and it is closer to a storage closet than to a
+if what is there works or not; the display is closer to a storage closet than to a
 real museum. However, maybe some time from now, maybe even by the time
 you read this, someone with an interest in retro computing will use it
 for a master's degree project or a PhD. Or just out of spite, to give
-it a big of dignity. However, if you like nondescript things with lots
+it a big of dignity. However, if you like nondescript boards with lots
 of chips in it, this is the place to go.
 
 >The corridor also holds posters of our many achievements. Find the
@@ -541,7 +541,9 @@ might feel like visiting the biggest
 data center in Andalucía, the
 [Cloud Center Andalucía](http://cca.trevenque.es/). 
  
->Incidentally, you will go past one of the establishments we talked about in the chapter on whorehouses, the Don Pepe. None are too far, so using a pit stop as an excuse to be there is not an option.
+>Incidentally, you will go past one of the establishments we talked
+>about in the chapter on whorehouses, the Don Pepe. None are too far,
+>so using a pit stop as an excuse to be there is not an option. 
 
 You will not be able to see anything from outside, other than the
 ditch that connects it to the railway, a few meters away, where the
@@ -553,7 +555,9 @@ the firefighting measures, and the hum of twenty-first century
 computing all around you. Which is something all geeks love and
 crave. 
 
->Visits are only available under request, and then only for a good reason and in a group. So you might want to gather at least half a dozen friends to do it, and request it well in advance. 
+>Visits are only available under request, and then only for a good
+>reason and in a group. So you might want to gather at least half a
+>dozen friends to do it, and request it well in advance. 
 
 Once you are on a ride, double back and take the freeway around
 Granada in the Southern direction until you arrive to the "Armilla"

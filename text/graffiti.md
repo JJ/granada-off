@@ -76,19 +76,19 @@ I know off, although it could obviously be underground and I could be
 none the wiser about it.
 
 So it is difficult to say where to start, but since this is about
-going off the beaten track, ride the SN3 to the end of the line and
+going off the beaten track, ride bus number 9 to the end of the line and
 start from there.
 
 >You will be close to the Faculty of Fine Arts and the Computer
 >Science and Telecommunications school. I talk about them on the
->chapters on the university of Granada and the  one on geek
+>chapters on the university of Granada and the one on geek
 >stuff.
 
 As soon as you step down from the bus in its last stop, maybe with
 some people who have some business in the Diputación offices or, less
 likely, attend the private college across the street,
 
->Because, you know, people who attend private colleges do not ride
+>Because, you know, people who attend private business colleges do not ride
 >buses, they ride daddy's BMW.
 
 you will see a parking lot that
@@ -106,7 +106,7 @@ also an illustrator, or
 also some pieces signed LJDA, *Los Jinetes del Apocalipsis*, the
 Apocalipsis riders the first
 collective created in the 90s and who are, still, active in some
-special occasions, mainly jams and other street art meetings. 
+special occasions, mainly jams and other street art meetings.
 
 You will have a good idea of what to expect everywhere else in the
 city, but you will get a better one if you proceed to the Faculty of
@@ -152,20 +152,23 @@ about this area: many graffiti writers cannot be found anywhere else
 in the city, or maybe in the world. Or, if you find them, they will
 have evolved to something different, probably better.
 
-Jump back again into the SN3 and follow it through to almost the other
-end of its trip, to the Carretera de la Sierra. This street, which we
-mentioned in the chapter that talks about water because it was the way
+Jump back again into the 9 and follow it through to the closest stop
+to the Carretera de la Sierra, or transfer to bus #33 in one of the
+stops they share and ride this one to the end of Carretera de la
+Sierra. This street, which we 
+mentioned in the chapter that talks about water because it was one of
+the paths 
 water merchants took from the Sierra, is visited by tourists only when
-they walk from the hotel that sits at its end. It is a unremarkable,
+they walk from the hotel that sits at its end. It is a (mostly) unremarkable,
 lived in street, which is interesting for many reasons, including the
-graffiti in its left hand side. If you leave the SN3 bus at the
+graffiti in its left hand side. If you leave the number 33 bus at the
 beginning of the street, in the first stop,
 
 >And, when you do, look behind your back to check out the remarkable
 >steam engine manufactured by Fives Lille. If you are curious about it
 >jump to the geek&nerds chapter of this book. Besides, the stop is
 >situated exactly by the original garages that housed the
->Sierra trams. 
+>Sierra trams, now occupied by a residential building.
 
 where, when construction was taking place in the early 2000s, some
 incredible graffiti were posted, you walk down the street and you will
@@ -176,14 +179,13 @@ remain within the city.
 >In front of the gas station there is a ghost twin, still with the
 >prices posted in a paper, frozen in a place circa 2000 or so.
 
-Keep walking until you arrive to a
->[slope covered by concrete](https://www.google.es/maps/@37.1654858,-3.5817688,3a,75y,34.49h,76.65t/data=!3m6!1e1!3m4!1svoXKrPEHjIqkb99PcG1MlA!2e0!7i13312!8i6656?hl=es). This
+Keep walking until you arrive to a [slope covered by concrete](https://www.google.es/maps/@37.1654858,-3.5817688,3a,75y,34.49h,76.65t/data=!3m6!1e1!3m4!1svoXKrPEHjIqkb99PcG1MlA!2e0!7i13312!8i6656?hl=es). This
 slope contains one of the most remarkable pieces of site-specific art
 in Granada. Right below a billboard, there is a enigmatic face painted
 on the concrete protuberances, taking advantage of the *nose* there
 and some cavities for the eyes; a bit further down there is a pregnant
 woman and a man, side by side, and midway up and to the end of the
-place, a maybe-dog or maybe-sheep is using a head-shaped part of the
+place, a maybe-dog or maybe-sheep is created from head-shaped part of the
 slope.  By its side and on an
 [abandoned hotel](https://www.google.es/maps/@37.1654054,-3.5814663,3a,75y,19.43h,87.17t/data=!3m6!1e1!3m4!1shsxZeKZk5Hy59ZbYa2GAqg!2e0!7i13312!8i6656?hl=es)
 there is a nice graffiti of a girl that blows a dandelion whose fuzz
