@@ -393,12 +393,12 @@ Generals, for some time, and it still is the site of
 one of the data centers that power the university research and
 development. 
 
-If you want to see one of those computers, you will have to catch the
-SN3 bus to the [ETSIIT](http://etsiit.ugr.es), a geek place if there
+If you want to see one of those computers, you will have to catch 
+[bus line 9](https://es.wikipedia.org/wiki/L%C3%ADnea_9_(autobuses_urbanos_de_Granada)) to the [ETSIIT](http://etsiit.ugr.es), a geek place if there
 is one in Granada. You cannot miss the stop: where the nerd-looking
 guys get down from the bus, that is the place.
 
->That bus stop is by a park, just in case there is a nerd glut the
+>That bus stop is by a park, just in case there is a sudden nerd glut the
 >particular moment you ride the bus and they stop somewhere else. 
 
 The main hall is graced by a big [IBM System/3 mainframe](https://en.wikipedia.org/wiki/IBM_System/3), together
@@ -408,37 +408,40 @@ computing company in Granada called *Centro de Cálculo de Granada* and
 eventually
 [Indesa, which went belly up](http://www.einforma.com/servlet/app/prod/DATOS_DE/EMPRESA/INDESA-INFORMATICA-SA-C_QTE4MDEzMzkx_de-GRANADA.html)
 sometime in the early nineties, when the web was coming up and when
-computing was something you did in computing shops, not at home or in
+computing stopped being something you did in computing shops, not at home or in
 a bracelet. That is, you needed to have your payroll computed, take it
 there. Or if you are an architect and needed your structures checked
-so that the building does not fall off. The name computing services
+so that the building does not fall off. The name computing services shops
 received back then, "Computing centre", is a witness to this kind of
-thing. You took your computing jobs to the centre, and actually when I
+thing. You physically took your computing jobs to the centre in the
+shape of punchcards or, after that, a floppy disk. Actually when I
 was doing my degree you had to submit your program to a central queue
 and you got the result in a continuous paper listing in drawers once
 it was finished. Computing literally meant walking back and
 forth, which I guess was good for us. Now we have gone full circle,
 and it is the computer you have in your pocket the one that makes you
-walk by counting your steps and complaining if you do not make your 10K
-daily limit.
+walk by counting your steps and complaining if you do not make your
+10K steps daily minimum.
 
 The
 history of this company, along with the whole history of computing in
-Granada, has yet to be written. Which is a pity, because it probably
-will never be. Google does not tell much about it, and these pioneers
-of computing in the city will be all but forgotten in a generation.
+Granada, has yet to be written. Which is a pity, because real people
+who will remember it are going off line, and it will probably
+will never be written. Google does not tell much about it, and these pioneers
+of computing in the city will be all but forgotten in a
+generation. They already are.
 
-However, that is not the case for the aforementioned computer: the Wikipedia says that this
+However, that is not the case for the aforementioned computer model: the Wikipedia says that this
 particular model was introduced in 1969 and discontinued in 1985. I can assume it has been
 gutted for parts, since
-[processors and other parts can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
+[processors and other components can fetch several dozens euros in eBay](http://www.ebay.es/itm/IBM-5203-04N6698-500MHz-4-Way-RS64-III-SMP-4MB-L2-Proc-for-7026-M80-pSeries-/271294722087).
 With exactly the same height and color-coordinated, you would say it
 is part of the same thing, and I am not sure it was not, there is a
-Digital RA82 disk drive. This disk had all of 622Megabytes, that is,
+[Digital RA82 disk drive](https://www.ebay.com/p/Digital-Equipment-Corp-RA-82-HDA-70-21170-01/1633255818?_trksid=p2047675.l2644). This disk holds all of 622 Megabytes, that is,
 it could store 150 songs or so, much less than your current phone. And
 it could set you back, well, a lot. You can still buy it for several hundred
 dollars in, where else, eBay. I do not know if it works today, but
-they would make a great prop for a practical joke for freshmen, if
+they would make a great prop for a practical joke for freshmen and -women, if
 only we could rig an Arduino or some other thing and make its light
 blink and do a bit of beeping and booping. The *native* disk, however,
 was the IBM 5444, which is there, together with the IBM 5203 Line
@@ -459,15 +462,15 @@ programmers might not be exactly increasing.
 Despite this, you have to hand it to these old computers: they had a quality that new computers do not
 have. They are big and they can be used to support other things.
 
->Lots of possible decorations were lost when *big head* monitors gave
->way to new, flat ones. Where did the flowerpots go?
+>Lots of possible screen-top decorations were lost when *big head* monitors gave
+>way to new, flat ones. Where did the flowerpots with cactuses go?
 
 That
-is way it has eventually accreted other computer and computer-like
+is why it has eventually accreted other computer and computer-like
 things. To the left hand side something that looks like, and probably
 is, a telephone manual switchboard built by Standard Eléctrica, a
 Spanish subsidiary to AT&T. Beautifully encased in wood,
-it could be mistaken by a dormitory cabinet. A
+it could be mistaken for a dormitory cabinet. A
 [Datapoint 1500](https://en.wikipedia.org/wiki/Datapoint) "terminal"
 is supported by a set of Shugart disk drives, that seem to be an
 integral part of it but they are not, although they were sold together, only they are decorated with the
