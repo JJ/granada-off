@@ -37,8 +37,8 @@ ever reach that. After all, there's a bar or a café almost in every
 corner already, and they serve cheap, if not always good, coffee. So
 that might prove to be a hard nut to crack.
 
-Some other memes, like the thai massage which I have found in
-Budapest, Vienna, and everywhere, hasn't yet made it to Granada. And
+Some other memes, like the Thai massage which I have found in
+Budapest, Vienna, and everywhere, has not yet made it to Granada. And
 that I don't understand. Is Granada less than those European capitals?
 Or maybe it's considered more culturally appropriate to open a hammam?
 We have a bunch of those, and of course simple spas.
@@ -62,7 +62,7 @@ outside the scope of this book. We don't have that many fountains, and
 those that we have are not at the proper height to watch your coin
 sink and lay there, by the Mexican peso and the Moroccan
 dirham. That's a matter that will have to be investigated by the
-tourism comission. No city is a proper tourist city without a
+tourism commission. No city is a proper tourist city without a
 coin-tossing fountain.
 
 Some other memes are circumscribed to a single country. No matter
